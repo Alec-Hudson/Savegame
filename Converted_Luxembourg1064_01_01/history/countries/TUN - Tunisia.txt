@@ -1,0 +1,27 @@
+# Tunis
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2454
+1427.4.8 = {
+	monarch = {
+		name = "Bianca"
+		birth_date = 1382.3.27
+		dynasty = "Karling"
+		female = yes
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 2454
+	add_treasury = 18
+	add_prestige = 501
+}

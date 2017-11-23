@@ -1,0 +1,39 @@
+# Araouane
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1128
+1402.3.25 = {
+	monarch = {
+		name = "Abdul-Hasan"
+		birth_date = 1395.5.1
+		dynasty = "Umayyad"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = cruel_personality
+}
+1417.7.11 = {
+	heir = {
+		name = "Raf"
+		monarch_name = "Raf"
+		dynasty = "Umayyad"
+		birth_date = 1417.7.11
+		death_date = 1497.7.11
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1128
+	add_treasury = 18
+	add_prestige = 387
+}

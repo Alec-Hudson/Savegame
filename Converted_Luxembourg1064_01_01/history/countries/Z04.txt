@@ -1,0 +1,39 @@
+# Tulunid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 361
+1392.12.23 = {
+	monarch = {
+		name = "Agathos II"
+		birth_date = 1382.11.24
+		dynasty = "Tulunid"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1405.4.1 = {
+	heir = {
+		name = "Abisalom"
+		monarch_name = "Abisalom"
+		dynasty = "Tulunid"
+		birth_date = 1405.4.1
+		death_date = 1485.4.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 361
+	add_treasury = -68
+	add_prestige = 683
+}

@@ -1,0 +1,25 @@
+# Kuyavia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 1859
+1441.3.10 = {
+	monarch = {
+		name = "Svitrigaila"
+		birth_date = 1403.5.7
+		dynasty = "Gediminaitis"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 1859
+	add_treasury = 10
+	add_prestige = 84
+}

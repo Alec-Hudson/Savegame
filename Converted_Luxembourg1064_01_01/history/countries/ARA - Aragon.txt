@@ -1,0 +1,25 @@
+# Aragon
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2990
+1439.9.5 = {
+	monarch = {
+		name = "Muyahid"
+		birth_date = 1391.8.1
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2990
+	add_treasury = 9
+	add_prestige = 398
+}

@@ -1,0 +1,25 @@
+# Bryansk
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1945
+1438.8.22 = {
+	monarch = {
+		name = "Afanasiy"
+		birth_date = 1413.11.21
+		dynasty = "Seversky"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 1945
+	add_treasury = 16
+	add_prestige = 157
+}

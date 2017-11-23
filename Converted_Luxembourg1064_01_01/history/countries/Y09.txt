@@ -1,0 +1,36 @@
+# Lambakanna
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sinhala
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 572
+1442.4.24 = {
+	monarch = {
+		name = "Senarat"
+		birth_date = 1418.3.10
+		dynasty = "Lambakanna"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Sobika"
+		monarch_name = "Sobika"
+		dynasty = "Lambakanna"
+		birth_date = 1423.5.1
+		death_date = 1503.5.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 572
+	add_treasury = 40
+	add_prestige = 144
+}

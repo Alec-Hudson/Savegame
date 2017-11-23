@@ -1,0 +1,39 @@
+# Pala
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 558
+1429.11.24 = {
+	monarch = {
+		name = "Ghosha"
+		birth_date = 1415.5.17
+		dynasty = "Pala"
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1441.10.26 = {
+	heir = {
+		name = "Pratapnarayan"
+		monarch_name = "Pratapnarayan"
+		dynasty = "Pala"
+		birth_date = 1441.10.26
+		death_date = 1521.10.26
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 558
+	add_treasury = 21
+	add_prestige = 274
+}

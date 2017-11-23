@@ -1,0 +1,39 @@
+# Alstahaugid
+government = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 219
+1432.7.15 = {
+	monarch = {
+		name = "Mundir II"
+		birth_date = 1411.11.1
+		dynasty = "Alstahaugid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1437.6.7 = {
+	heir = {
+		name = "Ali"
+		monarch_name = "Ali II"
+		dynasty = "Alstahaugid"
+		birth_date = 1437.6.7
+		death_date = 1517.6.7
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 219
+	add_treasury = 35
+	add_prestige = 169
+}

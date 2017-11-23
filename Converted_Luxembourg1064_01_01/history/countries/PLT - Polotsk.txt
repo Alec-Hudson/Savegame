@@ -1,0 +1,25 @@
+# Polotsk
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = animism
+clear_scripted_personalities = yes
+capital = 275
+1442.12.7 = {
+	monarch = {
+		name = "Yelisey"
+		birth_date = 1399.1.1
+		dynasty = "Kryvich"
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 275
+	add_treasury = 3
+	add_prestige = 134
+}

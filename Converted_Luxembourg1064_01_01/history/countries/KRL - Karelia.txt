@@ -1,0 +1,27 @@
+# Karelia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = animism
+clear_scripted_personalities = yes
+capital = 31
+1412.11.14 = {
+	monarch = {
+		name = "Tuovi"
+		birth_date = 1388.10.1
+		dynasty = "Karjalainen"
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 31
+	add_treasury = 0
+	add_prestige = 146
+}

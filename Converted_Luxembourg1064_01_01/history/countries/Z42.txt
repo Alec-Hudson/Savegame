@@ -1,0 +1,25 @@
+# Ancona
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 119
+1439.11.10 = {
+	monarch = {
+		name = "Vincentello"
+		birth_date = 1419.11.7
+		dynasty = "Guideschi"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 119
+	add_treasury = 16
+	add_prestige = 81
+}

@@ -1,0 +1,36 @@
+# Georgia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1856
+1442.1.7 = {
+	monarch = {
+		name = "Mamia"
+		birth_date = 1406.8.17
+		dynasty = "Bagrationi"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Bagrat"
+		monarch_name = "Bagrat III"
+		dynasty = "Bagrationi"
+		birth_date = 1435.11.13
+		death_date = 1515.11.13
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 1856
+	add_treasury = 14
+	add_prestige = 199
+}

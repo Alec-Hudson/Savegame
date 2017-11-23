@@ -1,0 +1,26 @@
+# Zuhrid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = visigothic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 333
+1404.6.8 = {
+	monarch = {
+		name = "Abdul-Hakam"
+		birth_date = 1394.12.1
+		dynasty = "Zuhrid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 333
+	add_treasury = 36
+	add_prestige = 67
+}

@@ -1,0 +1,260 @@
+# Finnmark
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 200 80 30 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Sviatoslav" "Viacheslav" "Praxida" "Ausala" "Agafya" "Vasilisa" "Darya" "Vyshata" "Fevronia" "Niklas" 
+	"Dobroslava" "Afanasiy" "Feodor" "Rostislav" "Sviatoslava" "Helena" "Praskovya" "Vseslav" "Vladislav" "Yevdokia" 
+	"Þordr" "Rycheza" "Nikita" "Stanislav" "Totil" "Volodar" "Bengt" "Ylva" "Fedot" "Verkhoslava" 
+	"Liudmila" "Yaropolk" "Xenia" "Dobronega" "Falki" "Yaroslav" "Mielitty" "Szczesny" "Yaroslava" "Anastasia" 
+	"Feodora" "Yemelyan" "Trifon" "Koz'ma" "Kirill" "Zvenislava" "Iziaslav" "Izbygnev" "Ingvar" "Predslava" 
+	"Veleslava" "Tatyana" "Varvara" "Kol" "Agnieszka" "Vasilko" "Zabava" "Rogneda" "Alexei" "Wizlaw" 
+	"Gleb" "Prebrana" "Sbyslava" "Birger" "Anna" "Ruslan" "Iliya" "Róza" "Dragomira" "Lev" 
+	"Marina" "Zwinislawa" "Domawuj" "Ale" "Gradislava" "Linda" "Yekaterina" "Ulfr" "Yefimiy" "Sverker" 
+	"Ulyana" "Pereyaslava" "Dobrynia" "Gurli" "Zofia" "Irina" "Guðrun" "Sviatopolk" "Yefimia" "Radoslav" 
+	"Rogvolod" "Ulita" "Briachislav" "Dobrawa" "Svetozar" "Berimir" "Tatimir" "Vadim" "Venceslav" "Mechislav" 
+	"Kreslav" "Krasimir" "Pribislava" "Gremislava" "Boris" "Vseslava" "Yeremey" "Yelisey" "Boleslava" "Svatava" 
+	"Terentiy" "Feodosia" "Premyslava" "Rostislava" "Yevpraxia" "Agrafena" "Gorislava" "Malfrida" "Vasiliy" "Bezprzym" 
+	"Pechna" "Martyna" "Jakusz" "Dobrava" "Milena" "Otokar" "Kenna" "Voislav" "Alexandra" "Mstislav" 
+	"Vladimir" "Gavriil" "Wladyslaw" "Salomea" "Ludmila" "Rodislav" "Barnim" "Dytryk" "Grazyna" "Kamila" 
+	"Viacheslava" "Jaromar" "Demid" "Liubava" "Igor" "Tuija" "Yevstafiy" "Alexandr" "Andrei" "Daniil" 
+	"Davyd" "Dmitriy" "Grigoriy" "Iakov" "Ivan" "Konstantin" "Matfei" "Mikhail" "Mitrofan" "Oleg" 
+	"Pavel" "Putiata" "Roman" "Stepan" "Sudislav" "Vsevolod" "Vysheslav" "Yuriy" }
+monarch_names = {
+	"Sviatoslav #0" = 1
+	"Viacheslav #0" = 1
+	"Praxida #0" = -1
+	"Ausala #0" = -1
+	"Agafya #0" = -1
+	"Vasilisa #0" = -1
+	"Darya #0" = -1
+	"Vyshata #0" = 1
+	"Fevronia #0" = -1
+	"Niklas #0" = 1
+	"Dobroslava #0" = -1
+	"Afanasiy #0" = 1
+	"Feodor #0" = 1
+	"Rostislav #0" = 1
+	"Sviatoslava #0" = -1
+	"Helena #0" = -1
+	"Praskovya #0" = -1
+	"Vseslav #0" = 1
+	"Vladislav #0" = 1
+	"Yevdokia #0" = -1
+	"Þordr #0" = 1
+	"Rycheza #0" = -1
+	"Nikita #1" = 27
+	"Stanislav #0" = 1
+	"Totil #0" = 1
+	"Volodar #0" = 1
+	"Bengt #0" = 1
+	"Ylva #0" = -1
+	"Fedot #0" = 1
+	"Verkhoslava #0" = -1
+	"Liudmila #0" = -1
+	"Yaropolk #0" = 1
+	"Xenia #0" = -1
+	"Dobronega #0" = -1
+	"Falki #0" = 1
+	"Yaroslav #0" = 1
+	"Mielitty #0" = 1
+	"Szczesny #0" = 1
+	"Yaroslava #0" = -1
+	"Anastasia #0" = -1
+	"Feodora #0" = -1
+	"Yemelyan #0" = 1
+	"Trifon #0" = 1
+	"Koz'ma #0" = 1
+	"Kirill #0" = 1
+	"Zvenislava #0" = -1
+	"Iziaslav #0" = 1
+	"Izbygnev #1" = 27
+	"Ingvar #0" = 1
+	"Predslava #0" = -1
+	"Veleslava #0" = -1
+	"Tatyana #0" = -1
+	"Varvara #0" = -1
+	"Kol #0" = 1
+	"Agnieszka #0" = -1
+	"Vasilko #0" = 1
+	"Zabava #0" = -1
+	"Rogneda #0" = -1
+	"Alexei #0" = 1
+	"Wizlaw #0" = 1
+	"Gleb #0" = 1
+	"Prebrana #0" = -1
+	"Sbyslava #0" = -1
+	"Birger #0" = 1
+	"Anna #0" = -1
+	"Ruslan #0" = 1
+	"Iliya #0" = 1
+	"Róza #0" = -1
+	"Dragomira #0" = -1
+	"Lev #0" = 1
+	"Marina #0" = -1
+	"Zwinislawa #0" = -1
+	"Domawuj #0" = 1
+	"Ale #0" = 1
+	"Gradislava #0" = -1
+	"Linda #0" = -1
+	"Yekaterina #0" = -1
+	"Ulfr #0" = 1
+	"Yefimiy #0" = 1
+	"Sverker #0" = 1
+	"Ulyana #0" = -1
+	"Pereyaslava #0" = -1
+	"Dobrynia #0" = 1
+	"Gurli #0" = -1
+	"Zofia #0" = -1
+	"Irina #0" = -1
+	"Guðrun #0" = -1
+	"Sviatopolk #0" = 1
+	"Yefimia #0" = -1
+	"Radoslav #0" = 1
+	"Rogvolod #0" = 1
+	"Ulita #0" = -1
+	"Briachislav #0" = 1
+	"Dobrawa #0" = -1
+	"Svetozar #0" = 1
+	"Berimir #0" = 1
+	"Tatimir #0" = 1
+	"Vadim #0" = 1
+	"Venceslav #0" = 1
+	"Mechislav #0" = 1
+	"Kreslav #0" = 1
+	"Krasimir #0" = 1
+	"Pribislava #0" = -1
+	"Gremislava #0" = -1
+	"Boris #0" = 1
+	"Vseslava #0" = -1
+	"Yeremey #0" = 1
+	"Yelisey #1" = 30
+	"Boleslava #0" = -1
+	"Svatava #0" = -1
+	"Terentiy #0" = 1
+	"Feodosia #0" = -1
+	"Premyslava #0" = -1
+	"Rostislava #0" = -1
+	"Yevpraxia #0" = -1
+	"Agrafena #0" = -1
+	"Gorislava #0" = -1
+	"Malfrida #0" = -1
+	"Vasiliy #0" = 1
+	"Bezprzym #0" = 1
+	"Pechna #0" = -1
+	"Martyna #0" = -1
+	"Jakusz #0" = 1
+	"Dobrava #0" = -1
+	"Milena #0" = -1
+	"Otokar #0" = 1
+	"Kenna #0" = -1
+	"Voislav #0" = 1
+	"Alexandra #0" = -1
+	"Mstislav #0" = 1
+	"Vladimir #0" = 1
+	"Gavriil #0" = 1
+	"Wladyslaw #0" = 1
+	"Salomea #0" = -1
+	"Ludmila #0" = -1
+	"Rodislav #0" = 1
+	"Barnim #0" = 1
+	"Dytryk #0" = 1
+	"Grazyna #0" = -1
+	"Kamila #0" = -1
+	"Viacheslava #0" = -1
+	"Jaromar #0" = 1
+	"Demid #0" = 1
+	"Liubava #0" = -1
+	"Igor #0" = 1
+	"Tuija #0" = -1
+	"Yevstafiy #0" = 1
+	"Alexandr #0" = 0
+	"Andrei #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Dmitriy #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Ivan #0" = 0
+	"Konstantin #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Roman #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Vsevolod #0" = 0
+	"Vysheslav #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

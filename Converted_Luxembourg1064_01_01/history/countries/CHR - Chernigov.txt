@@ -1,0 +1,25 @@
+# Chernigov
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 289
+1440.12.19 = {
+	monarch = {
+		name = "Vasilko"
+		birth_date = 1421.1.3
+		dynasty = "Fyodyorov"
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 289
+	add_treasury = 14
+	add_prestige = 59
+}

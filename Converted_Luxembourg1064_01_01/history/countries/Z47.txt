@@ -1,0 +1,26 @@
+# Ugra
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 1755
+1433.4.20 = {
+	monarch = {
+		name = "Yelisey"
+		birth_date = 1397.6.1
+		dynasty = "Vepsä"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1755
+	add_treasury = 1
+	add_prestige = 115
+}

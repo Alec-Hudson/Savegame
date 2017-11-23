@@ -1,0 +1,304 @@
+# Portucale
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 108 45 }
+historical_idea_groups = {
+	exploration_ideas
+	trade_ideas
+	religious_ideas
+	expansion_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Yunus" "Khadija" "Fatima" "Lubb" "Abbas" "Rafiqa" "Daniyah" "Bilal" "Zahida" "Fahriya" 
+	"Muyahid" "Balashk" "Karima" "Utman" "Aiza" "Malika" "Çeid" "Wahida" "Mukhtar" "Marwan" 
+	"Abderrabmen" "Ermengardis" "Mahomat" "Wifredo" "Gaudiosa" "Winidilda" "Menenda" "Flamula" "Agnes" "Gonterote" 
+	"Elduara" "Aragonte" "Eldonza" "Onecca" "Monnia" "Lupo" "Elvira" "Fronilde" "Sisenanda" "Adosinda" 
+	"Muhammad" "Aloito" "Garsiya" "Urraca" "Sa'd" "Athanagildo" "Nunno" "Abu" "Musa" "Mundir" 
+	"Amsha" "Sanyo" "Fadl" "Aliyah" "Taliba" "Ibtisam" "Huda" "Fath" "Safiya" "Rasiq" 
+	"Wannaqo" "Abbad" "Gamila" "Yahaff" "Suraya" "Abdul-Razzaq" "Rashid" "Andregoto" "Wimarano" "Lucidio" 
+	"Adeqisio" "Adoric" "Agimadus" "Agriulfum" "Alamiro" "Algaster" "Anila" "Ansuario" "Argiovitus" "Ariamir" 
+	"Arosinda" "Audeca" "Badamundus" "Baldemarius" "Balderedo" "Baltarius" "Baudemiro" "Becilla" "Berteiro" "Bonesindus" 
+	"Boniza" "Cagildo" "Cartemiro" "Chararici" "Commundus" "Crodemiro" "Dagaredus" "Daildus" "Damiro" "Docemiro" 
+	"Donazarius" "Donegildus" "Dulcemirus" "Eboric" "Egenio" "Eimiro" "Eirigu" "Eisindus" "Eldegotus" "Eldesindus" 
+	"Elperico" "Engomiro" "Ensaldus" "Ermaric" "Evosindo" "Fagildus" "Felmiro" "Fralenko" "Framuldo" "Francolino" 
+	"Fredoaldus" "Froatingus" "Fromildus" "Frumeiro" "Gardingus" "Gaudesindo" "Gomedei" "Gomulfus" "Gresumarus" "Gudesteus" 
+	"Gumarius" "Gundivaldo" "Guntato" "Gunterotis" "Heremigar" "Hermeric" "Hespanisco" "Hildemir" "Hilderic" "Hunisco" 
+	"Huniscus" "Leodegasti" "Leoderigus" "Leodulfus" "Leovaldo" "Lodemiro" "Magitus" "Malaredus" "Malaric" "Maldras" 
+	"Marcosendus" "Massilan" "Mervigius" "Miro" "Moderido" "Nandaricus" "Nantildo" "Neufila" "Nitigis" "Notarius" 
+	"Odamiro" "Odemundus" "Odericus" "Onemiro" "Onoricus" "Osdulfus" "Osorico" "Ostromirus" "Otualdo" "Pabregildus" 
+	"Pantard" "Pantinus" "Pappinus" "Pederagildu" "Pennio" "Pipinus" "Provaredo" "Quedesendo" "Quedulfus" "Quidemiro" 
+	"Quidericus" "Ragimiro" "Ragolfus" "Rakericus" "Randinus" "Randuarius" "Ranisclus" "Rechiar" "Rechila" "Refulfo" 
+	"Reirigus" "Remismund" "Remisol" "Rendericus" "Ricardo" "Richimund" "Rodomiro" "Roelindus" "Romanisco" "Romarigus" 
+	"Sagatus" "Saxomero" "Segomirus" "Sentarius" "Sescutus" "Sisulfus" "Spanarius" "Spoderigo" "Suavarius" "Sunila" 
+	"Teobald" "Teoderedus" "Theodemar" "Todegogia" "Trasmira" "Trasoldi" "Tumtuldo" "Uittimer" "Venedario" "Veremund" 
+	"Viamundus" "Vidraldus" "Villisendo" "Vistremiro" "Zamarius" "Zendasindo" }
+monarch_names = {
+	"Yunus #0" = 1
+	"Khadija #0" = -1
+	"Fatima #0" = -1
+	"Lubb #1" = 24
+	"Abbas #0" = 1
+	"Rafiqa #0" = -1
+	"Daniyah #0" = -1
+	"Bilal #0" = 1
+	"Zahida #0" = -1
+	"Fahriya #0" = -1
+	"Muyahid #1" = 18
+	"Balashk #1" = 21
+	"Karima #0" = -1
+	"Utman #0" = 1
+	"Aiza #0" = -1
+	"Malika #0" = -1
+	"Çeid #2" = 27
+	"Wahida #0" = -1
+	"Mukhtar #0" = 1
+	"Marwan #0" = 1
+	"Abderrabmen #1" = 21
+	"Ermengardis #0" = -1
+	"Mahomat #0" = 1
+	"Wifredo #0" = 1
+	"Gaudiosa #0" = -1
+	"Winidilda #0" = -1
+	"Menenda #0" = -1
+	"Flamula #0" = -1
+	"Agnes #0" = -1
+	"Gonterote #0" = -1
+	"Elduara #0" = -1
+	"Aragonte #0" = -1
+	"Eldonza #0" = -1
+	"Onecca #0" = -1
+	"Monnia #0" = -1
+	"Lupo #0" = 1
+	"Elvira #0" = -1
+	"Fronilde #0" = -1
+	"Sisenanda #0" = -1
+	"Adosinda #0" = -1
+	"Muhammad #0" = 1
+	"Aloito #0" = 1
+	"Garsiya #0" = 1
+	"Urraca #0" = -1
+	"Sa'd #0" = 1
+	"Athanagildo #0" = 1
+	"Nunno #0" = 1
+	"Abu #1" = 21
+	"Musa #0" = 1
+	"Mundir #0" = 1
+	"Amsha #0" = -1
+	"Sanyo #0" = 1
+	"Fadl #0" = 1
+	"Aliyah #0" = -1
+	"Taliba #0" = -1
+	"Ibtisam #0" = -1
+	"Huda #0" = -1
+	"Fath #0" = 1
+	"Safiya #0" = -1
+	"Rasiq #0" = 1
+	"Wannaqo #0" = 1
+	"Abbad #0" = 1
+	"Gamila #0" = -1
+	"Yahaff #1" = 18
+	"Suraya #0" = -1
+	"Abdul-Razzaq #0" = 1
+	"Rashid #0" = 1
+	"Andregoto #0" = -1
+	"Wimarano #2" = 0
+	"Lucidio #1" = 0
+	"Adeqisio #0" = 0
+	"Adoric #0" = 0
+	"Agimadus #0" = 0
+	"Agriulfum #0" = 0
+	"Alamiro #0" = 0
+	"Algaster #0" = 0
+	"Anila #0" = 0
+	"Ansuario #0" = 0
+	"Argiovitus #0" = 0
+	"Ariamir #0" = 0
+	"Arosinda #0" = 0
+	"Audeca #0" = 0
+	"Badamundus #0" = 0
+	"Baldemarius #0" = 0
+	"Balderedo #0" = 0
+	"Baltarius #0" = 0
+	"Baudemiro #0" = 0
+	"Becilla #0" = 0
+	"Berteiro #0" = 0
+	"Bonesindus #0" = 0
+	"Boniza #0" = 0
+	"Cagildo #0" = 0
+	"Cartemiro #0" = 0
+	"Chararici #0" = 0
+	"Commundus #0" = 0
+	"Crodemiro #0" = 0
+	"Dagaredus #0" = 0
+	"Daildus #0" = 0
+	"Damiro #0" = 0
+	"Docemiro #0" = 0
+	"Donazarius #0" = 0
+	"Donegildus #0" = 0
+	"Dulcemirus #0" = 0
+	"Eboric #0" = 0
+	"Egenio #0" = 0
+	"Eimiro #0" = 0
+	"Eirigu #0" = 0
+	"Eisindus #0" = 0
+	"Eldegotus #0" = 0
+	"Eldesindus #0" = 0
+	"Elperico #0" = 0
+	"Engomiro #0" = 0
+	"Ensaldus #0" = 0
+	"Ermaric #0" = 0
+	"Evosindo #0" = 0
+	"Fagildus #0" = 0
+	"Felmiro #0" = 0
+	"Fralenko #0" = 0
+	"Framuldo #0" = 0
+	"Francolino #0" = 0
+	"Fredoaldus #0" = 0
+	"Froatingus #0" = 0
+	"Fromildus #0" = 0
+	"Frumeiro #0" = 0
+	"Gardingus #0" = 0
+	"Gaudesindo #0" = 0
+	"Gomedei #0" = 0
+	"Gomulfus #0" = 0
+	"Gresumarus #0" = 0
+	"Gudesteus #0" = 0
+	"Gumarius #0" = 0
+	"Gundivaldo #0" = 0
+	"Guntato #0" = 0
+	"Gunterotis #0" = 0
+	"Heremigar #0" = 0
+	"Hermeric #0" = 0
+	"Hespanisco #0" = 0
+	"Hildemir #0" = 0
+	"Hilderic #0" = 0
+	"Hunisco #0" = 0
+	"Huniscus #0" = 0
+	"Leodegasti #0" = 0
+	"Leoderigus #0" = 0
+	"Leodulfus #0" = 0
+	"Leovaldo #0" = 0
+	"Lodemiro #0" = 0
+	"Magitus #0" = 0
+	"Malaredus #0" = 0
+	"Malaric #0" = 0
+	"Maldras #0" = 0
+	"Marcosendus #0" = 0
+	"Massilan #0" = 0
+	"Mervigius #0" = 0
+	"Miro #0" = 0
+	"Moderido #0" = 0
+	"Nandaricus #0" = 0
+	"Nantildo #0" = 0
+	"Neufila #0" = 0
+	"Nitigis #0" = 0
+	"Notarius #0" = 0
+	"Odamiro #0" = 0
+	"Odemundus #0" = 0
+	"Odericus #0" = 0
+	"Onemiro #0" = 0
+	"Onoricus #0" = 0
+	"Osdulfus #0" = 0
+	"Osorico #0" = 0
+	"Ostromirus #0" = 0
+	"Otualdo #0" = 0
+	"Pabregildus #0" = 0
+	"Pantard #0" = 0
+	"Pantinus #0" = 0
+	"Pappinus #0" = 0
+	"Pederagildu #0" = 0
+	"Pennio #0" = 0
+	"Pipinus #0" = 0
+	"Provaredo #0" = 0
+	"Quedesendo #0" = 0
+	"Quedulfus #0" = 0
+	"Quidemiro #0" = 0
+	"Quidericus #0" = 0
+	"Ragimiro #0" = 0
+	"Ragolfus #0" = 0
+	"Rakericus #0" = 0
+	"Randinus #0" = 0
+	"Randuarius #0" = 0
+	"Ranisclus #0" = 0
+	"Rechiar #0" = 0
+	"Rechila #0" = 0
+	"Refulfo #0" = 0
+	"Reirigus #0" = 0
+	"Remismund #0" = 0
+	"Remisol #0" = 0
+	"Rendericus #0" = 0
+	"Ricardo #0" = 0
+	"Richimund #0" = 0
+	"Rodomiro #0" = 0
+	"Roelindus #0" = 0
+	"Romanisco #0" = 0
+	"Romarigus #0" = 0
+	"Sagatus #0" = 0
+	"Saxomero #0" = 0
+	"Segomirus #0" = 0
+	"Sentarius #0" = 0
+	"Sescutus #0" = 0
+	"Sisulfus #0" = 0
+	"Spanarius #0" = 0
+	"Spoderigo #0" = 0
+	"Suavarius #0" = 0
+	"Sunila #0" = 0
+	"Teobald #0" = 0
+	"Teoderedus #0" = 0
+	"Theodemar #0" = 0
+	"Todegogia #0" = 0
+	"Trasmira #0" = 0
+	"Trasoldi #0" = 0
+	"Tumtuldo #0" = 0
+	"Uittimer #0" = 0
+	"Venedario #0" = 0
+	"Veremund #0" = 0
+	"Viamundus #0" = 0
+	"Vidraldus #0" = 0
+	"Villisendo #0" = 0
+	"Vistremiro #0" = 0
+	"Zamarius #0" = 0
+	"Zendasindo #0" = 0
+}
+ship_names = {
+	Anunciada
+	Bérrio "Boa Viagem" "Bom Jesus" "Bom Jesus do Carmo" "Bom Jesus de Marzagão" "Bom Jesus da Vidigueira" Bretão
+	Cambaia Chagas "Correio d'Ásia"
+	El-Rei Enxobregas "Espírito Santo" Estrela
+	"Flor do Mar"
+	Garça
+	"Imaculada Conceição"
+	Jóia
+	"Monte Carvalho"
+	"Nazaré" "Nossa Senhora" "N. Sra. da Aparecida" "N. Sra. da Atalaia" "N. Sra. da Batalha" "N. Sra. da Boa Hora" "N. Sra. da Boa Memória" "N. Sra. da Boa Viagem" "N. Sra. da Candalaria" "N. Sra. da Caridade" "N.Sra. da Conceição" "N. Sra. da Consolação" "N. Sra. da Esperança" "N. Sra. da Glória" "N. Sra. da Graça" "N. Sra. da Guia" "N. Sra. d'Ajuda Lusitana" "N. Sra. da Luz" "N. Sra. da Nazaré" "N. Sra. da Oliveira" "N. Sra. da Palma" "N. Sra. da Penha de França" "N. Sra. da Quietação" "N. Sra. da Salvação" "N. Sra. da Saúde" "N. Sra. da Visitação" "N. Sra. da Vitória" "N. Sra. das Ondas" "N. Sra. das Portas do Céu" "N. Sra. das Relíquias" "N. Sra. de Belém" "N. Sra. de Guadalupe" "N. Sra. do Castelo" "N. Sra. do Livramento" "N. Sra. do Loreto" "N. Sra do Paraíso" "N. Sra. do Pilar" "N. Sra. do Rosário" "N. Sra. dos Prazeres" "N. Sra. dos Ramos"
+	"Princesa do Céu"
+	Raínha "Reis Magos"
+	"Sacramento" "Santa Ana" "Santa Catarina" "Santa Cruz" "Santa Fé" "Santa Helena" "Santa Joana" "Santa Madre de Deus" "S. Maria de Sabóia" "Santo Milagre" "Santiago Maior" "Santíssima Trindade" "Santíssimo Sacramento" "Santo Alberto" "Santo António" "Santo Espírito" "Santo Inácio" "São Bartolomeu" "São Bento" "São Bernardo" "São Carlos" "São Cristovão" "São Domingos" "São Filipe" "São Francisco" "São Francisco de Borja" "São Gabriel" "São Gonçalo" "São João" "São João de Deus" "São Jorge" "S. José" "São Julião" "São Lourenço" "São Lucas" "São Luís" "São Mateus" "São Paulo" "São Pedro" "São Rafael" "São Roque" "São Salvador" "São Tomé" "São Valentim" "S. António de Lisboa" "S. Catarina de Ribamar" "S. Francisco de Assis" "S. Francisco Xavier" "S. João Baptista" "S. João Evangelista" "S. Pedro de Rates" "S. Pedro da Ribeira" "S. Salvador do Mundo" "S. Teresa de Jesus" "S. Tomé da Cantuária"
+	Taforeia Trindade
+	Visitação
+}
+

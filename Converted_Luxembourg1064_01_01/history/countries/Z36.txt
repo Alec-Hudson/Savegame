@@ -1,0 +1,37 @@
+# Seville
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1749
+1429.5.11 = {
+	monarch = {
+		name = "Abdul-Hakam"
+		birth_date = 1378.5.16
+		dynasty = "Umayyad"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = martial_educator_personality
+	heir = {
+		name = "Abbad"
+		monarch_name = "Abbad II"
+		dynasty = "Umayyad"
+		birth_date = 1407.7.11
+		death_date = 1487.7.11
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1749
+	add_treasury = 41
+	add_prestige = 472
+}

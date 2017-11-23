@@ -1,0 +1,27 @@
+# Deheubarth
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = welsh
+religion = catholic
+clear_scripted_personalities = yes
+capital = 241
+1404.5.2 = {
+	monarch = {
+		name = "Morganna"
+		birth_date = 1394.8.1
+		dynasty = "de Poher"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 241
+	add_treasury = 11
+	add_prestige = 215
+}

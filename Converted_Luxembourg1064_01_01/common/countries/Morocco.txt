@@ -1,0 +1,556 @@
+# Marrakech
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 43 150 32 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Umayyah" "Sajida" "Ermengardis" "Maha" "Butayna" "Isra" "Uways" "Thashim" "Sanyo" "Zahida" 
+	"Abdul-Hazm" "Aram" "Umar" "Abdul-Razzaq" "Abbad" "Abdul" "Azam" "Utman" "Tifilwit" "Sadiq" 
+	"Garsiya" "Fatima" "Salma" "Musa" "Mubashir" "Nasr" "Safiya" "Siddray" "Ayyub" "Tarifa" 
+	"Abdul-Hasan" "Yasmin" "Aiza" "Bilal" "Layla" "Agnes" "Adila" "Mundir" "Jyad" "Tanaz" 
+	"Mirza" "Ibtisam" "Isma'il" "Muyahid" "Galind" "Kamala" "Raf" "Maryam" "Amsha" "Jibril" 
+	"Jabir" "Abda" "Raisa" "Tahira" "Zahra" "Nizam" "Khadija" "Paymaneh" "Ma'n" "Umm" 
+	"Husam" "Yakta" "Kera" "Sheeftah" "Shahzadah" "Sa'd" "Abdul-Hakam" "Wannaqo" "Fath" "Lubb" 
+	"Sholah" "Fadl" "Balashk" "Faghira" "Hanifa" "Munya" "Taliba" "Muzaffaraddin" "Abu-Bakr" "Habiba" 
+	"Abdul-Gafur" "Burhanaddin" "Fahra" "Abdallah" "Urraka" "Naila" "Nadia" "Rahat" "Shameem" "Muhammad" 
+	"Elvira" "Suraya" "Ahu" "Rafiqa" "Ubayd" "Abu" "Hussayn" "Ghada" "Gamila" "Fronilde" 
+	"Zaynab" "Daniyah" "Gaudiosa" "Jalil" "Ali" "Winidilda" "Mahdi" "Samira" "Asiya" "Ahmad" 
+	"Fadil" "Saaman" "Talib" "Rasiq" "Shogofa" "Shujah" "Abdul-Rahman" "Hasan" "Shakira" "Tariq" 
+	"Fahriya" "Yahaff" "Agathe" "Aarifa" "Dima" "Adfuns" "Suleyman" "Abdul-al-As" "Affan" "al-Hakim" 
+	"Abu-Sufyan" "Uthan" "Muawiyah" "Yazid" "Marwan" "Abu-al-Malik" "Abdul-Aziz" "al-Himar" "al-Walid" "Sulayman" 
+	"Mu'awiyah" "Hisham" "Ibrahim" "Abd-al-Rahman" "al-Qasim" "al-Hakam" "Is'mail" "al-Mundir" "Semeah" "Qawurd" 
+	"Rashid" "Setara" "Shararah" "Najib" "Ramadan" "Paywand" "Zeyd" "Alim" "Shamir" "Aliyah" 
+	"Taneen" "Karima" "Jahaira" "Abdul-Jaleel" "Parween" "Rodrigo" "Sa'daddin" "Rashida" "Bahir" "Mansur" 
+	"Ya'far" "Hilal" "Nafisa" "Ghalib" "Abbas" "Hakam" "Wifredo" "Nur" "Randa" "Leodegundis" 
+	"Isa" "Sheeva" "Wahida" "Souzan" "Berengario" "Mafalda" "Huda" "Abdul-Qadir" "Theodora" "Parand" 
+	"Berenguela" "Zeynab" "Sami" "Menenda" "Malika" "Ya'qub" "Khalil" "Aghlab" "Saghar" "Samir" 
+	"Shaiban" "Yahya" "Abakada" "Abazza" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdullah" "Abidin" "Adal" 
+	"Adam" "Aderbal" "Adergazuz" "Adherbal" "Admer" "Adrir" "Adum" "Afaghis" "Afalawas" "Afalku" 
+	"Afer" "Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Agellid" "Aggur" "Aghali" "Aghecher" 
+	"Aghilas" "Agwillul" "Ahamatu" "Aheyyad" "Ajdir" "Ajeddig" "Akaday" "Akateiaji" "Akli" "Akorakor" 
+	"Aksel" "Aksil" "Akutla" "Akzer" "Al'a'addin" "Alyamas" "Amawal" "Amayas" "Amaz'uz'" "Ambay" 
+	"Amdegh" "Amellal" "Amennay" "Ameska" "Amessan" "Amin" "Amma" "Ammuc" "Amray" "Amri" 
+	"Amud" "Anaba" "Annaber" "Antalas" "Anwa" "Aras" "Asad" "Asaru" "Asirem" "Aszellay" 
+	"Atissi" "Awdia" "Awgustin" "Awinagh" "Awlagh" "Awzal" "Aylal" "Ayt'ere" "Az'ar" "Az'regh" 
+	"Azenkwed" "Azim" "Azrur" "Badda" "Badis" "Bagay" "Barakat" "Beddis" "Berkan" "Bezz'i" 
+	"Br'ir'uc" "Bukkus" "Buwayh" "Buxtuc" "Capussa" "Cucung" "Dali" "Fahd" "Fella" "Firhun" 
+	"Firmus" "Frawsen" "Gaia" "Galussa" "Gauda" "Gaya" "Ghani" "Ghanim" "Ghaysan" "Ghumer" 
+	"Gildun" "Gulusa" "H'emmu" "Haidar" "Hamad" "Hashim" "Hiba" "Hiempsal" "Himmi" "Hotha" 
+	"Hussamaddin" "Ibiza" "Iccaam" "Ifni" "Ifser" "Ighlaf" "Igider" "Igmi" "Iher" "Iken" 
+	"Ilyas" "Immeghar" "Immel" "Irgen" "Isalcas" "Ishaq" "Isli" "Issam" "It'ij" "Itber" 
+	"Itri" "Ixfensen" "Ixzi" "Izri" "Jaffar" "Jamal" "Kadidu" "Kamal" "Karidenna" "Kawsen" 
+	"Kenan" "Keraja" "Khalid" "Khanchla" "Khenchela" "Khidr" "Kussil" "Lacumaces" "Laweye" "Lewnis" 
+	"Luki" "Madidu" "Magsen" "Mahtar" "Malik" "Masgaba" "Masgava" "Masinissa" "Masmud" "Masnsen" 
+	"Massinissa" "Massiva" "Massnsen" "Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" "Mazigh" "Medjan" 
+	"Mellal" "Mennad" "Menzu" "Meq'wran" "Mez'yan" "Mezwar" "Micipsa" "Misagenes" "Misibsen" "Mu'izz" 
+	"Muh'end" "Mukhtar" "Mula" "Murad" "Mustafa" "N'Guna" "Nazar" "Niptasan" "Nizamaddin" "Ptolemee" 
+	"Qutaiba" "Sa'id" "Salah" "Salla" "Salomon" "Sammer" "Sayyid" "Seghada" "Sekla" "Shamsaddin" 
+	"Sifaks" "Sifal" "Sinbad" "Sisso" "Stembanos" "Suggut" "Sultan" "T'ar'iq" "Tabat" "Tacfin" 
+	"Taffounnout" "Tahir" "Takfarinas" "Tanan" "Tegama" "Thabitah" "Tifan" "Tiljad" "Ugdada" "Ugwistan" 
+	"Uqess'un" "Uregh" "Urtilian" "Urz'ig" "Uzmir" "Uzza" "Wahab" "Watt'as" "Xamida" "Yabdas" 
+	"Yaghmurasen" "Yattuy" "Yeften" "Yeh'lem" "Yiliyen" "Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" 
+	"Yusuf" "Yuva" "Z'effun" "Zafir" "Zalelsan" "Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
+monarch_names = {
+	"Umayyah #0" = 1
+	"Sajida #0" = -1
+	"Ermengardis #0" = -1
+	"Maha #0" = -1
+	"Butayna #0" = -1
+	"Isra #0" = -1
+	"Uways #4" = 39
+	"Thashim #0" = -1
+	"Sanyo #0" = 1
+	"Zahida #0" = -1
+	"Abdul-Hazm #0" = 1
+	"Aram #0" = 1
+	"Umar #0" = 1
+	"Abdul-Razzaq #0" = 1
+	"Abbad #0" = 1
+	"Abdul #0" = 1
+	"Azam #0" = 1
+	"Utman #0" = 1
+	"Tifilwit #0" = 1
+	"Sadiq #0" = 1
+	"Garsiya #0" = 1
+	"Fatima #0" = -1
+	"Salma #0" = -1
+	"Musa #0" = 1
+	"Mubashir #0" = 1
+	"Nasr #0" = 1
+	"Safiya #0" = -1
+	"Siddray #0" = 1
+	"Ayyub #1" = 21
+	"Tarifa #0" = -1
+	"Abdul-Hasan #0" = 1
+	"Yasmin #0" = -1
+	"Aiza #0" = -1
+	"Bilal #0" = 1
+	"Layla #0" = -1
+	"Agnes #0" = -1
+	"Adila #0" = -1
+	"Mundir #0" = 1
+	"Jyad #0" = 1
+	"Tanaz #0" = -1
+	"Mirza #0" = 1
+	"Ibtisam #0" = -1
+	"Isma'il #0" = 1
+	"Muyahid #0" = 1
+	"Galind #1" = 30
+	"Kamala #0" = -1
+	"Raf #0" = 1
+	"Maryam #0" = -1
+	"Amsha #0" = -1
+	"Jibril #0" = 1
+	"Jabir #0" = 1
+	"Abda #0" = -1
+	"Raisa #0" = -1
+	"Tahira #0" = -1
+	"Zahra #0" = -1
+	"Nizam #0" = 1
+	"Khadija #0" = -1
+	"Paymaneh #0" = -1
+	"Ma'n #0" = 1
+	"Umm #0" = -1
+	"Husam #0" = 1
+	"Yakta #0" = -1
+	"Kera #0" = -1
+	"Sheeftah #0" = -1
+	"Shahzadah #0" = -1
+	"Sa'd #0" = 1
+	"Abdul-Hakam #0" = 1
+	"Wannaqo #0" = 1
+	"Fath #0" = 1
+	"Lubb #0" = 1
+	"Sholah #0" = -1
+	"Fadl #1" = 51
+	"Balashk #0" = 1
+	"Faghira #0" = -1
+	"Hanifa #0" = -1
+	"Munya #0" = -1
+	"Taliba #0" = -1
+	"Muzaffaraddin #0" = 1
+	"Abu-Bakr #0" = 1
+	"Habiba #0" = -1
+	"Abdul-Gafur #0" = 1
+	"Burhanaddin #0" = 1
+	"Fahra #0" = -1
+	"Abdallah #0" = 1
+	"Urraka #0" = -1
+	"Naila #0" = -1
+	"Nadia #0" = -1
+	"Rahat #0" = -1
+	"Shameem #0" = -1
+	"Muhammad #0" = 1
+	"Elvira #0" = -1
+	"Suraya #0" = -1
+	"Ahu #0" = -1
+	"Rafiqa #0" = -1
+	"Ubayd #0" = 1
+	"Abu #0" = 1
+	"Hussayn #0" = 1
+	"Ghada #0" = -1
+	"Gamila #0" = -1
+	"Fronilde #0" = -1
+	"Zaynab #0" = -1
+	"Daniyah #0" = -1
+	"Gaudiosa #0" = -1
+	"Jalil #0" = 1
+	"Ali #0" = 1
+	"Winidilda #0" = -1
+	"Mahdi #0" = 1
+	"Samira #0" = -1
+	"Asiya #0" = -1
+	"Ahmad #0" = 1
+	"Fadil #0" = 1
+	"Saaman #0" = -1
+	"Talib #0" = 1
+	"Rasiq #1" = 21
+	"Shogofa #0" = -1
+	"Shujah #0" = 1
+	"Abdul-Rahman #0" = 1
+	"Hasan #0" = 1
+	"Shakira #0" = -1
+	"Tariq #0" = 1
+	"Fahriya #0" = -1
+	"Yahaff #0" = 1
+	"Agathe #0" = -1
+	"Aarifa #0" = -1
+	"Dima #0" = -1
+	"Adfuns #0" = 1
+	"Suleyman #0" = 1
+	"Abdul-al-As #0" = 1
+	"Affan #0" = 1
+	"al-Hakim #0" = 1
+	"Abu-Sufyan #0" = 1
+	"Uthan #0" = 1
+	"Muawiyah #0" = 1
+	"Yazid #0" = 1
+	"Marwan #0" = 1
+	"Abu-al-Malik #0" = 1
+	"Abdul-Aziz #0" = 1
+	"al-Himar #0" = 1
+	"al-Walid #0" = 1
+	"Sulayman #0" = 1
+	"Mu'awiyah #0" = 1
+	"Hisham #0" = 1
+	"Ibrahim #0" = 1
+	"Abd-al-Rahman #0" = 1
+	"al-Qasim #0" = 1
+	"al-Hakam #0" = 1
+	"Is'mail #0" = 1
+	"al-Mundir #1" = 27
+	"Semeah #0" = -1
+	"Qawurd #0" = 1
+	"Rashid #0" = 1
+	"Setara #0" = -1
+	"Shararah #0" = -1
+	"Najib #1" = 24
+	"Ramadan #1" = 27
+	"Paywand #0" = -1
+	"Zeyd #0" = 1
+	"Alim #0" = 1
+	"Shamir #1" = 18
+	"Aliyah #0" = -1
+	"Taneen #0" = -1
+	"Karima #0" = -1
+	"Jahaira #0" = -1
+	"Abdul-Jaleel #0" = 1
+	"Parween #0" = -1
+	"Rodrigo #0" = 1
+	"Sa'daddin #0" = 1
+	"Rashida #0" = -1
+	"Bahir #0" = 1
+	"Mansur #0" = 1
+	"Ya'far #0" = 1
+	"Hilal #0" = 1
+	"Nafisa #0" = -1
+	"Ghalib #0" = 1
+	"Abbas #0" = 1
+	"Hakam #0" = 1
+	"Wifredo #0" = 1
+	"Nur #0" = -1
+	"Randa #0" = -1
+	"Leodegundis #0" = -1
+	"Isa #0" = 1
+	"Sheeva #0" = -1
+	"Wahida #0" = -1
+	"Souzan #0" = -1
+	"Berengario #0" = 1
+	"Mafalda #0" = -1
+	"Huda #0" = -1
+	"Abdul-Qadir #0" = 1
+	"Theodora #0" = -1
+	"Parand #0" = -1
+	"Berenguela #0" = -1
+	"Zeynab #0" = -1
+	"Sami #0" = 1
+	"Menenda #0" = -1
+	"Malika #0" = -1
+	"Ya'qub #0" = 1
+	"Khalil #0" = 1
+	"Aghlab #0" = 1
+	"Saghar #0" = -1
+	"Samir #0" = 1
+	"Shaiban #0" = 1
+	"Yahya #1" = 0
+	"Abakada #0" = 0
+	"Abazza #0" = 0
+	"Abdul-Azeem #0" = 0
+	"Abdul-Haleem #0" = 0
+	"Abdul-Kareem #0" = 0
+	"Abdullah #0" = 0
+	"Abidin #0" = 0
+	"Adal #0" = 0
+	"Adam #0" = 0
+	"Aderbal #0" = 0
+	"Adergazuz #0" = 0
+	"Adherbal #0" = 0
+	"Admer #0" = 0
+	"Adrir #0" = 0
+	"Adum #0" = 0
+	"Afaghis #0" = 0
+	"Afalawas #0" = 0
+	"Afalku #0" = 0
+	"Afer #0" = 0
+	"Afulay #0" = 0
+	"Agafay #0" = 0
+	"Agama #0" = 0
+	"Agdada #0" = 0
+	"Agdun #0" = 0
+	"Agellid #0" = 0
+	"Aggur #0" = 0
+	"Aghali #0" = 0
+	"Aghecher #0" = 0
+	"Aghilas #0" = 0
+	"Agwillul #0" = 0
+	"Ahamatu #0" = 0
+	"Aheyyad #0" = 0
+	"Ajdir #0" = 0
+	"Ajeddig #0" = 0
+	"Akaday #0" = 0
+	"Akateiaji #0" = 0
+	"Akli #0" = 0
+	"Akorakor #0" = 0
+	"Aksel #0" = 0
+	"Aksil #0" = 0
+	"Akutla #0" = 0
+	"Akzer #0" = 0
+	"Al'a'addin #0" = 0
+	"Alyamas #0" = 0
+	"Amawal #0" = 0
+	"Amayas #0" = 0
+	"Amaz'uz' #0" = 0
+	"Ambay #0" = 0
+	"Amdegh #0" = 0
+	"Amellal #0" = 0
+	"Amennay #0" = 0
+	"Ameska #0" = 0
+	"Amessan #0" = 0
+	"Amin #0" = 0
+	"Amma #0" = 0
+	"Ammuc #0" = 0
+	"Amray #0" = 0
+	"Amri #0" = 0
+	"Amud #0" = 0
+	"Anaba #0" = 0
+	"Annaber #0" = 0
+	"Antalas #0" = 0
+	"Anwa #0" = 0
+	"Aras #0" = 0
+	"Asad #0" = 0
+	"Asaru #0" = 0
+	"Asirem #0" = 0
+	"Aszellay #0" = 0
+	"Atissi #0" = 0
+	"Awdia #0" = 0
+	"Awgustin #0" = 0
+	"Awinagh #0" = 0
+	"Awlagh #0" = 0
+	"Awzal #0" = 0
+	"Aylal #0" = 0
+	"Ayt'ere #0" = 0
+	"Az'ar #0" = 0
+	"Az'regh #0" = 0
+	"Azenkwed #0" = 0
+	"Azim #0" = 0
+	"Azrur #0" = 0
+	"Badda #0" = 0
+	"Badis #0" = 0
+	"Bagay #0" = 0
+	"Barakat #0" = 0
+	"Beddis #0" = 0
+	"Berkan #0" = 0
+	"Bezz'i #0" = 0
+	"Br'ir'uc #0" = 0
+	"Bukkus #0" = 0
+	"Buwayh #0" = 0
+	"Buxtuc #0" = 0
+	"Capussa #0" = 0
+	"Cucung #0" = 0
+	"Dali #0" = 0
+	"Fahd #0" = 0
+	"Fella #0" = 0
+	"Firhun #0" = 0
+	"Firmus #0" = 0
+	"Frawsen #0" = 0
+	"Gaia #0" = 0
+	"Galussa #0" = 0
+	"Gauda #0" = 0
+	"Gaya #0" = 0
+	"Ghani #0" = 0
+	"Ghanim #0" = 0
+	"Ghaysan #0" = 0
+	"Ghumer #0" = 0
+	"Gildun #0" = 0
+	"Gulusa #0" = 0
+	"H'emmu #0" = 0
+	"Haidar #0" = 0
+	"Hamad #0" = 0
+	"Hashim #0" = 0
+	"Hiba #0" = 0
+	"Hiempsal #0" = 0
+	"Himmi #0" = 0
+	"Hotha #0" = 0
+	"Hussamaddin #0" = 0
+	"Ibiza #0" = 0
+	"Iccaam #0" = 0
+	"Ifni #0" = 0
+	"Ifser #0" = 0
+	"Ighlaf #0" = 0
+	"Igider #0" = 0
+	"Igmi #0" = 0
+	"Iher #0" = 0
+	"Iken #0" = 0
+	"Ilyas #0" = 0
+	"Immeghar #0" = 0
+	"Immel #0" = 0
+	"Irgen #0" = 0
+	"Isalcas #0" = 0
+	"Ishaq #0" = 0
+	"Isli #0" = 0
+	"Issam #0" = 0
+	"It'ij #0" = 0
+	"Itber #0" = 0
+	"Itri #0" = 0
+	"Ixfensen #0" = 0
+	"Ixzi #0" = 0
+	"Izri #0" = 0
+	"Jaffar #0" = 0
+	"Jamal #0" = 0
+	"Kadidu #0" = 0
+	"Kamal #0" = 0
+	"Karidenna #0" = 0
+	"Kawsen #0" = 0
+	"Kenan #0" = 0
+	"Keraja #0" = 0
+	"Khalid #0" = 0
+	"Khanchla #0" = 0
+	"Khenchela #0" = 0
+	"Khidr #0" = 0
+	"Kussil #0" = 0
+	"Lacumaces #0" = 0
+	"Laweye #0" = 0
+	"Lewnis #0" = 0
+	"Luki #0" = 0
+	"Madidu #0" = 0
+	"Magsen #0" = 0
+	"Mahtar #0" = 0
+	"Malik #0" = 0
+	"Masgaba #0" = 0
+	"Masgava #0" = 0
+	"Masinissa #0" = 0
+	"Masmud #0" = 0
+	"Masnsen #0" = 0
+	"Massinissa #0" = 0
+	"Massiva #0" = 0
+	"Massnsen #0" = 0
+	"Mastan #0" = 0
+	"Mastanabal #0" = 0
+	"Matiya #0" = 0
+	"Maysar #0" = 0
+	"Maziba #0" = 0
+	"Mazigh #0" = 0
+	"Medjan #0" = 0
+	"Mellal #0" = 0
+	"Mennad #0" = 0
+	"Menzu #0" = 0
+	"Meq'wran #0" = 0
+	"Mez'yan #0" = 0
+	"Mezwar #0" = 0
+	"Micipsa #0" = 0
+	"Misagenes #0" = 0
+	"Misibsen #0" = 0
+	"Mu'izz #0" = 0
+	"Muh'end #0" = 0
+	"Mukhtar #0" = 0
+	"Mula #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"N'Guna #0" = 0
+	"Nazar #0" = 0
+	"Niptasan #0" = 0
+	"Nizamaddin #0" = 0
+	"Ptolemee #0" = 0
+	"Qutaiba #0" = 0
+	"Sa'id #0" = 0
+	"Salah #0" = 0
+	"Salla #0" = 0
+	"Salomon #0" = 0
+	"Sammer #0" = 0
+	"Sayyid #0" = 0
+	"Seghada #0" = 0
+	"Sekla #0" = 0
+	"Shamsaddin #0" = 0
+	"Sifaks #0" = 0
+	"Sifal #0" = 0
+	"Sinbad #0" = 0
+	"Sisso #0" = 0
+	"Stembanos #0" = 0
+	"Suggut #0" = 0
+	"Sultan #0" = 0
+	"T'ar'iq #0" = 0
+	"Tabat #0" = 0
+	"Tacfin #0" = 0
+	"Taffounnout #0" = 0
+	"Tahir #0" = 0
+	"Takfarinas #0" = 0
+	"Tanan #0" = 0
+	"Tegama #0" = 0
+	"Thabitah #0" = 0
+	"Tifan #0" = 0
+	"Tiljad #0" = 0
+	"Ugdada #0" = 0
+	"Ugwistan #0" = 0
+	"Uqess'un #0" = 0
+	"Uregh #0" = 0
+	"Urtilian #0" = 0
+	"Urz'ig #0" = 0
+	"Uzmir #0" = 0
+	"Uzza #0" = 0
+	"Wahab #0" = 0
+	"Watt'as #0" = 0
+	"Xamida #0" = 0
+	"Yabdas #0" = 0
+	"Yaghmurasen #0" = 0
+	"Yattuy #0" = 0
+	"Yeften #0" = 0
+	"Yeh'lem #0" = 0
+	"Yiliyen #0" = 0
+	"Yuba #0" = 0
+	"Yugerten #0" = 0
+	"Yugurthen #0" = 0
+	"Youkhanna #0" = 0
+	"Yunes #0" = 0
+	"Yusuf #0" = 0
+	"Yuva #0" = 0
+	"Z'effun #0" = 0
+	"Zafir #0" = 0
+	"Zalelsan #0" = 0
+	"Zayar #0" = 0
+	"Zer'wal #0" = 0
+	"Zigza #0" = 0
+	"Ziri #0" = 0
+	"Zubeyr #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

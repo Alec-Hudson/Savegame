@@ -1,0 +1,25 @@
+# Vitebsk
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = animism
+clear_scripted_personalities = yes
+capital = 275
+1443.4.19 = {
+	monarch = {
+		name = "Yaropolk II"
+		birth_date = 1400.4.1
+		dynasty = "Kryvich"
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 275
+	add_treasury = 2
+	add_prestige = 92
+}

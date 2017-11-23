@@ -1,0 +1,26 @@
+# Genoa
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 101
+1433.10.12 = {
+	monarch = {
+		name = "Manuele"
+		birth_date = 1374.4.19
+		dynasty = "di Lucca"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 101
+	add_treasury = 93
+	add_prestige = 98
+}

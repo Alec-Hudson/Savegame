@@ -1,0 +1,36 @@
+# Karaid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2228
+1438.6.27 = {
+	monarch = {
+		name = "Saruca"
+		birth_date = 1401.1.1
+		dynasty = "Karaid"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Aydogan"
+		monarch_name = "Aydogan"
+		dynasty = "Karaid"
+		birth_date = 1402.12.23
+		death_date = 1482.12.23
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 2228
+	add_treasury = 34
+	add_prestige = 59
+}

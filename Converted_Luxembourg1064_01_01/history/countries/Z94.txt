@@ -1,0 +1,36 @@
+# Amalfi
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1934
+1434.1.7 = {
+	monarch = {
+		name = "Theophylaktos III"
+		birth_date = 1390.4.1
+		dynasty = "Konstantios"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Theophylaktos"
+		monarch_name = "Theophylaktos IV"
+		dynasty = "Konstantios"
+		birth_date = 1398.9.1
+		death_date = 1478.9.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 1934
+	add_treasury = 23
+	add_prestige = 88
+}

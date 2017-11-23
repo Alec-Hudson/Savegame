@@ -1,0 +1,25 @@
+# Kirghiz
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = kirgiz
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1080
+1442.2.14 = {
+	monarch = {
+		name = "Etrek"
+		birth_date = 1425.11.3
+		dynasty = "Yugra"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 1080
+	add_treasury = 9
+	add_prestige = 68
+}

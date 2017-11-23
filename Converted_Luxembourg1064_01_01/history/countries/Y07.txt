@@ -1,0 +1,37 @@
+# Kamarupa
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = assamese
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 571
+1420.3.14 = {
+	monarch = {
+		name = "Jayapala II"
+		birth_date = 1386.2.1
+		dynasty = "Mlechchha"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Samudravarman"
+		monarch_name = "Samudravarman II"
+		dynasty = "Mlechchha"
+		birth_date = 1418.5.7
+		death_date = 1498.5.7
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 571
+	add_treasury = 17
+	add_prestige = 400
+}

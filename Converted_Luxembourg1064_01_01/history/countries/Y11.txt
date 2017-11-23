@@ -1,0 +1,36 @@
+# Loulan
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2123
+1439.4.21 = {
+	monarch = {
+		name = "Aydogdu"
+		birth_date = 1413.10.7
+		dynasty = "Oghuz"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = calm_personality
+	heir = {
+		name = "Bahadir"
+		monarch_name = "Bahadir"
+		dynasty = "Oghuz"
+		birth_date = 1420.8.7
+		death_date = 1500.8.7
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2123
+	add_treasury = 33
+	add_prestige = 66
+}

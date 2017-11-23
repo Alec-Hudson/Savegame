@@ -1,0 +1,26 @@
+# Achaia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1773
+1420.8.30 = {
+	monarch = {
+		name = "Prokopios"
+		birth_date = 1387.11.23
+		dynasty = "Chlorokokis"
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 1773
+	add_treasury = 359
+	add_prestige = 63
+}

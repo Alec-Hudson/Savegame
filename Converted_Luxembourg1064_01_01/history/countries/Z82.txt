@@ -1,0 +1,26 @@
+# Bahrein
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 395
+1427.2.27 = {
+	monarch = {
+		name = "Mohammed"
+		birth_date = 1426.5.11
+		dynasty = "Tahirid"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 395
+	add_treasury = 15
+	add_prestige = 41
+}

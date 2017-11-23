@@ -1,0 +1,37 @@
+# Telingana
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = jain
+clear_scripted_personalities = yes
+capital = 2037
+1422.11.20 = {
+	monarch = {
+		name = "Neetimarga"
+		birth_date = 1365.10.14
+		dynasty = "Ratta"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Neetimarga"
+		monarch_name = "Neetimarga II"
+		dynasty = "Ratta"
+		birth_date = 1387.12.1
+		death_date = 1467.12.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_heir_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 2037
+	add_treasury = 62
+	add_prestige = 487
+}

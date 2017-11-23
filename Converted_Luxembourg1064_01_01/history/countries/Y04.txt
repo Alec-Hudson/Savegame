@@ -1,0 +1,39 @@
+# Somavamsi
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 553
+1410.8.24 = {
+	monarch = {
+		name = "Matradhyarya"
+		birth_date = 1401.10.8
+		dynasty = "Somavamsi"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = secretive_personality
+}
+1420.12.17 = {
+	heir = {
+		name = "Mahendraditya"
+		monarch_name = "Mahendraditya"
+		dynasty = "Somavamsi"
+		birth_date = 1420.12.17
+		death_date = 1500.12.17
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = just_personality
+}
+1444.11.11 = {
+	capital = 553
+	add_treasury = -20
+	add_prestige = 182
+}

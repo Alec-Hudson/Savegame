@@ -1,0 +1,166 @@
+# Zuhrid
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 68 126 72 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Amet" "Abdul" "Daniyah" "Kera" "Aiza" "Umar" "Jyad" "Rasa" "Tifilwit" "Fath" 
+	"Rahat" "Randa" "Uways" "Musa" "Raisa" "Khadija" "Nur" "Habiba" "Rasiq" "Ali" 
+	"Tarifa" "Shakira" "Layla" "Adfuns" "Abdul-Hakam" "Ahu" "Sanyo" "Naila" "Balashk" "Huda" 
+	"Gamila" "Butayna" "Malika" "Mahomat" "Gundemar" "Jahaira" "Athanagildo" "Faghira" "Sulayman" "Ermenisinda" 
+	"Halil" "Fadil" "Mubashir" "Aliyah" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Ghada" "Setara" "Taliba" 
+	"Suraya" "Yasmin" "Nizam" "Muhammad" "Bahir" "Umm" "Abu-Bakr" "Wannaqo" "Zahida" "Mansur" 
+	"Mirza" "Ahmad" "Siddray" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Berengario" 
+	"Diaco" "Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Guttier" "Johan" "Liuva" 
+	"Liuvericho" "Lupo" "Mauregato" "Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" "Petro" "Ranimiro" 
+	"Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" 
+	"Witiza" }
+monarch_names = {
+	"Amet #0" = 1
+	"Abdul #0" = 1
+	"Daniyah #0" = -1
+	"Kera #0" = -1
+	"Aiza #0" = -1
+	"Umar #0" = 1
+	"Jyad #0" = 1
+	"Rasa #0" = -1
+	"Tifilwit #0" = 1
+	"Fath #0" = 1
+	"Rahat #0" = -1
+	"Randa #0" = -1
+	"Uways #0" = 1
+	"Musa #0" = 1
+	"Raisa #0" = -1
+	"Khadija #0" = -1
+	"Nur #0" = -1
+	"Habiba #0" = -1
+	"Rasiq #0" = 1
+	"Ali #1" = 36
+	"Tarifa #0" = -1
+	"Shakira #0" = -1
+	"Layla #0" = -1
+	"Adfuns #0" = 1
+	"Abdul-Hakam #1" = 24
+	"Ahu #0" = -1
+	"Sanyo #0" = 1
+	"Naila #0" = -1
+	"Balashk #0" = 1
+	"Huda #0" = -1
+	"Gamila #0" = -1
+	"Butayna #0" = -1
+	"Malika #0" = -1
+	"Mahomat #0" = 1
+	"Gundemar #0" = 1
+	"Jahaira #0" = -1
+	"Athanagildo #0" = 1
+	"Faghira #0" = -1
+	"Sulayman #0" = 1
+	"Ermenisinda #0" = -1
+	"Halil #0" = 1
+	"Fadil #0" = 1
+	"Mubashir #0" = 1
+	"Aliyah #0" = -1
+	"Abdul-Hasan #0" = 1
+	"Abdul-Hazm #0" = 1
+	"Abdul-Rahman #0" = 1
+	"Ghada #0" = -1
+	"Setara #0" = -1
+	"Taliba #0" = -1
+	"Suraya #0" = -1
+	"Yasmin #0" = -1
+	"Nizam #0" = 1
+	"Muhammad #0" = 1
+	"Bahir #0" = 1
+	"Umm #0" = -1
+	"Abu-Bakr #0" = 1
+	"Wannaqo #0" = 1
+	"Zahida #0" = -1
+	"Mansur #0" = 1
+	"Mirza #1" = 0
+	"Ahmad #1" = 0
+	"Siddray #1" = 0
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

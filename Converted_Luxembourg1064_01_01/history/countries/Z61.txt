@@ -1,0 +1,25 @@
+# Yatvingia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = animism
+clear_scripted_personalities = yes
+capital = 1937
+1435.2.7 = {
+	monarch = {
+		name = "Liudas"
+		birth_date = 1424.10.23
+		dynasty = "of Palenke"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1937
+	add_treasury = 11
+	add_prestige = 66
+}

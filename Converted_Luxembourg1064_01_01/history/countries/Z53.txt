@@ -1,0 +1,37 @@
+# Apulia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1933
+1438.11.20 = {
+	monarch = {
+		name = "Ida"
+		birth_date = 1413.12.3
+		dynasty = "Palaiologos"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Guy"
+		monarch_name = "Guy II"
+		dynasty = "Palaiologos"
+		birth_date = 1433.12.19
+		death_date = 1513.12.19
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1933
+	add_treasury = 30
+	add_prestige = 48
+}

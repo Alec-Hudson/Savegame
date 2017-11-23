@@ -1,0 +1,201 @@
+# Powys
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 180 130 0 }
+historical_idea_groups = {
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ansfried" "Daevit" "Pieternelle" "Wila" "Bava" "Arnold" "Helena" "Olivier" "Damaes" "Willemine" 
+	"Gijsbrecht" "Hildiward" "Lambert" "Elisabeth" "Godila" "Maria" "Jan" "Ada" "Boudewijn" "Beatrijs" 
+	"Waltrud" "Gheertrude" "Frida" "Sigerda" "Pieter" "Robrecht" "Kathrijne" "Yvonne" "Willem" "Ambroos" 
+	"Thetburga" "Blanca" "Juliana" "Yonefij" "Imagina" "Sophie" "Gwenhwyfach" "Jacco" "Katrien" "Arnulf" 
+	"Jolanda" "Sanne" "Odelt" "Gwrtheyrn" "Cadeyrn" "Cadell" "Rhyddfedd" "Cyngen" "Pasgen" "Morgan" 
+	"Brochfael" "Cynan" "Selyf" "Manwgan" "Beli" "Gwylog" "Elisedd" "Rhodri" "Anarawd" "Tyfoedd" 
+	"Casnar" "Adriaen" "Albrecht" "Alwin" "Antoon" "Balderik" "Barend" "Barnaerd" "Bartolomeus" "Bavo" 
+	"Bertold" "Claes" "Claeuwaert" "Diederick" "Dirk" "Douwe" "Eduard" "Egmund" "Ekbert" "Emmo" 
+	"Engelbrecht" "Filips" "Floris" "Folbert" "Frans" "Frederik" "Gerard" "Gerolt" "Gerulf" "Gerrit" 
+	"Giselbert" "Godfried" "Godschalk" "Gozewijn" "Guij" "Gwijde" "Hendrik" "Herman" "Hubert" "Hugo" 
+	"IJsbrand" "IJsbrecht" "Jacob" "Karel" "Koenraad" "Kristof" "Lodewijk" "Ludewijn" "Lutbert" "Luthard" 
+	"Maertijn" "Marquart" "Niclaes" "Otto" "Otwin" "Onno" "Reinaerd" "Reinoud" "Reginar" "Robert" 
+	"Rodulf" "Roelof" "Roland" "Rutger" "Sebastiaen" "Sicco" "Simon" "Steven" "Steyn" "Theodolf" 
+	"Waelram" "Walter" "Wicher" "Wolfard" }
+monarch_names = {
+	"Ansfried #0" = 1
+	"Daevit #0" = 1
+	"Pieternelle #0" = -1
+	"Wila #0" = -1
+	"Bava #0" = -1
+	"Arnold #0" = 1
+	"Helena #0" = -1
+	"Olivier #0" = 1
+	"Damaes #0" = 1
+	"Willemine #1" = -19
+	"Gijsbrecht #0" = 1
+	"Hildiward #0" = 1
+	"Lambert #0" = 1
+	"Elisabeth #0" = -1
+	"Godila #0" = -1
+	"Maria #0" = -1
+	"Jan #0" = 1
+	"Ada #0" = -1
+	"Boudewijn #0" = 1
+	"Beatrijs #0" = -1
+	"Waltrud #0" = -1
+	"Gheertrude #0" = -1
+	"Frida #0" = -1
+	"Sigerda #0" = -1
+	"Pieter #0" = 1
+	"Robrecht #0" = 1
+	"Kathrijne #0" = -1
+	"Yvonne #0" = -1
+	"Willem #0" = 1
+	"Ambroos #0" = 1
+	"Thetburga #0" = -1
+	"Blanca #0" = -1
+	"Juliana #0" = -1
+	"Yonefij #0" = -1
+	"Imagina #0" = -1
+	"Sophie #0" = -1
+	"Gwenhwyfach #0" = -1
+	"Jacco #0" = 1
+	"Katrien #0" = -1
+	"Arnulf #1" = 18
+	"Jolanda #0" = -1
+	"Sanne #0" = -1
+	"Odelt #0" = -1
+	"Gwrtheyrn #1" = 0
+	"Cadeyrn #1" = 0
+	"Cadell #2" = 0
+	"Rhyddfedd #1" = 0
+	"Cyngen #2" = 0
+	"Pasgen #1" = 0
+	"Morgan #1" = 0
+	"Brochfael #2" = 0
+	"Cynan #1" = 0
+	"Selyf #1" = 0
+	"Manwgan #1" = 0
+	"Beli #1" = 0
+	"Gwylog #1" = 0
+	"Elisedd #1" = 0
+	"Rhodri #1" = 0
+	"Anarawd #1" = 0
+	"Tyfoedd #3" = 0
+	"Casnar #2" = 0
+	"Adriaen #0" = 0
+	"Albrecht #0" = 0
+	"Alwin #0" = 0
+	"Antoon #0" = 0
+	"Balderik #0" = 0
+	"Barend #0" = 0
+	"Barnaerd #0" = 0
+	"Bartolomeus #0" = 0
+	"Bavo #0" = 0
+	"Bertold #0" = 0
+	"Claes #0" = 0
+	"Claeuwaert #0" = 0
+	"Diederick #0" = 0
+	"Dirk #0" = 0
+	"Douwe #0" = 0
+	"Eduard #0" = 0
+	"Egmund #0" = 0
+	"Ekbert #0" = 0
+	"Emmo #0" = 0
+	"Engelbrecht #0" = 0
+	"Filips #0" = 0
+	"Floris #0" = 0
+	"Folbert #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"Gerard #0" = 0
+	"Gerolt #0" = 0
+	"Gerulf #0" = 0
+	"Gerrit #0" = 0
+	"Giselbert #0" = 0
+	"Godfried #0" = 0
+	"Godschalk #0" = 0
+	"Gozewijn #0" = 0
+	"Guij #0" = 0
+	"Gwijde #0" = 0
+	"Hendrik #0" = 0
+	"Herman #0" = 0
+	"Hubert #0" = 0
+	"Hugo #0" = 0
+	"IJsbrand #0" = 0
+	"IJsbrecht #0" = 0
+	"Jacob #0" = 0
+	"Karel #0" = 0
+	"Koenraad #0" = 0
+	"Kristof #0" = 0
+	"Lodewijk #0" = 0
+	"Ludewijn #0" = 0
+	"Lutbert #0" = 0
+	"Luthard #0" = 0
+	"Maertijn #0" = 0
+	"Marquart #0" = 0
+	"Niclaes #0" = 0
+	"Otto #0" = 0
+	"Otwin #0" = 0
+	"Onno #0" = 0
+	"Reinaerd #0" = 0
+	"Reinoud #0" = 0
+	"Reginar #0" = 0
+	"Robert #0" = 0
+	"Rodulf #0" = 0
+	"Roelof #0" = 0
+	"Roland #0" = 0
+	"Rutger #0" = 0
+	"Sebastiaen #0" = 0
+	"Sicco #0" = 0
+	"Simon #0" = 0
+	"Steven #0" = 0
+	"Steyn #0" = 0
+	"Theodolf #0" = 0
+	"Waelram #0" = 0
+	"Walter #0" = 0
+	"Wicher #0" = 0
+	"Wolfard #0" = 0
+}
+ship_names = {
+	Bedwyr Brycheiniog
+	Cadwaladr Caerdydd Caernarfon Caradoc Ceredigion Conwy Culhwch  
+	Deheubarth "Dewi Sant" Dolbadarn Dolwyddelan Dyfed
+	Eryri
+	Glywysing Gwalchmei "Gwenan Gorn" Gwydion Gwyn Gwynedd
+	Lleu "Llewellyn Fawr"
+	Mabinogi Math Meirionydd Morgannwg
+	Olwen "Owain Glyndwr"
+	Penfro Powys "Preiddeu Annwn" Pryderi Pwyll
+	Rhiannon
+	Taff Teifi Teirnon Tywi
+	"Ynys Môn"
+}
+

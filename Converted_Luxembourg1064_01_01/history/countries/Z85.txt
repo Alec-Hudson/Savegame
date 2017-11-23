@@ -1,0 +1,26 @@
+# Canarias
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 366
+1417.3.1 = {
+	monarch = {
+		name = "Anwa"
+		birth_date = 1395.5.1
+		dynasty = "Tikanariyen"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 366
+	add_treasury = 26
+	add_prestige = 31
+}

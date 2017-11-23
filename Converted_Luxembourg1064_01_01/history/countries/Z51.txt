@@ -1,0 +1,39 @@
+# Cagliari
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2986
+1386.7.1 = {
+	monarch = {
+		name = "Azam"
+		birth_date = 1382.4.17
+		dynasty = "Qasid"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = cruel_personality
+}
+1399.10.1 = {
+	heir = {
+		name = "Garsiya"
+		monarch_name = "Garsiya"
+		dynasty = "Qasid"
+		birth_date = 1399.10.1
+		death_date = 1479.10.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2986
+	add_treasury = 52
+	add_prestige = 236
+}

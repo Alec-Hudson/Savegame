@@ -1,0 +1,240 @@
+# Pskov
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 140 130 62 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Nalka" "Tambet" "Susi" "Piho" "Aita" "Helina" "Aulemb" "Virve" "Tuuli" "Leetõiv" 
+	"Viire" "Kai" "Ida" "Säde" "Lembit" "Aime" "Väino" "Taimi" "Kalli" "Laine" 
+	"Helgi" "Kiire" "Vihavald" "Helbe" "Helve" "Tasulemb" "Virge" "Kaur" "Vilimeel" "Jaolemb" 
+	"Eha" "Aopelg" "Aune" "Kaupo" "Kiur" "Värvu" "Alo" "Päivi" "Anni" "Küllelemb" 
+	"Aimo" "Lagle" "Killu" "Lee" "Vilja" "Sirje" "Kaido" "Ilmalemb" "Leppetõiv" "Aotõiv" 
+	"Maija" "Venno" "Karuvald" "Aasa" "Kaili" "Tõll" "Leek" "Luule" "Ilme" "Aul" 
+	"Agul" "Neeme" "Ohetõiv" "Vesse" "Yaroslav" "Aare" "Ahas" "Aho" "Ahti" "Ahvo" 
+	"Alar" "Alur" "Arp" "Arvet" "Arvo" "Atko" "Eeri" "Elmar" "Hain" "Haljas" 
+	"Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" "Igalemb" 
+	"Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmar" "Ilvelemb" "Kaalep" 
+	"Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" "Kalev" "Kalju" "Kaljuvald" "Kalle" 
+	"Kaomeel" "Kaugemeel" "Kiurupelg" "Koit" "Kosk" "Kudres" "Lible" "Lättelemb" "Manivald" "Mart" 
+	"Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Niglas" "Ohevald" "Olev" "Onni" 
+	"Otelemb" "Ott" "Pihl" "Pikne" "Päevalemb" "Pärt" "Raak" "Raho" "Rahuleid" "Sulev" 
+	"Sutemeel" "Sutepelg" "Tarva" "Tarvet" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" 
+	"Tõiv" "Tõivulemb" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" 
+	"Veli" "Vello" "Vililemb" "Vilitõiv" "Vilivald" "Vootele" "Värvo" "Õigemeel" "Ülo" }
+monarch_names = {
+	"Nalka #0" = 1
+	"Tambet #0" = 1
+	"Susi #0" = 1
+	"Piho #0" = 1
+	"Aita #0" = -1
+	"Helina #0" = -1
+	"Aulemb #1" = 27
+	"Virve #0" = -1
+	"Tuuli #0" = -1
+	"Leetõiv #0" = 1
+	"Viire #0" = -1
+	"Kai #0" = -1
+	"Ida #0" = -1
+	"Säde #0" = -1
+	"Lembit #1" = 18
+	"Aime #0" = -1
+	"Väino #0" = 1
+	"Taimi #0" = -1
+	"Kalli #0" = -1
+	"Laine #0" = -1
+	"Helgi #0" = -1
+	"Kiire #0" = -1
+	"Vihavald #0" = 1
+	"Helbe #0" = -1
+	"Helve #0" = -1
+	"Tasulemb #0" = 1
+	"Virge #0" = -1
+	"Kaur #0" = 1
+	"Vilimeel #0" = 1
+	"Jaolemb #0" = 1
+	"Eha #0" = -1
+	"Aopelg #0" = 1
+	"Aune #0" = -1
+	"Kaupo #0" = 1
+	"Kiur #0" = 1
+	"Värvu #0" = -1
+	"Alo #0" = 1
+	"Päivi #0" = -1
+	"Anni #0" = -1
+	"Küllelemb #0" = 1
+	"Aimo #0" = -1
+	"Lagle #0" = -1
+	"Killu #0" = -1
+	"Lee #0" = -1
+	"Vilja #0" = -1
+	"Sirje #0" = -1
+	"Kaido #0" = 1
+	"Ilmalemb #0" = 1
+	"Leppetõiv #0" = 1
+	"Aotõiv #0" = 1
+	"Maija #0" = -1
+	"Venno #0" = 1
+	"Karuvald #0" = 1
+	"Aasa #0" = -1
+	"Kaili #0" = -1
+	"Tõll #0" = 1
+	"Leek #0" = -1
+	"Luule #0" = -1
+	"Ilme #0" = -1
+	"Aul #0" = 1
+	"Agul #0" = 1
+	"Neeme #0" = 1
+	"Ohetõiv #0" = 1
+	"Vesse #0" = 1
+	"Yaroslav #1" = 0
+	"Aare #0" = 0
+	"Ahas #0" = 0
+	"Aho #0" = 0
+	"Ahti #0" = 0
+	"Ahvo #0" = 0
+	"Alar #0" = 0
+	"Alur #0" = 0
+	"Arp #0" = 0
+	"Arvet #0" = 0
+	"Arvo #0" = 0
+	"Atko #0" = 0
+	"Eeri #0" = 0
+	"Elmar #0" = 0
+	"Hain #0" = 0
+	"Haljas #0" = 0
+	"Heameel #0" = 0
+	"Heatõiv #0" = 0
+	"Hoovatõiv #0" = 0
+	"Hurmas #0" = 0
+	"Hurmetõiv #0" = 0
+	"Hõimulemb #0" = 0
+	"Hüvalemb #0" = 0
+	"Hüvameel #0" = 0
+	"Hüvatõiv #0" = 0
+	"Igalemb #0" = 0
+	"Igapäiv #0" = 0
+	"Ihalemb #0" = 0
+	"Ihameel #0" = 0
+	"Ihar #0" = 0
+	"Ihatõiv #0" = 0
+	"Ihavald #0" = 0
+	"Illimar #0" = 0
+	"Ilmar #0" = 0
+	"Ilvelemb #0" = 0
+	"Kaalep #0" = 0
+	"Kaarel #0" = 0
+	"Kaaren #0" = 0
+	"Kahar #0" = 0
+	"Kahru #0" = 0
+	"Kahrulemb #0" = 0
+	"Kahus #0" = 0
+	"Kalev #0" = 0
+	"Kalju #0" = 0
+	"Kaljuvald #0" = 0
+	"Kalle #0" = 0
+	"Kaomeel #0" = 0
+	"Kaugemeel #0" = 0
+	"Kiurupelg #0" = 0
+	"Koit #0" = 0
+	"Kosk #0" = 0
+	"Kudres #0" = 0
+	"Lible #0" = 0
+	"Lättelemb #0" = 0
+	"Manivald #0" = 0
+	"Mart #0" = 0
+	"Maru #0" = 0
+	"Mati #0" = 0
+	"Mats #0" = 0
+	"Meelis #0" = 0
+	"Mehis #0" = 0
+	"Meigo #0" = 0
+	"Niglas #0" = 0
+	"Ohevald #0" = 0
+	"Olev #0" = 0
+	"Onni #0" = 0
+	"Otelemb #0" = 0
+	"Ott #0" = 0
+	"Pihl #0" = 0
+	"Pikne #0" = 0
+	"Päevalemb #0" = 0
+	"Pärt #0" = 0
+	"Raak #0" = 0
+	"Raho #0" = 0
+	"Rahuleid #0" = 0
+	"Sulev #0" = 0
+	"Sutemeel #0" = 0
+	"Sutepelg #0" = 0
+	"Tarva #0" = 0
+	"Tarvet #0" = 0
+	"Toivo #0" = 0
+	"Toom #0" = 0
+	"Tunne #0" = 0
+	"Tutkas #0" = 0
+	"Tuul #0" = 0
+	"Tõeleid #0" = 0
+	"Tõiv #0" = 0
+	"Tõivulemb #0" = 0
+	"Tõnn #0" = 0
+	"Uku #0" = 0
+	"Urmas #0" = 0
+	"Uru #0" = 0
+	"Valdur #0" = 0
+	"Vambola #0" = 0
+	"Vandemeel #0" = 0
+	"Varjelemb #0" = 0
+	"Veli #0" = 0
+	"Vello #0" = 0
+	"Vililemb #0" = 0
+	"Vilitõiv #0" = 0
+	"Vilivald #0" = 0
+	"Vootele #0" = 0
+	"Värvo #0" = 0
+	"Õigemeel #0" = 0
+	"Ülo #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

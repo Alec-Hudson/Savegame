@@ -1,0 +1,26 @@
+# Thrace
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = nestorian
+clear_scripted_personalities = yes
+capital = 149
+1431.10.19 = {
+	monarch = {
+		name = "Lazaros"
+		birth_date = 1393.2.1
+		dynasty = "de Thouars"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = 66
+	add_prestige = 168
+}

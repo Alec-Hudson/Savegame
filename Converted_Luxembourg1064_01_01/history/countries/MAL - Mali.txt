@@ -1,0 +1,26 @@
+# Mali
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1132
+1426.1.21 = {
+	monarch = {
+		name = "Alayaman"
+		birth_date = 1398.2.1
+		dynasty = "Cisse"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 1132
+	add_treasury = 343
+	add_prestige = 126
+}

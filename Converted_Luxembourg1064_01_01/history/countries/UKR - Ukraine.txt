@@ -1,0 +1,26 @@
+# Ruthenia
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 280
+1429.2.26 = {
+	monarch = {
+		name = "Yaroslav"
+		birth_date = 1396.6.1
+		dynasty = "Seversky"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+}
+1444.11.11 = {
+	capital = 280
+	add_treasury = -1
+	add_prestige = 150
+}

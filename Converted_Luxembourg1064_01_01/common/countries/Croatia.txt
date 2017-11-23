@@ -1,0 +1,140 @@
+# Croatia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 162 53 53 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Danail" "Petra" "Dobromir" "Branimir" "Antonija" "Adriana" "Vitomir" "Viola" "Vlaicu" "Valerija" 
+	"Vedrana" "Ognjen" "Duym" "Maria" "Ladika" "Braslav" "Dujam" "Jagoda" "Zlata" "Tatjana" 
+	"Budimir" "Viseslav" "Borna" "Vladislav" "Mislav" "Trpimir" "Domagoj" "Iljko" "Boris" "Matej" 
+	"Dragan" "Hrvoje" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Castimir" "Dmitar" "Dragomir" 
+	"Drzislav" "Filip" "Gaspar" "Gheorghe" "Grigorii" "Hranislav" "Igor" "Ioan" "Ivan" "Ivanis" 
+	"Jitej" "Karlo" "Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Mihajlo" "Milman" 
+	"Mutimir" "Nikolitza" "Petar" "Prohor" "Radomir" "Ratimir" "Sebeslav" "Seslav" "Slavich" "Stanislav" 
+	"Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrdoslav" "Tvrtko" "Ulfo" "Vid" "Vukan" "Zvonimir" }
+monarch_names = {
+	"Danail #0" = 1
+	"Petra #0" = -1
+	"Dobromir #0" = 1
+	"Branimir #0" = 1
+	"Antonija #0" = -1
+	"Adriana #0" = -1
+	"Vitomir #2" = 24
+	"Viola #0" = -1
+	"Vlaicu #1" = 21
+	"Valerija #0" = -1
+	"Vedrana #0" = -1
+	"Ognjen #0" = 1
+	"Duym #2" = 21
+	"Maria #0" = -1
+	"Ladika #0" = -1
+	"Braslav #0" = 1
+	"Dujam #1" = 18
+	"Jagoda #0" = -1
+	"Zlata #0" = -1
+	"Tatjana #0" = -1
+	"Budimir #1" = 0
+	"Viseslav #1" = 0
+	"Borna #1" = 0
+	"Vladislav #1" = 0
+	"Mislav #1" = 0
+	"Trpimir #1" = 0
+	"Domagoj #1" = 0
+	"Iljko #2" = 0
+	"Boris #1" = 0
+	"Matej #1" = 0
+	"Dragan #1" = 0
+	"Hrvoje #1" = 0
+	"Adam #0" = 0
+	"Andrija #0" = 0
+	"Bartol #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Castimir #0" = 0
+	"Dmitar #0" = 0
+	"Dragomir #0" = 0
+	"Drzislav #0" = 0
+	"Filip #0" = 0
+	"Gaspar #0" = 0
+	"Gheorghe #0" = 0
+	"Grigorii #0" = 0
+	"Hranislav #0" = 0
+	"Igor #0" = 0
+	"Ioan #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Jitej #0" = 0
+	"Karlo #0" = 0
+	"Koloman #0" = 0
+	"Kresimir #0" = 0
+	"Ladislav #0" = 0
+	"Ljudevit #0" = 0
+	"Ljutomisl #0" = 0
+	"Lovro #0" = 0
+	"Mihajlo #0" = 0
+	"Milman #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Ratimir #0" = 0
+	"Sebeslav #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Stanislav #0" = 0
+	"Stjepan #0" = 0
+	"Sulvan #0" = 0
+	"Teodor #0" = 0
+	"Tomislav #0" = 0
+	"Tvrdoslav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vukan #0" = 0
+	"Zvonimir #0" = 0
+}
+ship_names = {
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
+}
+

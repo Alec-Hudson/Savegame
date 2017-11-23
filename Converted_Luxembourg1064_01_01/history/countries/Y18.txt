@@ -1,0 +1,37 @@
+# Qinghai
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 706
+1429.1.1 = {
+	monarch = {
+		name = "Toktamis"
+		birth_date = 1398.6.1
+		dynasty = "Oghuz"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = just_personality
+	heir = {
+		name = "Suleyman"
+		monarch_name = "Suleyman"
+		dynasty = "Oghuz"
+		birth_date = 1421.8.27
+		death_date = 1501.8.27
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 706
+	add_treasury = 33
+	add_prestige = 159
+}

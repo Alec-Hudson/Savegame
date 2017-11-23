@@ -1,0 +1,36 @@
+# Suomi
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = animism
+clear_scripted_personalities = yes
+capital = 1776
+1435.8.28 = {
+	monarch = {
+		name = "Tuure"
+		birth_date = 1416.10.19
+		dynasty = "Guoládat"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	heir = {
+		name = "Lávrrohas"
+		monarch_name = "Lávrrohas"
+		dynasty = "Guoládat"
+		birth_date = 1398.6.1
+		death_date = 1478.6.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1776
+	add_treasury = 6
+	add_prestige = 6
+}

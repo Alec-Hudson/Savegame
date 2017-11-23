@@ -1,0 +1,25 @@
+# Lesser Poland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 262
+1439.10.24 = {
+	monarch = {
+		name = "Jogaila"
+		birth_date = 1389.11.19
+		dynasty = "Gedgaudis"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 262
+	add_treasury = 22
+	add_prestige = 51
+}

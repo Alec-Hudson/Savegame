@@ -1,0 +1,25 @@
+# Mazovia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 256
+1439.12.23 = {
+	monarch = {
+		name = "Songaila"
+		birth_date = 1409.5.12
+		dynasty = "Giedraitis"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 256
+	add_treasury = 31
+	add_prestige = 92
+}

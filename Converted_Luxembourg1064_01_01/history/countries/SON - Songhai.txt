@@ -1,0 +1,26 @@
+# Songhay
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1133
+1415.10.17 = {
+	monarch = {
+		name = "Morobani III"
+		birth_date = 1387.7.1
+		dynasty = "Zuwa"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1133
+	add_treasury = 211
+	add_prestige = 55
+}

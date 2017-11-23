@@ -1,0 +1,39 @@
+# Pecs
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1864
+1424.6.5 = {
+	monarch = {
+		name = "Abelino"
+		birth_date = 1411.2.28
+		dynasty = "Radelchis"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1429.7.9 = {
+	heir = {
+		name = "Martino"
+		monarch_name = "Martino III"
+		dynasty = "Radelchis"
+		birth_date = 1429.7.9
+		death_date = 1509.7.9
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 1864
+	add_treasury = 33
+	add_prestige = 114
+}

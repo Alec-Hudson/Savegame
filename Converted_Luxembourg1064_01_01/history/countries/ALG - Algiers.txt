@@ -1,0 +1,25 @@
+# Alger
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 339
+1443.7.1 = {
+	monarch = {
+		name = "Jibril"
+		birth_date = 1417.7.13
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 339
+	add_treasury = 12
+	add_prestige = 385
+}

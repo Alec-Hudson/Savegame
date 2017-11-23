@@ -1,0 +1,26 @@
+# Armeniacon
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2304
+1414.3.19 = {
+	monarch = {
+		name = "Niphon"
+		birth_date = 1391.2.1
+		dynasty = "Kourkouas"
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2304
+	add_treasury = 113
+	add_prestige = 199
+}

@@ -1,0 +1,321 @@
+# Baden
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 117 161 67 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Sviatoslav" "Viacheslav" "Praxida" "Ausala" "Agafya" "Vasilisa" "Darya" "Vyshata" "Fevronia" "Niklas" 
+	"Dobroslava" "Afanasiy" "Feodor" "Rostislav" "Sviatoslava" "Helena" "Praskovya" "Vseslav" "Vladislav" "Yevdokia" 
+	"Þordr" "Rycheza" "Nikita" "Stanislav" "Totil" "Volodar" "Bengt" "Ylva" "Fedot" "Verkhoslava" 
+	"Liudmila" "Yaropolk" "Xenia" "Dobronega" "Falki" "Yaroslav" "Mielitty" "Szczesny" "Yaroslava" "Anastasia" 
+	"Feodora" "Yemelyan" "Trifon" "Koz'ma" "Kirill" "Zvenislava" "Iziaslav" "Izbygnev" "Ingvar" "Predslava" 
+	"Veleslava" "Tatyana" "Varvara" "Kol" "Agnieszka" "Vasilko" "Zabava" "Rogneda" "Alexei" "Wizlaw" 
+	"Gleb" "Prebrana" "Sbyslava" "Birger" "Anna" "Ruslan" "Iliya" "Róza" "Dragomira" "Lev" 
+	"Marina" "Zwinislawa" "Domawuj" "Ale" "Gradislava" "Linda" "Yekaterina" "Ulfr" "Yefimiy" "Sverker" 
+	"Ulyana" "Pereyaslava" "Dobrynia" "Gurli" "Zofia" "Irina" "Guðrun" "Sviatopolk" "Yefimia" "Radoslav" 
+	"Rogvolod" "Ulita" "Briachislav" "Dobrawa" "Svetozar" "Berimir" "Tatimir" "Vadim" "Venceslav" "Mechislav" 
+	"Kreslav" "Krasimir" "Pribislava" "Gremislava" "Boris" "Vseslava" "Yeremey" "Yelisey" "Boleslava" "Svatava" 
+	"Terentiy" "Feodosia" "Premyslava" "Rostislava" "Yevpraxia" "Agrafena" "Gorislava" "Malfrida" "Vasiliy" "Bezprzym" 
+	"Pechna" "Martyna" "Jakusz" "Dobrava" "Milena" "Otokar" "Kenna" "Voislav" "Alexandra" "Mstislav" 
+	"Vladimir" "Gavriil" "Wladyslaw" "Salomea" "Ludmila" "Rodislav" "Barnim" "Dytryk" "Grazyna" "Kamila" 
+	"Viacheslava" "Jaromar" "Demid" "Liubava" "Igor" "Tuija" "Yevstafiy" "Aleksander" "Andrzej" "Antoni" 
+	"Aron" "Bartosz" "Bedrich" "Blazej" "Bogislaw" "Bohdan" "Bohumir" "Boleslaw" "Boriwoj" "Bozydar" 
+	"Branimir" "Branislav" "Bretislav" "Casimir" "Ctibor" "Dobieslaw" "Dobromil" "Drosuk" "Frantisek" "Gawel" 
+	"Grzegorz" "Havel" "Jacenty" "Jakub" "Janusz" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jindrich" 
+	"Jirí" "Jozef" "Juliusz" "Kajetan" "Kamil" "Karel" "Kasper" "Kazimierz" "Kliment" "Kolman" 
+	"Kornel" "Kresimir" "Krzeslaw" "Krzysztof" "Lech" "Leszek" "Lubomir" "Lucjan" "Ludvik" "Marek" 
+	"Marian" "Martin" "Mateusz" "Mieszko" "Mikolás" "Miloslaw" "Milosz" "Miroslaw" "Mscislaw" "Msciwoj" 
+	"Oldrich" "Ondrej" "Patryk" "Pawel" "Piotr" "Prendota" "Przemysl" "Przybyslaw" "Radomil" "Radomir" 
+	"Ryszard" "Sambor" "Sobieslav" "Stanislaw" "Strasz" "Swietopelk" "Swietoslaw" "Szczepan" "Szymon" "Tadeusz" 
+	"Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" "Wenceslaw" "Wincenty" 
+	"Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
+monarch_names = {
+	"Sviatoslav #0" = 1
+	"Viacheslav #0" = 1
+	"Praxida #0" = -1
+	"Ausala #0" = -1
+	"Agafya #0" = -1
+	"Vasilisa #0" = -1
+	"Darya #0" = -1
+	"Vyshata #0" = 1
+	"Fevronia #0" = -1
+	"Niklas #0" = 1
+	"Dobroslava #0" = -1
+	"Afanasiy #0" = 1
+	"Feodor #0" = 1
+	"Rostislav #0" = 1
+	"Sviatoslava #0" = -1
+	"Helena #0" = -1
+	"Praskovya #0" = -1
+	"Vseslav #0" = 1
+	"Vladislav #0" = 1
+	"Yevdokia #0" = -1
+	"Þordr #0" = 1
+	"Rycheza #0" = -1
+	"Nikita #0" = 1
+	"Stanislav #0" = 1
+	"Totil #0" = 1
+	"Volodar #0" = 1
+	"Bengt #0" = 1
+	"Ylva #0" = -1
+	"Fedot #0" = 1
+	"Verkhoslava #0" = -1
+	"Liudmila #0" = -1
+	"Yaropolk #0" = 1
+	"Xenia #0" = -1
+	"Dobronega #0" = -1
+	"Falki #0" = 1
+	"Yaroslav #0" = 1
+	"Mielitty #0" = 1
+	"Szczesny #0" = 1
+	"Yaroslava #0" = -1
+	"Anastasia #0" = -1
+	"Feodora #0" = -1
+	"Yemelyan #0" = 1
+	"Trifon #0" = 1
+	"Koz'ma #0" = 1
+	"Kirill #0" = 1
+	"Zvenislava #0" = -1
+	"Iziaslav #0" = 1
+	"Izbygnev #0" = 1
+	"Ingvar #0" = 1
+	"Predslava #0" = -1
+	"Veleslava #0" = -1
+	"Tatyana #0" = -1
+	"Varvara #0" = -1
+	"Kol #0" = 1
+	"Agnieszka #0" = -1
+	"Vasilko #0" = 1
+	"Zabava #0" = -1
+	"Rogneda #0" = -1
+	"Alexei #0" = 1
+	"Wizlaw #0" = 1
+	"Gleb #0" = 1
+	"Prebrana #0" = -1
+	"Sbyslava #0" = -1
+	"Birger #0" = 1
+	"Anna #0" = -1
+	"Ruslan #0" = 1
+	"Iliya #0" = 1
+	"Róza #0" = -1
+	"Dragomira #0" = -1
+	"Lev #0" = 1
+	"Marina #0" = -1
+	"Zwinislawa #0" = -1
+	"Domawuj #0" = 1
+	"Ale #0" = 1
+	"Gradislava #0" = -1
+	"Linda #0" = -1
+	"Yekaterina #0" = -1
+	"Ulfr #0" = 1
+	"Yefimiy #0" = 1
+	"Sverker #0" = 1
+	"Ulyana #0" = -1
+	"Pereyaslava #0" = -1
+	"Dobrynia #0" = 1
+	"Gurli #0" = -1
+	"Zofia #0" = -1
+	"Irina #0" = -1
+	"Guðrun #0" = -1
+	"Sviatopolk #0" = 1
+	"Yefimia #0" = -1
+	"Radoslav #0" = 1
+	"Rogvolod #0" = 1
+	"Ulita #0" = -1
+	"Briachislav #0" = 1
+	"Dobrawa #0" = -1
+	"Svetozar #0" = 1
+	"Berimir #0" = 1
+	"Tatimir #0" = 1
+	"Vadim #0" = 1
+	"Venceslav #0" = 1
+	"Mechislav #0" = 1
+	"Kreslav #0" = 1
+	"Krasimir #0" = 1
+	"Pribislava #0" = -1
+	"Gremislava #0" = -1
+	"Boris #0" = 1
+	"Vseslava #0" = -1
+	"Yeremey #0" = 1
+	"Yelisey #0" = 1
+	"Boleslava #0" = -1
+	"Svatava #0" = -1
+	"Terentiy #0" = 1
+	"Feodosia #0" = -1
+	"Premyslava #0" = -1
+	"Rostislava #0" = -1
+	"Yevpraxia #0" = -1
+	"Agrafena #0" = -1
+	"Gorislava #0" = -1
+	"Malfrida #0" = -1
+	"Vasiliy #0" = 1
+	"Bezprzym #0" = 1
+	"Pechna #0" = -1
+	"Martyna #0" = -1
+	"Jakusz #0" = 1
+	"Dobrava #0" = -1
+	"Milena #0" = -1
+	"Otokar #0" = 1
+	"Kenna #0" = -1
+	"Voislav #0" = 1
+	"Alexandra #0" = -1
+	"Mstislav #0" = 1
+	"Vladimir #0" = 1
+	"Gavriil #0" = 1
+	"Wladyslaw #0" = 1
+	"Salomea #0" = -1
+	"Ludmila #0" = -1
+	"Rodislav #0" = 1
+	"Barnim #0" = 1
+	"Dytryk #0" = 1
+	"Grazyna #0" = -1
+	"Kamila #0" = -1
+	"Viacheslava #0" = -1
+	"Jaromar #0" = 1
+	"Demid #0" = 1
+	"Liubava #0" = -1
+	"Igor #0" = 1
+	"Tuija #0" = -1
+	"Yevstafiy #0" = 1
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Antoni #0" = 0
+	"Aron #0" = 0
+	"Bartosz #0" = 0
+	"Bedrich #0" = 0
+	"Blazej #0" = 0
+	"Bogislaw #0" = 0
+	"Bohdan #0" = 0
+	"Bohumir #0" = 0
+	"Boleslaw #0" = 0
+	"Boriwoj #0" = 0
+	"Bozydar #0" = 0
+	"Branimir #0" = 0
+	"Branislav #0" = 0
+	"Bretislav #0" = 0
+	"Casimir #0" = 0
+	"Ctibor #0" = 0
+	"Dobieslaw #0" = 0
+	"Dobromil #0" = 0
+	"Drosuk #0" = 0
+	"Frantisek #0" = 0
+	"Gawel #0" = 0
+	"Grzegorz #0" = 0
+	"Havel #0" = 0
+	"Jacenty #0" = 0
+	"Jakub #0" = 0
+	"Janusz #0" = 0
+	"Jaromil #0" = 0
+	"Jaromir #0" = 0
+	"Jaroslav #0" = 0
+	"Jedrzej #0" = 0
+	"Jindrich #0" = 0
+	"Jirí #0" = 0
+	"Jozef #0" = 0
+	"Juliusz #0" = 0
+	"Kajetan #0" = 0
+	"Kamil #0" = 0
+	"Karel #0" = 0
+	"Kasper #0" = 0
+	"Kazimierz #0" = 0
+	"Kliment #0" = 0
+	"Kolman #0" = 0
+	"Kornel #0" = 0
+	"Kresimir #0" = 0
+	"Krzeslaw #0" = 0
+	"Krzysztof #0" = 0
+	"Lech #0" = 0
+	"Leszek #0" = 0
+	"Lubomir #0" = 0
+	"Lucjan #0" = 0
+	"Ludvik #0" = 0
+	"Marek #0" = 0
+	"Marian #0" = 0
+	"Martin #0" = 0
+	"Mateusz #0" = 0
+	"Mieszko #0" = 0
+	"Mikolás #0" = 0
+	"Miloslaw #0" = 0
+	"Milosz #0" = 0
+	"Miroslaw #0" = 0
+	"Mscislaw #0" = 0
+	"Msciwoj #0" = 0
+	"Oldrich #0" = 0
+	"Ondrej #0" = 0
+	"Patryk #0" = 0
+	"Pawel #0" = 0
+	"Piotr #0" = 0
+	"Prendota #0" = 0
+	"Przemysl #0" = 0
+	"Przybyslaw #0" = 0
+	"Radomil #0" = 0
+	"Radomir #0" = 0
+	"Ryszard #0" = 0
+	"Sambor #0" = 0
+	"Sobieslav #0" = 0
+	"Stanislaw #0" = 0
+	"Strasz #0" = 0
+	"Swietopelk #0" = 0
+	"Swietoslaw #0" = 0
+	"Szczepan #0" = 0
+	"Szymon #0" = 0
+	"Tadeusz #0" = 0
+	"Tomasz #0" = 0
+	"Udalrich #0" = 0
+	"Urjasz #0" = 0
+	"Vojtech #0" = 0
+	"Waclaw #0" = 0
+	"Walenty #0" = 0
+	"Wratislaw #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wenceslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wlodek #0" = 0
+	"Wlodzimierz #0" = 0
+	"Wlodzislaw #0" = 0
+	"Zbigniew #0" = 0
+	"Zdenek #0" = 0
+	"Zdislav #0" = 0
+	"Zygmunt #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

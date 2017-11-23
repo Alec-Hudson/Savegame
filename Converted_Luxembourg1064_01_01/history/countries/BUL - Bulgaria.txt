@@ -1,0 +1,26 @@
+# Bulgaria
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 150
+1425.8.14 = {
+	monarch = {
+		name = "Zdeslav"
+		birth_date = 1408.10.7
+		dynasty = "Balgarsko"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 150
+	add_treasury = 20
+	add_prestige = 257
+}

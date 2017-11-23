@@ -1,0 +1,39 @@
+# Færeyar
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1979
+1399.9.1 = {
+	monarch = {
+		name = "Arngrimr"
+		birth_date = 1385.7.1
+		dynasty = "Stjarna"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = cruel_personality
+}
+1407.7.15 = {
+	heir = {
+		name = "Inge"
+		monarch_name = "Inge"
+		dynasty = "Stjarna"
+		birth_date = 1407.7.15
+		death_date = 1487.7.15
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 1979
+	add_treasury = 57
+	add_prestige = 47
+}

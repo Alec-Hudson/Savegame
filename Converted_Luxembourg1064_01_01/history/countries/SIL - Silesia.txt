@@ -1,0 +1,39 @@
+# Silesia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 60
+1426.1.25 = {
+	monarch = {
+		name = "Vladislav"
+		birth_date = 1413.12.22
+		dynasty = "of the Slezanie"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = free_thinker_personality
+}
+1432.5.12 = {
+	heir = {
+		name = "Szczesny"
+		monarch_name = "Szczesny II"
+		dynasty = "of the Slezanie"
+		birth_date = 1432.5.12
+		death_date = 1512.5.12
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 60
+	add_treasury = 11
+	add_prestige = 65
+}

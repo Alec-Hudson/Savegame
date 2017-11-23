@@ -1,0 +1,26 @@
+# Murcia
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 221
+1429.6.21 = {
+	monarch = {
+		name = "Raf III"
+		birth_date = 1423.5.12
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 221
+	add_treasury = 42
+	add_prestige = 390
+}

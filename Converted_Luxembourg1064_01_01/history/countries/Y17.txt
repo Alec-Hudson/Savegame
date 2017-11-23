@@ -1,0 +1,36 @@
+# Ötüken
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 716
+1437.10.6 = {
+	monarch = {
+		name = "Saruca"
+		birth_date = 1422.12.9
+		dynasty = "Oghuz"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed"
+		dynasty = "Oghuz"
+		birth_date = 1413.2.6
+		death_date = 1493.2.6
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 716
+	add_treasury = 0
+	add_prestige = 63
+}

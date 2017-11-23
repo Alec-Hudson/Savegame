@@ -1,0 +1,172 @@
+# Aslamid
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 98 5 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Abdallah" "Salma" "Rafiqa" "Aiza" "Nur" "Shakira" "Suleyman" "Umar" "Fahriya" "Muyahid" 
+	"Balashk" "Tarifa" "Umm" "Butayna" "Fahra" "Winidilda" "Ma'n" "Khadija" "Gamila" "Suraya" 
+	"Naila" "Thashim" "Adfuns" "Zahra" "Abdul-Hazm" "Sa'd" "Rasiq" "Jalid" "Ubayd-Allah" "Hashim" 
+	"Yahya" "Abd-al-Aziz" "Idris" "Faghira" "Musa" "Aslam" "Fadil" "Ali" "Ghada" "Mundir" 
+	"Layla" "Hanifa" "Paymaneh" "Yasmin" "Maryam" "Abdul" "Alim" "Ayyub" "Souzan" "Sami" 
+	"Rashida" "Fadl" "Raf" "Amsha" "Abu" "Muhammad" "Karima" "Abda" "Wannaqo" "Safiya" 
+	"Wahida" "Zeyd" "Sanyo" "Mubashir" "Siddray" "Isra" "Malika" "Adelfonso" "Agila" "Airmanagildo" 
+	"Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" "Diaco" "Fafila" "Friedenando" "Friednand" "Froila" 
+	"Garçi" "Gonçalo" "Gundemar" "Guttier" "Johan" "Liuva" "Liuvericho" "Lupo" "Mauregato" "Monnio" 
+	"Nunno" "Oliba" "Ordonno" "Pelagio" "Petro" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" 
+	"Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Abdallah #1" = 21
+	"Salma #0" = -1
+	"Rafiqa #0" = -1
+	"Aiza #0" = -1
+	"Nur #0" = -1
+	"Shakira #0" = -1
+	"Suleyman #0" = 1
+	"Umar #0" = 1
+	"Fahriya #0" = -1
+	"Muyahid #2" = 24
+	"Balashk #0" = 1
+	"Tarifa #0" = -1
+	"Umm #0" = -1
+	"Butayna #0" = -1
+	"Fahra #0" = -1
+	"Winidilda #0" = -1
+	"Ma'n #1" = 21
+	"Khadija #0" = -1
+	"Gamila #0" = -1
+	"Suraya #0" = -1
+	"Naila #0" = -1
+	"Thashim #0" = -1
+	"Adfuns #0" = 1
+	"Zahra #0" = -1
+	"Abdul-Hazm #0" = 1
+	"Sa'd #0" = 1
+	"Rasiq #1" = 24
+	"Jalid #1" = 18
+	"Ubayd-Allah #0" = 1
+	"Hashim #1" = 18
+	"Yahya #0" = 1
+	"Abd-al-Aziz #1" = 21
+	"Idris #0" = 1
+	"Faghira #0" = -1
+	"Musa #0" = 1
+	"Aslam #1" = 18
+	"Fadil #0" = 1
+	"Ali #0" = 1
+	"Ghada #0" = -1
+	"Mundir #0" = 1
+	"Layla #0" = -1
+	"Hanifa #0" = -1
+	"Paymaneh #0" = -1
+	"Yasmin #0" = -1
+	"Maryam #0" = -1
+	"Abdul #0" = 1
+	"Alim #0" = 1
+	"Ayyub #0" = 1
+	"Souzan #0" = -1
+	"Sami #0" = 1
+	"Rashida #0" = -1
+	"Fadl #1" = 18
+	"Raf #0" = 1
+	"Amsha #0" = -1
+	"Abu #0" = 1
+	"Muhammad #2" = 24
+	"Karima #0" = -1
+	"Abda #0" = -1
+	"Wannaqo #1" = 24
+	"Safiya #0" = -1
+	"Wahida #0" = -1
+	"Zeyd #0" = 1
+	"Sanyo #0" = 1
+	"Mubashir #0" = 1
+	"Siddray #0" = 1
+	"Isra #0" = -1
+	"Malika #0" = -1
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

@@ -1,0 +1,37 @@
+# Pomeralia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = polish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2997
+1435.6.16 = {
+	monarch = {
+		name = "Dalimir II"
+		birth_date = 1404.9.9
+		dynasty = "Kujawski"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = martial_educator_personality
+}
+1439.8.18 = {
+	heir = {
+		name = "Czyrzniech"
+		monarch_name = "Czyrzniech"
+		dynasty = "Kujawski"
+		birth_date = 1439.8.18
+		death_date = 1519.8.18
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2997
+	add_treasury = 22
+	add_prestige = 32
+}

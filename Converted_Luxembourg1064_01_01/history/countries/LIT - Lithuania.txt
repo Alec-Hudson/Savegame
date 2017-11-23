@@ -1,0 +1,27 @@
+# Lithuania
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lithuanian
+religion = animism
+clear_scripted_personalities = yes
+capital = 270
+1405.4.9 = {
+	monarch = {
+		name = "Gintare"
+		birth_date = 1384.2.3
+		dynasty = "Palemonaitis"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 270
+	add_treasury = 22
+	add_prestige = 89
+}

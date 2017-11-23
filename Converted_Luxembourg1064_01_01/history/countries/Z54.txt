@@ -1,0 +1,39 @@
+# Domazlice
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 2968
+1408.8.9 = {
+	monarch = {
+		name = "Witosz"
+		birth_date = 1398.8.1
+		dynasty = "Powal"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1420.1.28 = {
+	heir = {
+		name = "Sulislaw"
+		monarch_name = "Sulislaw"
+		dynasty = "Powal"
+		birth_date = 1420.1.28
+		death_date = 1500.1.28
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2968
+	add_treasury = 28
+	add_prestige = 38
+}

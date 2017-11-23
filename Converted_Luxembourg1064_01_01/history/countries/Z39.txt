@@ -1,0 +1,26 @@
+# Portucale
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = suebi
+religion = shiite
+clear_scripted_personalities = yes
+capital = 232
+1432.7.21 = {
+	monarch = {
+		name = "Lubb"
+		birth_date = 1432.3.18
+		dynasty = "Marwanid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 232
+	add_treasury = 25
+	add_prestige = 47
+}

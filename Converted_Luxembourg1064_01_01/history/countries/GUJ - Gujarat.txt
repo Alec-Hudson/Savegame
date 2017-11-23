@@ -1,0 +1,26 @@
+# Gujarat
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 521
+1434.1.23 = {
+	monarch = {
+		name = "Prabhavati"
+		birth_date = 1423.4.10
+		dynasty = "Pratihara"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 521
+	add_treasury = 15
+	add_prestige = 369
+}

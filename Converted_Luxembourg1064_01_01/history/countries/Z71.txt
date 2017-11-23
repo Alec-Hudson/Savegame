@@ -1,0 +1,37 @@
+# Thessalonike
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1853
+1441.3.1 = {
+	monarch = {
+		name = "Petros"
+		birth_date = 1433.10.27
+		dynasty = "Aplakes"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = tolerant_personality
+	heir = {
+		name = "Xene"
+		monarch_name = "Xene"
+		dynasty = "Aplakes"
+		birth_date = 1427.2.27
+		death_date = 1507.2.27
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 1853
+	add_treasury = 7
+	add_prestige = 12
+}

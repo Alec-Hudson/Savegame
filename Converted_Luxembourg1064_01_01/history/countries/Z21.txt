@@ -1,0 +1,27 @@
+# Dioclea
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 137
+1428.5.30 = {
+	monarch = {
+		name = "Barbara"
+		birth_date = 1381.5.1
+		dynasty = "Maurikios"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 137
+	add_treasury = 18
+	add_prestige = 110
+}

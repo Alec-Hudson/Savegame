@@ -1,0 +1,39 @@
+# Bavaria
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = hungarian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 65
+1427.8.10 = {
+	monarch = {
+		name = "Gyula"
+		birth_date = 1413.10.27
+		dynasty = "Árpád"
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1432.7.9 = {
+	heir = {
+		name = "Gáspár"
+		monarch_name = "Gáspár"
+		dynasty = "Árpád"
+		birth_date = 1432.7.9
+		death_date = 1512.7.9
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 65
+	add_treasury = 19
+	add_prestige = 283
+}

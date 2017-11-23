@@ -1,0 +1,192 @@
+# Ugra
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 134 145 31 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Oiva" "Ensio" "Radoslav" "Marja" "Taisto" "Rogvolod" "Tyyni" "Gremislava" "Pihla" "Haapa" 
+	"Yelisey" "Dobroslava" "Ulita" "Arvo" "Pereyaslava" "Soini" "Vysheslav" "Aino" "Mstislav" "Feodosia" 
+	"Satatieto" "Talvikki" "Riku" "Liudmila" "Yefimiy" "Päivä" "Yemelyan" "Risto" "Kettu" "Rogneda" 
+	"Valta" "Terentiy" "Igor" "Mielitty" "Kivutar" "Auni" "Lyylikki" "Ilta" "Zabava" "Sisko" 
+	"Miemo" "Aamu" "Ulyana" "Reko" "Marina" "Susi" "Päiviö" "Karhu" "Toivo" "Maija" 
+	"Turo" "Kolli" "Asikko" "Pilvi" "Loviisa" "Käpy" "Hellä" "Ihanti" "Kukka" "Lempi" 
+	"Lauha" "Olavi" "Aarto" "Tuulikki" "Hintsa" "Aatso" "Tommo" "Urho" "Sohvi" "Otso" 
+	"Lemmikki" "Erkki" "Venla" "Sampo" "Titti" "Jurva" "Taimi" "Lalli" "Salme" "Inkeri" 
+	"Päivi" "Metta" "Hertta" "Terho" "Rauha" "Tuovi" "Demid" "Henri" "Soabá" "Helmi" 
+	"Kaarle" "Afanasiy" "Hannu" "Onni" "Tuulitar" "Darya" "Tuija" "Satajalka" "Prebrana" "Trifon" 
+	"Alik" "Noumea" "Yadne" "Sarak" "Mandak" "Xëryuchi" "Tatva" "Nabtiko" "Hasaba" "Kako" 
+	"Kharuchi" "Kolik" "Nenyts" "Nga" "Ngënoh" "Num" "Nyalku" "Panay" "Pudak" "Salinder" 
+	"Samatu" "Sirtya" "Somatu" "Syudbya" "Tolik" "Vesei" "Wayngachi" "Yapti" "Yar" "Yavlad" 
+	"Yurak" }
+monarch_names = {
+	"Oiva #0" = 1
+	"Ensio #0" = 1
+	"Radoslav #0" = 1
+	"Marja #0" = -1
+	"Taisto #0" = 1
+	"Rogvolod #0" = 1
+	"Tyyni #0" = -1
+	"Gremislava #0" = -1
+	"Pihla #0" = -1
+	"Haapa #0" = 1
+	"Yelisey #1" = 18
+	"Dobroslava #0" = -1
+	"Ulita #0" = -1
+	"Arvo #0" = 1
+	"Pereyaslava #0" = -1
+	"Soini #0" = 1
+	"Vysheslav #0" = 1
+	"Aino #0" = -1
+	"Mstislav #0" = 1
+	"Feodosia #0" = -1
+	"Satatieto #0" = 1
+	"Talvikki #0" = -1
+	"Riku #0" = 1
+	"Liudmila #0" = -1
+	"Yefimiy #1" = 18
+	"Päivä #0" = -1
+	"Yemelyan #0" = 1
+	"Risto #0" = 1
+	"Kettu #0" = 1
+	"Rogneda #0" = -1
+	"Valta #0" = 1
+	"Terentiy #0" = 1
+	"Igor #0" = 1
+	"Mielitty #2" = 27
+	"Kivutar #0" = -1
+	"Auni #0" = -1
+	"Lyylikki #0" = -1
+	"Ilta #0" = -1
+	"Zabava #0" = -1
+	"Sisko #0" = -1
+	"Miemo #0" = 1
+	"Aamu #0" = -1
+	"Ulyana #0" = -1
+	"Reko #1" = 24
+	"Marina #0" = -1
+	"Susi #0" = 1
+	"Päiviö #0" = 1
+	"Karhu #0" = 1
+	"Toivo #0" = 1
+	"Maija #0" = -1
+	"Turo #0" = 1
+	"Kolli #0" = 1
+	"Asikko #0" = 1
+	"Pilvi #0" = -1
+	"Loviisa #0" = -1
+	"Käpy #0" = -1
+	"Hellä #0" = -1
+	"Ihanti #0" = 1
+	"Kukka #0" = -1
+	"Lempi #0" = -1
+	"Lauha #0" = -1
+	"Olavi #0" = 1
+	"Aarto #0" = 1
+	"Tuulikki #0" = -1
+	"Hintsa #0" = 1
+	"Aatso #0" = 1
+	"Tommo #0" = 1
+	"Urho #0" = 1
+	"Sohvi #0" = -1
+	"Otso #0" = 1
+	"Lemmikki #0" = -1
+	"Erkki #0" = 1
+	"Venla #0" = -1
+	"Sampo #0" = 1
+	"Titti #0" = -1
+	"Jurva #1" = 21
+	"Taimi #0" = -1
+	"Lalli #0" = 1
+	"Salme #0" = -1
+	"Inkeri #0" = -1
+	"Päivi #0" = -1
+	"Metta #0" = -1
+	"Hertta #0" = -1
+	"Terho #0" = 1
+	"Rauha #0" = -1
+	"Tuovi #0" = -1
+	"Demid #0" = 1
+	"Henri #0" = 1
+	"Soabá #0" = -1
+	"Helmi #0" = -1
+	"Kaarle #0" = 1
+	"Afanasiy #0" = 1
+	"Hannu #0" = 1
+	"Onni #0" = 1
+	"Tuulitar #0" = -1
+	"Darya #0" = -1
+	"Tuija #0" = -1
+	"Satajalka #0" = 1
+	"Prebrana #0" = -1
+	"Trifon #0" = 1
+	"Alik #1" = 0
+	"Noumea #1" = 0
+	"Yadne #1" = 0
+	"Sarak #1" = 0
+	"Mandak #1" = 0
+	"Xëryuchi #1" = 0
+	"Tatva #1" = 0
+	"Nabtiko #2" = 0
+	"Hasaba #0" = 0
+	"Kako #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Wayngachi #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+	"Yurak #0" = 0
+}
+ship_names = {
+	Cherdyn Pelym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Uzheg
+	Baseg Yus Pokcha Vychegda Sysola
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+}
+

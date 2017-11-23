@@ -1,0 +1,25 @@
+# Nikaea
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4312
+1438.5.8 = {
+	monarch = {
+		name = "Niketas"
+		birth_date = 1417.5.17
+		dynasty = "Maurikios"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 4312
+	add_treasury = 22
+	add_prestige = 72
+}

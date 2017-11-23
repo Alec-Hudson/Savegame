@@ -1,0 +1,39 @@
+# Matsya
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 553
+1420.9.16 = {
+	monarch = {
+		name = "Indravarman II"
+		birth_date = 1412.3.1
+		dynasty = "Matsya"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1433.5.27 = {
+	heir = {
+		name = "Gunarnava"
+		monarch_name = "Gunarnava II"
+		dynasty = "Matsya"
+		birth_date = 1433.5.27
+		death_date = 1513.5.27
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 553
+	add_treasury = 39
+	add_prestige = 65
+}

@@ -1,0 +1,6 @@
+iberian = {
+	visigothic = {
+		primary = CAS
+		dynasty_names = { "de Castella" "de Cantabria" "Balthes" "de Ruscino" "Begonid" "de Laredo" "de Silos" "de Safsaf" "de Cangas de Onís" "de Viana do Castelo" "de Tafalla" "de Haro" "de Leyre" }
+	}
+}

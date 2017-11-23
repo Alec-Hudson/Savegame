@@ -1,0 +1,26 @@
+# Luxembourg
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 94
+1440.12.1 = {
+	monarch = {
+		name = "Arsinde"
+		birth_date = 1410.9.25
+		dynasty = "von Tope"
+		female = yes
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 94
+	add_treasury = 8
+	add_prestige = 195
+}

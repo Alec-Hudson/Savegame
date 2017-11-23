@@ -1,0 +1,98 @@
+# Pruthenia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 200 100 100 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Alvydas" "Golding" "Ziedas" "Prusas" "Mila" "Milyuns" "Kugis" "Gerkus" "Auctune" "Gulbis" 
+	"Gelennis" "Klukis" "Ulitis" "Milzas" "Nomedas" "Weslikan" "Arelis" "Grasus" "Dagas" "Betten" 
+	"Glande" "Bezprzym" "Przybyslaw" "Bajoras" "Gauronas" "Palemon" "Erdenis" "Lingvenis" "Beidras" "Budo" 
+	"Dagonis" "Ekkelis" "Galindas" "Gerdautas" "Jauguttis" "Karatas" "Sergonis" "Ulinniks" }
+monarch_names = {
+	"Alvydas #0" = 1
+	"Golding #1" = 24
+	"Ziedas #0" = -1
+	"Prusas #3" = 21
+	"Mila #0" = -1
+	"Milyuns #0" = -1
+	"Kugis #0" = 1
+	"Gerkus #0" = -1
+	"Auctune #0" = 1
+	"Gulbis #0" = -1
+	"Gelennis #0" = -1
+	"Klukis #0" = 1
+	"Ulitis #0" = 1
+	"Milzas #0" = 1
+	"Nomedas #2" = 27
+	"Weslikan #0" = -1
+	"Arelis #1" = 21
+	"Grasus #0" = -1
+	"Dagas #0" = -1
+	"Betten #0" = -1
+	"Glande #1" = 18
+	"Bezprzym #1" = 0
+	"Przybyslaw #1" = 0
+	"Bajoras #1" = 0
+	"Gauronas #2" = 0
+	"Palemon #1" = 0
+	"Erdenis #1" = 0
+	"Lingvenis #1" = 0
+	"Beidras #0" = 0
+	"Budo #0" = 0
+	"Dagonis #0" = 0
+	"Ekkelis #0" = 0
+	"Galindas #0" = 0
+	"Gerdautas #0" = 0
+	"Jauguttis #0" = 0
+	"Karatas #0" = 0
+	"Sergonis #0" = 0
+	"Ulinniks #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

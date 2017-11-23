@@ -1,0 +1,37 @@
+# Byzantine Empire
+government = feudal_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 151
+1435.5.3 = {
+	monarch = {
+		name = "Ferruccio"
+		birth_date = 1420.8.11
+		dynasty = "di Milano"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Delinda"
+		monarch_name = "Delinda"
+		dynasty = "di Milano"
+		birth_date = 1424.10.11
+		death_date = 1504.10.11
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 31
+	add_prestige = 184
+}

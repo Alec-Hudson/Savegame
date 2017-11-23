@@ -1,0 +1,164 @@
+# Lithuania
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 90 10 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Cirulis" "Roze" "Danute" "Gintare" "Birute" "Gedigaudas" "Dannila" "Mantvydas" "Lingvenis" "Jevna" 
+	"Vidmantas" "Evalda" "Sarunas" "Imanta" "Manvydas" "Palemon" "Žvorune" "Brekšta" "Svitrigaila" "Jogaila" 
+	"Kunos" "Borkus" "Spera" "Vida" "Saule" "Giedre" "Lubartas" "Vainius" "Audra" "Giltine" 
+	"Erdenis" "Kenna" "Girdenis" "Mikova" "Butigeidis" "Tarvydas" "Aldona" "Anele" "Karijotas" "Gedivilas" 
+	"Svajone" "Kesgaila" "Algirdas" "Antanas" "Antavas" "Aras" "Arunas" "Azuolas" "Budrys" "Bukantas" 
+	"Butavas" "Butvydas" "Daugvilas" "Daumantas" "Dausprungas" "Dravenis" "Erdvilas" "Gediminas" "Gintaras" "Gintautas" 
+	"Irmantas" "Jaunutis" "Jovirdas" "Kantibutas" "Kestutis" "Korigaila" "Korybutas" "Lasukas" "Liudas" "Lutuveras" 
+	"Merkelis" "Mindaugas" "Minigaila" "Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Rimvydas" 
+	"Ringaudas" "Skirgaila" "Songaila" "Svarnas" "Tovtivilas" "Traidenis" "Treniotas" "Vaisvilkas" "Valimantas" "Vingoldas" 
+	"Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" "Vytautas" "Vytenis" "Zivinbudas" "Zygimantas" }
+monarch_names = {
+	"Cirulis #0" = 1
+	"Roze #0" = -1
+	"Danute #0" = -1
+	"Gintare #1" = -22
+	"Birute #0" = -1
+	"Gedigaudas #1" = 21
+	"Dannila #1" = -22
+	"Mantvydas #0" = 1
+	"Lingvenis #2" = 27
+	"Jevna #0" = -1
+	"Vidmantas #0" = 1
+	"Evalda #0" = -1
+	"Sarunas #0" = 1
+	"Imanta #0" = 1
+	"Manvydas #0" = 1
+	"Palemon #0" = 1
+	"Žvorune #0" = -1
+	"Brekšta #0" = -1
+	"Svitrigaila #0" = 1
+	"Jogaila #0" = 1
+	"Kunos #0" = 1
+	"Borkus #0" = 1
+	"Spera #0" = 1
+	"Vida #0" = -1
+	"Saule #0" = -1
+	"Giedre #0" = -1
+	"Lubartas #0" = 1
+	"Vainius #0" = 1
+	"Audra #0" = -1
+	"Giltine #0" = -1
+	"Erdenis #1" = 21
+	"Kenna #0" = -1
+	"Girdenis #0" = 1
+	"Mikova #0" = -1
+	"Butigeidis #0" = 1
+	"Tarvydas #0" = 1
+	"Aldona #0" = -1
+	"Anele #0" = -1
+	"Karijotas #0" = 1
+	"Gedivilas #1" = 18
+	"Svajone #0" = -1
+	"Kesgaila #0" = 1
+	"Algirdas #0" = 0
+	"Antanas #0" = 0
+	"Antavas #0" = 0
+	"Aras #0" = 0
+	"Arunas #0" = 0
+	"Azuolas #0" = 0
+	"Budrys #0" = 0
+	"Bukantas #0" = 0
+	"Butavas #0" = 0
+	"Butvydas #0" = 0
+	"Daugvilas #0" = 0
+	"Daumantas #0" = 0
+	"Dausprungas #0" = 0
+	"Dravenis #0" = 0
+	"Erdvilas #0" = 0
+	"Gediminas #0" = 0
+	"Gintaras #0" = 0
+	"Gintautas #0" = 0
+	"Irmantas #0" = 0
+	"Jaunutis #0" = 0
+	"Jovirdas #0" = 0
+	"Kantibutas #0" = 0
+	"Kestutis #0" = 0
+	"Korigaila #0" = 0
+	"Korybutas #0" = 0
+	"Lasukas #0" = 0
+	"Liudas #0" = 0
+	"Lutuveras #0" = 0
+	"Merkelis #0" = 0
+	"Mindaugas #0" = 0
+	"Minigaila #0" = 0
+	"Movkoldas #0" = 0
+	"Narimantas #0" = 0
+	"Povilas #0" = 0
+	"Pukuveras #0" = 0
+	"Rimantas #0" = 0
+	"Rimgaila #0" = 0
+	"Rimvydas #0" = 0
+	"Ringaudas #0" = 0
+	"Skirgaila #0" = 0
+	"Songaila #0" = 0
+	"Svarnas #0" = 0
+	"Tovtivilas #0" = 0
+	"Traidenis #0" = 0
+	"Treniotas #0" = 0
+	"Vaisvilkas #0" = 0
+	"Valimantas #0" = 0
+	"Vingoldas #0" = 0
+	"Virmantas #0" = 0
+	"Visvaldis #0" = 0
+	"Vizgirdas #0" = 0
+	"Vykintas #0" = 0
+	"Vytautas #0" = 0
+	"Vytenis #0" = 0
+	"Zivinbudas #0" = 0
+	"Zygimantas #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

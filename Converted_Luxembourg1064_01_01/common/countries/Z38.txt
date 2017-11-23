@@ -1,0 +1,163 @@
+# Marwanid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 182 88 5 }
+historical_idea_groups = {
+	exploration_ideas
+	trade_ideas
+	religious_ideas
+	expansion_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Yunus" "Khadija" "Fatima" "Lubb" "Abbas" "Rafiqa" "Daniyah" "Bilal" "Zahida" "Fahriya" 
+	"Muyahid" "Balashk" "Karima" "Utman" "Aiza" "Malika" "Çeid" "Wahida" "Mukhtar" "Marwan" 
+	"Abderrabmen" "Ermengardis" "Mahomat" "Wifredo" "Gaudiosa" "Winidilda" "Menenda" "Flamula" "Agnes" "Gonterote" 
+	"Elduara" "Aragonte" "Eldonza" "Onecca" "Monnia" "Lupo" "Elvira" "Fronilde" "Sisenanda" "Adosinda" 
+	"Muhammad" "Aloito" "Garsiya" "Urraca" "Sa'd" "Athanagildo" "Nunno" "Abu" "Musa" "Mundir" 
+	"Amsha" "Sanyo" "Fadl" "Aliyah" "Taliba" "Ibtisam" "Huda" "Fath" "Safiya" "Rasiq" 
+	"Wannaqo" "Abbad" "Gamila" "Yahaff" "Suraya" "Abdul-Razzaq" "Rashid" "Andregoto" "Abdallah" "Abdul-Aziz" 
+	"Abdul-Hakam" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul" "Abu-Bakr" "Adfuns" "Ahmad" "Ali" "Amr" 
+	"Ayyub" "Galind" "Hakam" "Hilal" "Ibrahim" "Isma'il" "Jyad" "Ma'n" "Mubashir" "Raf" 
+	"Siddray" "Suleyman" "Tariq" "Tifilwit" "Umar" "Ya'far" "Yahya" "Yusuf" }
+monarch_names = {
+	"Yunus #0" = 1
+	"Khadija #0" = -1
+	"Fatima #0" = -1
+	"Lubb #0" = 1
+	"Abbas #0" = 1
+	"Rafiqa #0" = -1
+	"Daniyah #0" = -1
+	"Bilal #0" = 1
+	"Zahida #0" = -1
+	"Fahriya #0" = -1
+	"Muyahid #1" = 18
+	"Balashk #0" = 1
+	"Karima #0" = -1
+	"Utman #0" = 1
+	"Aiza #0" = -1
+	"Malika #0" = -1
+	"Çeid #0" = 1
+	"Wahida #0" = -1
+	"Mukhtar #0" = 1
+	"Marwan #0" = 1
+	"Abderrabmen #0" = 1
+	"Ermengardis #0" = -1
+	"Mahomat #0" = 1
+	"Wifredo #0" = 1
+	"Gaudiosa #0" = -1
+	"Winidilda #0" = -1
+	"Menenda #0" = -1
+	"Flamula #0" = -1
+	"Agnes #0" = -1
+	"Gonterote #0" = -1
+	"Elduara #0" = -1
+	"Aragonte #0" = -1
+	"Eldonza #0" = -1
+	"Onecca #0" = -1
+	"Monnia #0" = -1
+	"Lupo #0" = 1
+	"Elvira #0" = -1
+	"Fronilde #0" = -1
+	"Sisenanda #0" = -1
+	"Adosinda #0" = -1
+	"Muhammad #0" = 1
+	"Aloito #0" = 1
+	"Garsiya #0" = 1
+	"Urraca #0" = -1
+	"Sa'd #0" = 1
+	"Athanagildo #0" = 1
+	"Nunno #0" = 1
+	"Abu #0" = 1
+	"Musa #0" = 1
+	"Mundir #0" = 1
+	"Amsha #0" = -1
+	"Sanyo #0" = 1
+	"Fadl #0" = 1
+	"Aliyah #0" = -1
+	"Taliba #0" = -1
+	"Ibtisam #0" = -1
+	"Huda #0" = -1
+	"Fath #0" = 1
+	"Safiya #0" = -1
+	"Rasiq #0" = 1
+	"Wannaqo #0" = 1
+	"Abbad #0" = 1
+	"Gamila #0" = -1
+	"Yahaff #0" = 1
+	"Suraya #0" = -1
+	"Abdul-Razzaq #0" = 1
+	"Rashid #0" = 1
+	"Andregoto #0" = -1
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul #0" = 0
+	"Abu-Bakr #0" = 0
+	"Adfuns #0" = 0
+	"Ahmad #0" = 0
+	"Ali #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Galind #0" = 0
+	"Hakam #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Ma'n #0" = 0
+	"Mubashir #0" = 0
+	"Raf #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #0" = 0
+	"Tariq #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Ya'far #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Anunciada
+	Bérrio "Boa Viagem" "Bom Jesus" "Bom Jesus do Carmo" "Bom Jesus de Marzagão" "Bom Jesus da Vidigueira" Bretão
+	Cambaia Chagas "Correio d'Ásia"
+	El-Rei Enxobregas "Espírito Santo" Estrela
+	"Flor do Mar"
+	Garça
+	"Imaculada Conceição"
+	Jóia
+	"Monte Carvalho"
+	"Nazaré" "Nossa Senhora" "N. Sra. da Aparecida" "N. Sra. da Atalaia" "N. Sra. da Batalha" "N. Sra. da Boa Hora" "N. Sra. da Boa Memória" "N. Sra. da Boa Viagem" "N. Sra. da Candalaria" "N. Sra. da Caridade" "N.Sra. da Conceição" "N. Sra. da Consolação" "N. Sra. da Esperança" "N. Sra. da Glória" "N. Sra. da Graça" "N. Sra. da Guia" "N. Sra. d'Ajuda Lusitana" "N. Sra. da Luz" "N. Sra. da Nazaré" "N. Sra. da Oliveira" "N. Sra. da Palma" "N. Sra. da Penha de França" "N. Sra. da Quietação" "N. Sra. da Salvação" "N. Sra. da Saúde" "N. Sra. da Visitação" "N. Sra. da Vitória" "N. Sra. das Ondas" "N. Sra. das Portas do Céu" "N. Sra. das Relíquias" "N. Sra. de Belém" "N. Sra. de Guadalupe" "N. Sra. do Castelo" "N. Sra. do Livramento" "N. Sra. do Loreto" "N. Sra do Paraíso" "N. Sra. do Pilar" "N. Sra. do Rosário" "N. Sra. dos Prazeres" "N. Sra. dos Ramos"
+	"Princesa do Céu"
+	Raínha "Reis Magos"
+	"Sacramento" "Santa Ana" "Santa Catarina" "Santa Cruz" "Santa Fé" "Santa Helena" "Santa Joana" "Santa Madre de Deus" "S. Maria de Sabóia" "Santo Milagre" "Santiago Maior" "Santíssima Trindade" "Santíssimo Sacramento" "Santo Alberto" "Santo António" "Santo Espírito" "Santo Inácio" "São Bartolomeu" "São Bento" "São Bernardo" "São Carlos" "São Cristovão" "São Domingos" "São Filipe" "São Francisco" "São Francisco de Borja" "São Gabriel" "São Gonçalo" "São João" "São João de Deus" "São Jorge" "S. José" "São Julião" "São Lourenço" "São Lucas" "São Luís" "São Mateus" "São Paulo" "São Pedro" "São Rafael" "São Roque" "São Salvador" "São Tomé" "São Valentim" "S. António de Lisboa" "S. Catarina de Ribamar" "S. Francisco de Assis" "S. Francisco Xavier" "S. João Baptista" "S. João Evangelista" "S. Pedro de Rates" "S. Pedro da Ribeira" "S. Salvador do Mundo" "S. Teresa de Jesus" "S. Tomé da Cantuária"
+	Taforeia Trindade
+	Visitação
+}
+

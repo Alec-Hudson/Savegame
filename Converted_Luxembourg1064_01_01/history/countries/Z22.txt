@@ -1,0 +1,26 @@
+# Dalmatia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 136
+1395.10.14 = {
+	monarch = {
+		name = "Methodios"
+		birth_date = 1368.1.3
+		dynasty = "Radenos"
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 136
+	add_treasury = 23
+	add_prestige = 122
+}

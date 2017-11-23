@@ -1,0 +1,39 @@
+# Pratihara
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 521
+1401.6.12 = {
+	monarch = {
+		name = "Prithvipal"
+		birth_date = 1397.7.1
+		dynasty = "Pratihara"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1417.4.22 = {
+	heir = {
+		name = "Prithvipal"
+		monarch_name = "Prithvipal II"
+		dynasty = "Pratihara"
+		birth_date = 1417.4.22
+		death_date = 1497.4.22
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 521
+	add_treasury = 53
+	add_prestige = 568
+}

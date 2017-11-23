@@ -1,0 +1,6 @@
+scandinavian = {
+	norse = {
+		primary = DAN
+		dynasty_names = { "Knytling" "Yngling" "af Munsö" "Gautske" "Njudunge" "Holming" "Auster" "Kauping" "Styr" "Trolli" "Hárde" "Ölfúss" "Örn" "Hvíti" "Sterki" "Auðgi" "Spaki" "Svarti" "Mjóvi" "Ríki" "Lambi" "Skál" "Smjör" "Stjarna" "Sælendingr" "Súrr" "Sælingr" "Trausti" "Hvitserk" "Lade" "Flatnefr" "af Hesbaie" "af Aarschot" "af Dyflinn" "Skál" "Nerking" "Flatnefr" "Hávi" "af Orkneyjar" "Hárde" "Lade" "Mjóvi" "Væni" "af Cottbus" }
+	}
+}

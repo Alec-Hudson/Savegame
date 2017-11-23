@@ -1,0 +1,370 @@
+# Toulouse
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 10 16 243 }
+
+
+
+
+leader_names = {
+
+	"Umayyah" "Sajida" "Ermengardis" "Maha" "Butayna" "Isra" "Uways" "Thashim" "Sanyo" "Zahida" 
+	"Abdul-Hazm" "Aram" "Umar" "Abdul-Razzaq" "Abbad" "Abdul" "Azam" "Utman" "Tifilwit" "Sadiq" 
+	"Garsiya" "Fatima" "Salma" "Musa" "Mubashir" "Nasr" "Safiya" "Siddray" "Ayyub" "Tarifa" 
+	"Abdul-Hasan" "Yasmin" "Aiza" "Bilal" "Layla" "Agnes" "Adila" "Mundir" "Jyad" "Tanaz" 
+	"Mirza" "Ibtisam" "Isma'il" "Muyahid" "Galind" "Kamala" "Raf" "Maryam" "Amsha" "Jibril" 
+	"Jabir" "Abda" "Raisa" "Tahira" "Zahra" "Nizam" "Khadija" "Paymaneh" "Ma'n" "Umm" 
+	"Husam" "Yakta" "Kera" "Sheeftah" "Shahzadah" "Sa'd" "Abdul-Hakam" "Wannaqo" "Fath" "Lubb" 
+	"Sholah" "Fadl" "Balashk" "Faghira" "Hanifa" "Munya" "Taliba" "Muzaffaraddin" "Abu-Bakr" "Habiba" 
+	"Abdul-Gafur" "Burhanaddin" "Fahra" "Abdallah" "Urraka" "Naila" "Nadia" "Rahat" "Shameem" "Muhammad" 
+	"Elvira" "Suraya" "Ahu" "Rafiqa" "Ubayd" "Abu" "Hussayn" "Ghada" "Gamila" "Fronilde" 
+	"Zaynab" "Daniyah" "Gaudiosa" "Jalil" "Ali" "Winidilda" "Mahdi" "Samira" "Asiya" "Ahmad" 
+	"Fadil" "Saaman" "Talib" "Rasiq" "Shogofa" "Shujah" "Abdul-Rahman" "Hasan" "Shakira" "Tariq" 
+	"Fahriya" "Yahaff" "Agathe" "Aarifa" "Dima" "Adfuns" "Suleyman" "Abdul-al-As" "Affan" "al-Hakim" 
+	"Abu-Sufyan" "Uthan" "Muawiyah" "Yazid" "Marwan" "Abu-al-Malik" "Abdul-Aziz" "al-Himar" "al-Walid" "Sulayman" 
+	"Mu'awiyah" "Hisham" "Ibrahim" "Abd-al-Rahman" "al-Qasim" "al-Hakam" "Is'mail" "al-Mundir" "Semeah" "Qawurd" 
+	"Rashid" "Setara" "Shararah" "Najib" "Ramadan" "Paywand" "Zeyd" "Alim" "Shamir" "Aliyah" 
+	"Taneen" "Karima" "Jahaira" "Abdul-Jaleel" "Parween" "Rodrigo" "Sa'daddin" "Rashida" "Bahir" "Mansur" 
+	"Ya'far" "Hilal" "Nafisa" "Ghalib" "Abbas" "Hakam" "Wifredo" "Nur" "Randa" "Leodegundis" 
+	"Isa" "Sheeva" "Wahida" "Souzan" "Berengario" "Mafalda" "Huda" "Abdul-Qadir" "Theodora" "Parand" 
+	"Berenguela" "Zeynab" "Sami" "Menenda" "Malika" "Ya'qub" "Khalil" "Aghlab" "Saghar" "Samir" 
+	"Shaiban" "Wallia" "Theodericho" "Thorismondo" "Euricho" "Alaricho" "Guillaume" "Beggo" "Berengar" "Bernard" 
+	"Guilhelm" "Frédelon" "Raimond" "Bernat" "Gautier" "Adhémar" "Acfred" "Aimeric" "Alberic" "Albert" 
+	"Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" "Arnaut" "Artau" 
+	"Aton" "Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" 
+	"Berenguié" "Bermond" "Bernat-Aton" "Bernat-Ezi" "Bertrand" "Blasi" "Borel" "Boson" "Carles" "Clamenç" 
+	"Centolh" "Dàvi" "Dat" "Dodon" "Doumenge" "Duran" "Ebles" "Emmanuèl" "Enric" "Ermengau" 
+	"Estève" "Filip" "Ferrand" "Florènç" "Folquet" "Francés" "Frederi" "Garcia" "Gaston" "Gausbert" 
+	"Gilbèrt" "Girard" "Girvais" "Godafres" "Gui" "Guichard" "Guigues" "Guilhèm" "Guiraud" "Guitart" 
+	"Ives" "Jacme" "Jaufret" "Joan" "Jorge" "Josselin" "Julian" "Laurènç" "Leon" "Loïs" 
+	"Loui" "Lop" "Marçau" "Matfre" "Matias" "Milo" "Miquel" "Nicholaus" "Odon" "Otton" 
+	"Pèire" "Péire-Arnaut" "Péire-Raimond" "Peranudet" "Pol" "Pons" "Raimond-Berenguié" "Rainaut" "Rainer" "Raolf" 
+	"Ricard" "Robèrt" "Rogier" "Sancho" "Savarics" "Tièrri" "Tibaud" "Toumas" "Ubald" "Ubert" 
+	"Uc" "Ugues" "Vézian" "Vicenç" }
+monarch_names = {
+	"Umayyah #0" = 1
+	"Sajida #0" = -1
+	"Ermengardis #0" = -1
+	"Maha #0" = -1
+	"Butayna #0" = -1
+	"Isra #0" = -1
+	"Uways #0" = 1
+	"Thashim #0" = -1
+	"Sanyo #0" = 1
+	"Zahida #0" = -1
+	"Abdul-Hazm #0" = 1
+	"Aram #0" = 1
+	"Umar #0" = 1
+	"Abdul-Razzaq #0" = 1
+	"Abbad #0" = 1
+	"Abdul #0" = 1
+	"Azam #0" = 1
+	"Utman #0" = 1
+	"Tifilwit #0" = 1
+	"Sadiq #0" = 1
+	"Garsiya #1" = 39
+	"Fatima #0" = -1
+	"Salma #0" = -1
+	"Musa #0" = 1
+	"Mubashir #0" = 1
+	"Nasr #0" = 1
+	"Safiya #0" = -1
+	"Siddray #0" = 1
+	"Ayyub #0" = 1
+	"Tarifa #0" = -1
+	"Abdul-Hasan #0" = 1
+	"Yasmin #0" = -1
+	"Aiza #0" = -1
+	"Bilal #0" = 1
+	"Layla #0" = -1
+	"Agnes #0" = -1
+	"Adila #0" = -1
+	"Mundir #0" = 1
+	"Jyad #0" = 1
+	"Tanaz #0" = -1
+	"Mirza #0" = 1
+	"Ibtisam #0" = -1
+	"Isma'il #0" = 1
+	"Muyahid #0" = 1
+	"Galind #0" = 1
+	"Kamala #0" = -1
+	"Raf #0" = 1
+	"Maryam #0" = -1
+	"Amsha #0" = -1
+	"Jibril #0" = 1
+	"Jabir #0" = 1
+	"Abda #0" = -1
+	"Raisa #0" = -1
+	"Tahira #0" = -1
+	"Zahra #0" = -1
+	"Nizam #0" = 1
+	"Khadija #0" = -1
+	"Paymaneh #0" = -1
+	"Ma'n #1" = 33
+	"Umm #0" = -1
+	"Husam #0" = 1
+	"Yakta #0" = -1
+	"Kera #0" = -1
+	"Sheeftah #0" = -1
+	"Shahzadah #0" = -1
+	"Sa'd #0" = 1
+	"Abdul-Hakam #0" = 1
+	"Wannaqo #0" = 1
+	"Fath #0" = 1
+	"Lubb #0" = 1
+	"Sholah #0" = -1
+	"Fadl #4" = 51
+	"Balashk #0" = 1
+	"Faghira #0" = -1
+	"Hanifa #0" = -1
+	"Munya #0" = -1
+	"Taliba #0" = -1
+	"Muzaffaraddin #0" = 1
+	"Abu-Bakr #0" = 1
+	"Habiba #0" = -1
+	"Abdul-Gafur #0" = 1
+	"Burhanaddin #0" = 1
+	"Fahra #0" = -1
+	"Abdallah #0" = 1
+	"Urraka #0" = -1
+	"Naila #0" = -1
+	"Nadia #0" = -1
+	"Rahat #0" = -1
+	"Shameem #0" = -1
+	"Muhammad #0" = 1
+	"Elvira #0" = -1
+	"Suraya #0" = -1
+	"Ahu #0" = -1
+	"Rafiqa #0" = -1
+	"Ubayd #0" = 1
+	"Abu #0" = 1
+	"Hussayn #0" = 1
+	"Ghada #0" = -1
+	"Gamila #0" = -1
+	"Fronilde #0" = -1
+	"Zaynab #0" = -1
+	"Daniyah #0" = -1
+	"Gaudiosa #0" = -1
+	"Jalil #0" = 1
+	"Ali #0" = 1
+	"Winidilda #0" = -1
+	"Mahdi #0" = 1
+	"Samira #0" = -1
+	"Asiya #0" = -1
+	"Ahmad #0" = 1
+	"Fadil #0" = 1
+	"Saaman #0" = -1
+	"Talib #0" = 1
+	"Rasiq #0" = 1
+	"Shogofa #0" = -1
+	"Shujah #0" = 1
+	"Abdul-Rahman #0" = 1
+	"Hasan #0" = 1
+	"Shakira #0" = -1
+	"Tariq #0" = 1
+	"Fahriya #0" = -1
+	"Yahaff #0" = 1
+	"Agathe #0" = -1
+	"Aarifa #0" = -1
+	"Dima #0" = -1
+	"Adfuns #0" = 1
+	"Suleyman #0" = 1
+	"Abdul-al-As #0" = 1
+	"Affan #0" = 1
+	"al-Hakim #0" = 1
+	"Abu-Sufyan #0" = 1
+	"Uthan #0" = 1
+	"Muawiyah #0" = 1
+	"Yazid #0" = 1
+	"Marwan #0" = 1
+	"Abu-al-Malik #0" = 1
+	"Abdul-Aziz #0" = 1
+	"al-Himar #0" = 1
+	"al-Walid #0" = 1
+	"Sulayman #0" = 1
+	"Mu'awiyah #0" = 1
+	"Hisham #0" = 1
+	"Ibrahim #0" = 1
+	"Abd-al-Rahman #0" = 1
+	"al-Qasim #0" = 1
+	"al-Hakam #0" = 1
+	"Is'mail #0" = 1
+	"al-Mundir #0" = 1
+	"Semeah #0" = -1
+	"Qawurd #0" = 1
+	"Rashid #0" = 1
+	"Setara #0" = -1
+	"Shararah #0" = -1
+	"Najib #0" = 1
+	"Ramadan #0" = 1
+	"Paywand #0" = -1
+	"Zeyd #0" = 1
+	"Alim #0" = 1
+	"Shamir #0" = 1
+	"Aliyah #0" = -1
+	"Taneen #0" = -1
+	"Karima #0" = -1
+	"Jahaira #0" = -1
+	"Abdul-Jaleel #0" = 1
+	"Parween #0" = -1
+	"Rodrigo #0" = 1
+	"Sa'daddin #0" = 1
+	"Rashida #0" = -1
+	"Bahir #0" = 1
+	"Mansur #0" = 1
+	"Ya'far #0" = 1
+	"Hilal #0" = 1
+	"Nafisa #0" = -1
+	"Ghalib #0" = 1
+	"Abbas #0" = 1
+	"Hakam #0" = 1
+	"Wifredo #0" = 1
+	"Nur #0" = -1
+	"Randa #0" = -1
+	"Leodegundis #0" = -1
+	"Isa #0" = 1
+	"Sheeva #0" = -1
+	"Wahida #0" = -1
+	"Souzan #0" = -1
+	"Berengario #0" = 1
+	"Mafalda #0" = -1
+	"Huda #0" = -1
+	"Abdul-Qadir #0" = 1
+	"Theodora #0" = -1
+	"Parand #0" = -1
+	"Berenguela #0" = -1
+	"Zeynab #0" = -1
+	"Sami #0" = 1
+	"Menenda #0" = -1
+	"Malika #0" = -1
+	"Ya'qub #0" = 1
+	"Khalil #0" = 1
+	"Aghlab #0" = 1
+	"Saghar #0" = -1
+	"Samir #0" = 1
+	"Shaiban #0" = 1
+	"Wallia #1" = 0
+	"Theodericho #2" = 0
+	"Thorismondo #1" = 0
+	"Euricho #1" = 0
+	"Alaricho #1" = 0
+	"Guillaume #2" = 0
+	"Beggo #1" = 0
+	"Berengar #1" = 0
+	"Bernard #1" = 0
+	"Guilhelm #1" = 0
+	"Frédelon #1" = 0
+	"Raimond #1" = 0
+	"Bernat #1" = 0
+	"Gautier #3" = 0
+	"Adhémar #0" = 0
+	"Acfred #0" = 0
+	"Aimeric #0" = 0
+	"Alberic #0" = 0
+	"Albert #0" = 0
+	"Aldebert #0" = 0
+	"Alias #0" = 0
+	"Anfòs #0" = 0
+	"Amalric #0" = 0
+	"Amaneus #0" = 0
+	"Ancelmes #0" = 0
+	"André #0" = 0
+	"Archambaut #0" = 0
+	"Arnaut #0" = 0
+	"Artau #0" = 0
+	"Aton #0" = 0
+	"Audoïn #0" = 0
+	"Aymar #0" = 0
+	"Aymeric #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Beneset #0" = 0
+	"Bérard #0" = 0
+	"Berenguié #0" = 0
+	"Bermond #0" = 0
+	"Bernat-Aton #0" = 0
+	"Bernat-Ezi #0" = 0
+	"Bertrand #0" = 0
+	"Blasi #0" = 0
+	"Borel #0" = 0
+	"Boson #0" = 0
+	"Carles #0" = 0
+	"Clamenç #0" = 0
+	"Centolh #0" = 0
+	"Dàvi #0" = 0
+	"Dat #0" = 0
+	"Dodon #0" = 0
+	"Doumenge #0" = 0
+	"Duran #0" = 0
+	"Ebles #0" = 0
+	"Emmanuèl #0" = 0
+	"Enric #0" = 0
+	"Ermengau #0" = 0
+	"Estève #0" = 0
+	"Filip #0" = 0
+	"Ferrand #0" = 0
+	"Florènç #0" = 0
+	"Folquet #0" = 0
+	"Francés #0" = 0
+	"Frederi #0" = 0
+	"Garcia #0" = 0
+	"Gaston #0" = 0
+	"Gausbert #0" = 0
+	"Gilbèrt #0" = 0
+	"Girard #0" = 0
+	"Girvais #0" = 0
+	"Godafres #0" = 0
+	"Gui #0" = 0
+	"Guichard #0" = 0
+	"Guigues #0" = 0
+	"Guilhèm #0" = 0
+	"Guiraud #0" = 0
+	"Guitart #0" = 0
+	"Ives #0" = 0
+	"Jacme #0" = 0
+	"Jaufret #0" = 0
+	"Joan #0" = 0
+	"Jorge #0" = 0
+	"Josselin #0" = 0
+	"Julian #0" = 0
+	"Laurènç #0" = 0
+	"Leon #0" = 0
+	"Loïs #0" = 0
+	"Loui #0" = 0
+	"Lop #0" = 0
+	"Marçau #0" = 0
+	"Matfre #0" = 0
+	"Matias #0" = 0
+	"Milo #0" = 0
+	"Miquel #0" = 0
+	"Nicholaus #0" = 0
+	"Odon #0" = 0
+	"Otton #0" = 0
+	"Pèire #0" = 0
+	"Péire-Arnaut #0" = 0
+	"Péire-Raimond #0" = 0
+	"Peranudet #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Raimond-Berenguié #0" = 0
+	"Rainaut #0" = 0
+	"Rainer #0" = 0
+	"Raolf #0" = 0
+	"Ricard #0" = 0
+	"Robèrt #0" = 0
+	"Rogier #0" = 0
+	"Sancho #0" = 0
+	"Savarics #0" = 0
+	"Tièrri #0" = 0
+	"Tibaud #0" = 0
+	"Toumas #0" = 0
+	"Ubald #0" = 0
+	"Ubert #0" = 0
+	"Uc #0" = 0
+	"Ugues #0" = 0
+	"Vézian #0" = 0
+	"Vicenç #0" = 0
+}
+

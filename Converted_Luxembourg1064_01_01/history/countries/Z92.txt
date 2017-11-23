@@ -1,0 +1,36 @@
+# Taghaza
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1128
+1439.3.22 = {
+	monarch = {
+		name = "Garsiya"
+		birth_date = 1428.12.1
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Jalil"
+		monarch_name = "Jalil"
+		dynasty = "Umayyad"
+		birth_date = 1408.12.12
+		death_date = 1488.12.12
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1128
+	add_treasury = 12
+	add_prestige = 386
+}

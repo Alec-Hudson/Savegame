@@ -1,0 +1,39 @@
+# Ratta
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = jain
+clear_scripted_personalities = yes
+capital = 1948
+1407.2.1 = {
+	monarch = {
+		name = "Yachama"
+		birth_date = 1393.11.1
+		dynasty = "Ratta"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = drunkard_personality
+}
+1428.10.19 = {
+	heir = {
+		name = "Ayanna"
+		monarch_name = "Ayanna II"
+		dynasty = "Ratta"
+		birth_date = 1428.10.19
+		death_date = 1508.10.19
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 1948
+	add_treasury = 52
+	add_prestige = 493
+}

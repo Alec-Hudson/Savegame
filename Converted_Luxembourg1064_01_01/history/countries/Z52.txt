@@ -1,0 +1,37 @@
+# Drepanon
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 125
+1429.4.5 = {
+	monarch = {
+		name = "Ioustinos"
+		birth_date = 1406.5.25
+		dynasty = "Krateros"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = conqueror_personality
+	heir = {
+		name = "Nikephoros"
+		monarch_name = "Nikephoros"
+		dynasty = "Krateros"
+		birth_date = 1423.12.24
+		death_date = 1503.12.24
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 125
+	add_treasury = 119
+	add_prestige = 105
+}

@@ -1,0 +1,25 @@
+# Nepal
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 519
+1439.12.7 = {
+	monarch = {
+		name = "Mihira III"
+		birth_date = 1400.8.1
+		dynasty = "Pratihara"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 519
+	add_treasury = 7
+	add_prestige = 440
+}

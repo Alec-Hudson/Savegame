@@ -1,0 +1,39 @@
+# Sabuktigin
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 507
+1422.3.18 = {
+	monarch = {
+		name = "Farhad"
+		birth_date = 1414.1.11
+		dynasty = "Sabuktigin"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1437.3.1 = {
+	heir = {
+		name = "Bahman"
+		monarch_name = "Bahman"
+		dynasty = "Sabuktigin"
+		birth_date = 1437.3.1
+		death_date = 1517.3.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 507
+	add_treasury = 65
+	add_prestige = 592
+}

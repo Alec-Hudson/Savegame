@@ -1,0 +1,26 @@
+# Adrianopolis
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 149
+1408.1.25 = {
+	monarch = {
+		name = "Narses"
+		birth_date = 1399.2.1
+		dynasty = "Makedon"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = 34
+	add_prestige = 140
+}

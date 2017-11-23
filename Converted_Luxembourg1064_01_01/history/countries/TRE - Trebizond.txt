@@ -1,0 +1,26 @@
+# Trebizond
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 330
+1432.8.30 = {
+	monarch = {
+		name = "Apollonios"
+		birth_date = 1389.10.1
+		dynasty = "Diogenes"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 330
+	add_treasury = 56
+	add_prestige = 72
+}

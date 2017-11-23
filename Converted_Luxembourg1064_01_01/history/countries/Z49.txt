@@ -1,0 +1,26 @@
+# Finnmark
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 21
+1406.2.25 = {
+	monarch = {
+		name = "Nikita"
+		birth_date = 1394.10.15
+		dynasty = "Seversky"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 21
+	add_treasury = 41
+	add_prestige = 159
+}

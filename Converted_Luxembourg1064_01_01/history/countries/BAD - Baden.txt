@@ -1,0 +1,40 @@
+# Baden
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 74
+1427.3.14 = {
+	monarch = {
+		name = "Agafya"
+		birth_date = 1405.1.22
+		dynasty = "Seversky"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = craven_personality
+}
+1428.4.21 = {
+	heir = {
+		name = "Szczesny"
+		monarch_name = "Szczesny"
+		dynasty = "Seversky"
+		birth_date = 1428.4.21
+		death_date = 1508.4.21
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 74
+	add_treasury = 26
+	add_prestige = 219
+}

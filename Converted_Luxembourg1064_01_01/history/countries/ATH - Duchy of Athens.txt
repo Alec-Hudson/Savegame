@@ -1,0 +1,37 @@
+# Athens
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 146
+1430.12.25 = {
+	monarch = {
+		name = "Staurakios"
+		birth_date = 1429.2.9
+		dynasty = "Skleros"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = free_thinker_personality
+	heir = {
+		name = "Evangelos"
+		monarch_name = "Evangelos"
+		dynasty = "Skleros"
+		birth_date = 1430.6.21
+		death_date = 1510.6.21
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 146
+	add_treasury = 192
+	add_prestige = 46
+}

@@ -1,0 +1,40 @@
+# Mercia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 240
+1397.5.1 = {
+	monarch = {
+		name = "Wulfhere II"
+		birth_date = 1397.4.1
+		dynasty = "of Mercia"
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1414.5.1 = {
+	heir = {
+		name = "Wulfflæd"
+		monarch_name = "Wulfflæd"
+		dynasty = "of Mercia"
+		birth_date = 1414.5.1
+		death_date = 1494.5.1
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 240
+	add_treasury = 19
+	add_prestige = 289
+}

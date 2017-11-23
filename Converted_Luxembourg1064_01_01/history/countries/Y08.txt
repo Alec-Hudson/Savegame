@@ -1,0 +1,37 @@
+# Saffarid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2229
+1436.1.2 = {
+	monarch = {
+		name = "Murad II"
+		birth_date = 1429.7.21
+		dynasty = "Saffarid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = benevolent_personality
+}
+1436.4.6 = {
+	heir = {
+		name = "Manushihr"
+		monarch_name = "Manushihr"
+		dynasty = "Saffarid"
+		birth_date = 1436.4.6
+		death_date = 1516.4.6
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2229
+	add_treasury = 34
+	add_prestige = 130
+}

@@ -1,0 +1,26 @@
+# València
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 220
+1412.3.24 = {
+	monarch = {
+		name = "Isma'il II"
+		birth_date = 1384.11.1
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 220
+	add_treasury = 40
+	add_prestige = 586
+}

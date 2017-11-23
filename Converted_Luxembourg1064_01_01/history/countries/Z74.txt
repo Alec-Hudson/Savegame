@@ -1,0 +1,37 @@
+# Mochkava
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 295
+1407.9.16 = {
+	monarch = {
+		name = "Tylze"
+		birth_date = 1387.5.27
+		dynasty = "Muromid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Puresh"
+		monarch_name = "Puresh"
+		dynasty = "Muromid"
+		birth_date = 1401.4.4
+		death_date = 1481.4.4
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 295
+	add_treasury = 17
+	add_prestige = 56
+}

@@ -1,0 +1,27 @@
+# Aj Bogd
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2117
+1426.12.1 = {
+	monarch = {
+		name = "Asli"
+		birth_date = 1398.8.1
+		dynasty = "Bilge"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 2117
+	add_treasury = 29
+	add_prestige = 105
+}

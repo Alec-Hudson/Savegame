@@ -1,0 +1,79 @@
+# Kamarupa
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 6 127 80 }
+
+
+
+
+leader_names = {
+
+	"Salasthamba" "Nayanadevi" "Vanamalavarmadeva" "Yajnavati" "Samudravarman" "Bhogavati" "Pralambha" "Dattadevi" "Gandharavati" "Harshavarman" 
+	"Vasumati" "Ahiavadevi" "Sthitavarman" "Virabahu" "Ratnavati" "Mahendravarman" "Supratisthitavarman" "Balavarman" "Ganapativarman" "Jayapala" 
+	"Kuladevi" "Durlabha" "Syamadevi" "Brahmapala" "Harjjaravarman" "Suvrata" "Vijayasthamba" "Palakastambha" "Kumarastambha" "Vajradeva" 
+	"Harshadeva" "Salambha" "Arathi" "Jayamala" "Vijnanavati" "Pushyavarman" "Kumarapala" "Devavati" "Vijnayavati" "Timgyadeva" 
+	"Narayanavarman" "Ummoka" "Kalyanavarman" "Bhutivarman" "Chandramukhavarman" "Susthitavarman" "Bhaskaravarman" "Bhaskarvarman" "Bhattamahabahu" "Birapala" 
+	"Dharmapala" "Gopala" "Harshapala" "Indrapala" "Purandelapala" "Ratnadhwajpala" "Ratnapala" "Tyagasimha" "Vigrahastambha" "Vijaya" }
+monarch_names = {
+	"Salasthamba #1" = 21
+	"Nayanadevi #0" = -1
+	"Vanamalavarmadeva #1" = 24
+	"Yajnavati #0" = -1
+	"Samudravarman #1" = 21
+	"Bhogavati #0" = -1
+	"Pralambha #0" = 1
+	"Dattadevi #0" = -1
+	"Gandharavati #0" = -1
+	"Harshavarman #0" = 1
+	"Vasumati #0" = -1
+	"Ahiavadevi #0" = -1
+	"Sthitavarman #1" = 21
+	"Virabahu #0" = 1
+	"Ratnavati #0" = -1
+	"Mahendravarman #1" = 21
+	"Supratisthitavarman #1" = 24
+	"Balavarman #4" = 36
+	"Ganapativarman #1" = 18
+	"Jayapala #2" = 24
+	"Kuladevi #0" = -1
+	"Durlabha #0" = -1
+	"Syamadevi #0" = -1
+	"Brahmapala #0" = 1
+	"Harjjaravarman #1" = 21
+	"Suvrata #0" = -1
+	"Vijayasthamba #1" = 18
+	"Palakastambha #1" = 18
+	"Kumarastambha #1" = 18
+	"Vajradeva #1" = 18
+	"Harshadeva #1" = 21
+	"Salambha #1" = 18
+	"Arathi #1" = 18
+	"Jayamala #2" = 21
+	"Vijnanavati #0" = -1
+	"Pushyavarman #2" = 21
+	"Kumarapala #0" = 1
+	"Devavati #0" = -1
+	"Vijnayavati #0" = -1
+	"Timgyadeva #0" = 1
+	"Narayanavarman #1" = 18
+	"Ummoka #0" = 1
+	"Kalyanavarman #1" = 18
+	"Bhutivarman #1" = 0
+	"Chandramukhavarman #1" = 0
+	"Susthitavarman #1" = 0
+	"Bhaskaravarman #1" = 0
+	"Bhaskarvarman #0" = 0
+	"Bhattamahabahu #0" = 0
+	"Birapala #0" = 0
+	"Dharmapala #0" = 0
+	"Gopala #0" = 0
+	"Harshapala #0" = 0
+	"Indrapala #0" = 0
+	"Purandelapala #0" = 0
+	"Ratnadhwajpala #0" = 0
+	"Ratnapala #0" = 0
+	"Tyagasimha #0" = 0
+	"Vigrahastambha #0" = 0
+	"Vijaya #0" = 0
+}
+

@@ -1,0 +1,37 @@
+# Kunlyu
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tocharian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2122
+1440.2.14 = {
+	monarch = {
+		name = "Kasyap"
+		birth_date = 1424.3.14
+		dynasty = "Krorän"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+}
+1442.2.14 = {
+	heir = {
+		name = "Moksasome"
+		monarch_name = "Moksasome"
+		dynasty = "Krorän"
+		birth_date = 1442.2.14
+		death_date = 1522.2.14
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2122
+	add_treasury = 205
+	add_prestige = 25
+}

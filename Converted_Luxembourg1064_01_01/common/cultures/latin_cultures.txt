@@ -1,0 +1,10 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "Dandolo" "Palizzi" "di Crivelli" "di Saluzzo" "de Busca" "di Torino" "Silvio" "Contarini" "Scannabecchi" "di Lucca" "d'Este" "Ardoinici" "de Lacon Serra" "di Bergamo" "Bonifazi" "Radelchis" "de Lauria" "Guideschi" "Orseolo" "Tradonico" "Tribuno" "Candiano" "de Callaris" "Supponidi" "di Stazone" "di Milano" "Hucbaldi" "di Ravenna" "Musco" "Urso" "di Murta" "Zen" "di Licinardo" "di Aquino" "di Tivoli" "di Saint-Omer" "di Florence" "di Aalst" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { "von Tope" "von Tope" "of Montélimar" "Antoninus" "of Brindas" "Maximianus" "Opellius" "of Le Puiset" "of Tournoël" }
+	}
+}

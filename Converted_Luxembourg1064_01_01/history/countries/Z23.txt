@@ -1,0 +1,25 @@
+# Benevento
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1933
+1437.4.18 = {
+	monarch = {
+		name = "Sinucello"
+		birth_date = 1391.12.1
+		dynasty = "Radelchis"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 1933
+	add_treasury = 46
+	add_prestige = 212
+}

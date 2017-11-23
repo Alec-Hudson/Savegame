@@ -1,0 +1,38 @@
+# Lajinli
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 508
+1419.4.20 = {
+	monarch = {
+		name = "Bahadir"
+		birth_date = 1411.6.19
+		dynasty = "Lajinli"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = cruel_personality
+}
+1442.11.27 = {
+	heir = {
+		name = "Tekin"
+		monarch_name = "Tekin"
+		dynasty = "Lajinli"
+		birth_date = 1442.11.27
+		death_date = 1522.11.27
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 508
+	add_treasury = 45
+	add_prestige = 312
+}

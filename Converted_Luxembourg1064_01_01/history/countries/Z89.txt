@@ -1,0 +1,25 @@
+# Syr Darya
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = sogdian
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2352
+1437.2.23 = {
+	monarch = {
+		name = "Khosrow"
+		birth_date = 1431.7.28
+		dynasty = "Kasyar"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 2352
+	add_treasury = 12
+	add_prestige = 58
+}

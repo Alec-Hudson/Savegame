@@ -1,0 +1,18 @@
+east_slavic = {
+	ilmenian = {
+		primary = NOV
+		dynasty_names = { "Kryvich" "Slovensky" }
+	}
+	volhynian = {
+		primary = KIE
+		dynasty_names = { }
+	}
+	severian = {
+		primary = KIE
+		dynasty_names = { "Radimich" "Seversky" }
+	}
+	russian_culture = {
+		primary = RUS
+		dynasty_names = { "Fyodyorov" "Lyubechanin" "Lyakhovich" "Miroslavich" "Ivankovich" "Tverdiatich" "Nerevinich" "Stepanovich" "Feofilaktovich" "Dregovich" "Vyatich" "Bestuzhev-Ryumin" "of Milicz" "of Nowy Sacz" }
+	}
+}

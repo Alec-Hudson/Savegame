@@ -1,0 +1,22 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "von Silesia-Glogau" "von Babenberg" "Welf" "Udonen" "Ludolfinger" "Konradiner" "Babenberger" "Unruochinger" "Esikonen" "von Brienne" "von Meran" "von Este" "von Cloppenburg" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "du Dros" "de Piemont" "de Montferrat" "de Thouars" "de Châtillion" "de Lusignan" "Saint-Gilles" "d'Ibelin" "Luneville" "de Cuiseaux" "de Savoie" "de Joinville" "de Vaudemont" "d'Hauteville" "de l'Aigle" "de Bissy" "d'Eu" "Puy du Fou" "de Preuilly" "de Penthièvre" "de Laval" "de Bachaumont" "de Salins" "de Méziriac" "d'Oisy" "de Comminges" "Capet" "Bouchardides" "Rorgonides" "de Ponthieu" "de Limousin" "de Reggio nell'Emilia" "de Villehardouin" "d'Arlon" "de Stromoncourt" "Litpolden" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { "van Teisterbant" "van Vlaanderen" }
+	}
+	old_lombard = {
+		primary = ITA
+		dynast_names = Â§old_lombardÂ§
+	}
+}

@@ -1,0 +1,26 @@
+# Cordoba
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2465
+1417.11.4 = {
+	monarch = {
+		name = "Abdul-Hasan"
+		birth_date = 1391.11.1
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2465
+	add_treasury = 11
+	add_prestige = 519
+}

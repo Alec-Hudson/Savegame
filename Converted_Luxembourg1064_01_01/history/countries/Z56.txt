@@ -1,0 +1,25 @@
+# Greater Poland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 255
+1443.2.25 = {
+	monarch = {
+		name = "Tarvydas"
+		birth_date = 1395.3.1
+		dynasty = "of Gardinas"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 255
+	add_treasury = 19
+	add_prestige = 95
+}

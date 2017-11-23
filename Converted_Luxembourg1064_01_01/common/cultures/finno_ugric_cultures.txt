@@ -1,0 +1,14 @@
+finno_ugric = {
+	komi = {
+		primary = FIN
+		dynasty_names = { "Yugra" }
+	}
+	mordvin = {
+		primary = FIN
+		dynasty_names = { "Muromid" "Mordvanid" "Mescheravid" "Meryavid" "Cheremisid" "Zyri" "Varakid" "Samarid" "Nuyakshid" }
+	}
+	khanty = {
+		primary = FIN
+		dynasty_names = { }
+	}
+}

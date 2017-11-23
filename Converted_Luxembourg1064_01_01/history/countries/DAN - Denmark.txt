@@ -1,0 +1,36 @@
+# Denmark
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 12
+1436.4.24 = {
+	monarch = {
+		name = "Bartholomaios"
+		birth_date = 1411.11.25
+		dynasty = "Spartenos"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = loose_lips_personality
+	heir = {
+		name = "Damianos"
+		monarch_name = "Damianos"
+		dynasty = "Spartenos"
+		birth_date = 1383.7.1
+		death_date = 1463.7.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_heir_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 12
+	add_treasury = 205
+	add_prestige = 47
+}

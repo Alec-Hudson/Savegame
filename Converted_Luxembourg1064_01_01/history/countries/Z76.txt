@@ -1,0 +1,25 @@
+# Murom
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 1957
+1439.4.13 = {
+	monarch = {
+		name = "Uchva II"
+		birth_date = 1415.1.16
+		dynasty = "Cheremisid"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1957
+	add_treasury = 21
+	add_prestige = 197
+}

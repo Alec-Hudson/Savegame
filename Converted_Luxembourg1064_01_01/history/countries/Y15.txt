@@ -1,0 +1,36 @@
+# Oghuz
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 718
+1434.11.10 = {
+	monarch = {
+		name = "Mustafa II"
+		birth_date = 1412.6.1
+		dynasty = "Oghuz"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Toktamis"
+		monarch_name = "Toktamis"
+		dynasty = "Oghuz"
+		birth_date = 1433.3.24
+		death_date = 1513.3.24
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 11
+	add_prestige = 40
+}

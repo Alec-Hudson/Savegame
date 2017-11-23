@@ -1,0 +1,230 @@
+# Provence
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 153 137 }
+
+
+
+
+leader_names = {
+
+	"John" "Adelia" "Samantha" "Ippolita" "Safia" "Paulina" "Faustus" "Andrew John" "Alvör" "Marcellus" 
+	"Alberico" "Liam" "Rolando" "Claudia" "Flavianus" "Marciana" "Paul" "Aurelio" "Maxwell" "Catone" 
+	"Joscella" "Sergius" "Annibale" "Sergia" "Caesar" "Baby Drew" "Sallustia" "Herculius" "Delinda" "Carla" 
+	"Tarsilla" "Julia" "Crispina" "Severinus" "Alessandra" "Carter" "Abelina" "Martina" "Victorinus" "Aemilian" 
+	"Antonella" "Salvianella" "Regina" "Felicia" "Fausta" "Anne" "Charles" "Andrew" "Rachael" "Lucius" 
+	"Maragret" "Joseph" "Titiana" "Mary" "Steven" "Justiniana" "Kathleen" "Savary" "Constans" "William" 
+	"Germanus" "Randy" "Matthew" "Stephanie" "Raimondo" "Hunter" "Frontina" "Froizza" "Antonia" "Fortunata" 
+	"Stéphanie" "Leonardo" "Luigi" "Natalie" "Beatrice" "Tomasina" "Alighiero" "Amanda" "Caterina" "Aurelia" 
+	"Agrippina" "Alec" "Cécile" "Katie" "Arnolfo" "Carus" "Antonina" "Aemilius" "Aetius" "Albinus" 
+	"Alexander" "Anastasius" "Anicius" "Annius" "Antoninus" "Antonius" "Arcadius" "Aurelian" "Aurelius" "Avitus" 
+	"Belisarius" "Britannicus" "Caecilius" "Carinus" "Cassius" "Claudius" "Clementius" "Constantine" "Constantius" "Cornelius" 
+	"Crassus" "Decimus" "Decius" "Diocletian" "Domitian" "Domitius" "Drusus" "Ennodius" "Fabianus" "Fabius" 
+	"Felix" "Florian" "Gaius" "Galerius" "Gallienus" "Gallus" "Gordian" "Gracchus" "Gratian" "Hadrian" 
+	"Honorius" "Joannes" "Jovian" "Julian" "Julius" "Julius-Caesar" "Junius" "Justin" "Justinian" "Leo" 
+	"Leontius" "Liberius" "Licinius" "Magnus" "Marcellinus" "Marcian" "Marcus" "Marinus" "Marius" "Martinus" 
+	"Maximian" "Maximinus" "Maximus" "Nepotian" "Nerva" "Numerian" "Octavianus" "Octavius" "Otho" "Paulinus" 
+	"Paulus" "Petronius" "Philip" "Pompeius" "Pontianus" "Priscus" "Probus" "Publius" "Quintus" "Romanus" 
+	"Romulus" "Rufinus" "Rutilius" "Sabinianus" "Saturninus" "Sempronius" "Septimius" "Severus" "Sextus" "Symmachus" 
+	"Tacitus" "Theodosius" "Tiberius" "Titius" "Titus" "Trajan" "Urbanus" "Valens" "Valentinian" "Valerian" 
+	"Valerius" "Venantius" "Vespasian" "Victor" "Vigilius" "Vitalianus" "Volusianus" }
+monarch_names = {
+	"John #0" = 1
+	"Adelia #0" = -1
+	"Samantha #0" = -1
+	"Ippolita #0" = -1
+	"Safia #0" = -1
+	"Paulina #0" = -1
+	"Faustus #0" = 1
+	"Andrew John #0" = 1
+	"Alvör #0" = -1
+	"Marcellus #0" = 1
+	"Alberico #0" = 1
+	"Liam #0" = 1
+	"Rolando #0" = 1
+	"Claudia #0" = -1
+	"Flavianus #0" = 1
+	"Marciana #0" = -1
+	"Paul #0" = 1
+	"Aurelio #0" = 1
+	"Maxwell #0" = 1
+	"Catone #0" = 1
+	"Joscella #0" = -1
+	"Sergius #0" = 1
+	"Annibale #0" = 1
+	"Sergia #0" = -1
+	"Caesar #0" = 1
+	"Baby Drew #0" = 1
+	"Sallustia #0" = -1
+	"Herculius #0" = 1
+	"Delinda #0" = -1
+	"Carla #0" = -1
+	"Tarsilla #0" = -1
+	"Julia #0" = -1
+	"Crispina #0" = -1
+	"Severinus #0" = 1
+	"Alessandra #0" = -1
+	"Carter #1" = 18
+	"Abelina #0" = -1
+	"Martina #0" = -1
+	"Victorinus #0" = 1
+	"Aemilian #0" = 1
+	"Antonella #0" = -1
+	"Salvianella #0" = -1
+	"Regina #0" = -1
+	"Felicia #0" = -1
+	"Fausta #0" = -1
+	"Anne #0" = -1
+	"Charles #0" = 1
+	"Andrew #0" = 1
+	"Rachael #0" = -1
+	"Lucius #0" = 1
+	"Maragret #0" = -1
+	"Joseph #1" = 21
+	"Titiana #0" = -1
+	"Mary #0" = -1
+	"Steven #0" = 1
+	"Justiniana #0" = -1
+	"Kathleen #0" = -1
+	"Savary #0" = 1
+	"Constans #0" = 1
+	"William #0" = 1
+	"Germanus #0" = 1
+	"Randy #0" = -1
+	"Matthew #0" = 1
+	"Stephanie #0" = -1
+	"Raimondo #0" = 1
+	"Hunter #0" = 1
+	"Frontina #0" = -1
+	"Froizza #0" = -1
+	"Antonia #0" = -1
+	"Fortunata #0" = -1
+	"Stéphanie #0" = -1
+	"Leonardo #0" = 1
+	"Luigi #0" = 1
+	"Natalie #0" = -1
+	"Beatrice #0" = -1
+	"Tomasina #0" = -1
+	"Alighiero #0" = 1
+	"Amanda #0" = -1
+	"Caterina #0" = -1
+	"Aurelia #0" = -1
+	"Agrippina #0" = -1
+	"Alec #0" = 1
+	"Cécile #0" = -1
+	"Katie #0" = -1
+	"Arnolfo #0" = 1
+	"Carus #0" = 1
+	"Antonina #0" = -1
+	"Aemilius #0" = 0
+	"Aetius #0" = 0
+	"Albinus #0" = 0
+	"Alexander #0" = 0
+	"Anastasius #0" = 0
+	"Anicius #0" = 0
+	"Annius #0" = 0
+	"Antoninus #0" = 0
+	"Antonius #0" = 0
+	"Arcadius #0" = 0
+	"Aurelian #0" = 0
+	"Aurelius #0" = 0
+	"Avitus #0" = 0
+	"Belisarius #0" = 0
+	"Britannicus #0" = 0
+	"Caecilius #0" = 0
+	"Carinus #0" = 0
+	"Cassius #0" = 0
+	"Claudius #0" = 0
+	"Clementius #0" = 0
+	"Constantine #0" = 0
+	"Constantius #0" = 0
+	"Cornelius #0" = 0
+	"Crassus #0" = 0
+	"Decimus #0" = 0
+	"Decius #0" = 0
+	"Diocletian #0" = 0
+	"Domitian #0" = 0
+	"Domitius #0" = 0
+	"Drusus #0" = 0
+	"Ennodius #0" = 0
+	"Fabianus #0" = 0
+	"Fabius #0" = 0
+	"Felix #0" = 0
+	"Florian #0" = 0
+	"Gaius #0" = 0
+	"Galerius #0" = 0
+	"Gallienus #0" = 0
+	"Gallus #0" = 0
+	"Gordian #0" = 0
+	"Gracchus #0" = 0
+	"Gratian #0" = 0
+	"Hadrian #0" = 0
+	"Honorius #0" = 0
+	"Joannes #0" = 0
+	"Jovian #0" = 0
+	"Julian #0" = 0
+	"Julius #0" = 0
+	"Julius-Caesar #0" = 0
+	"Junius #0" = 0
+	"Justin #0" = 0
+	"Justinian #0" = 0
+	"Leo #0" = 0
+	"Leontius #0" = 0
+	"Liberius #0" = 0
+	"Licinius #0" = 0
+	"Magnus #0" = 0
+	"Marcellinus #0" = 0
+	"Marcian #0" = 0
+	"Marcus #0" = 0
+	"Marinus #0" = 0
+	"Marius #0" = 0
+	"Martinus #0" = 0
+	"Maximian #0" = 0
+	"Maximinus #0" = 0
+	"Maximus #0" = 0
+	"Nepotian #0" = 0
+	"Nerva #0" = 0
+	"Numerian #0" = 0
+	"Octavianus #0" = 0
+	"Octavius #0" = 0
+	"Otho #0" = 0
+	"Paulinus #0" = 0
+	"Paulus #0" = 0
+	"Petronius #0" = 0
+	"Philip #0" = 0
+	"Pompeius #0" = 0
+	"Pontianus #0" = 0
+	"Priscus #0" = 0
+	"Probus #0" = 0
+	"Publius #0" = 0
+	"Quintus #0" = 0
+	"Romanus #0" = 0
+	"Romulus #0" = 0
+	"Rufinus #0" = 0
+	"Rutilius #0" = 0
+	"Sabinianus #0" = 0
+	"Saturninus #0" = 0
+	"Sempronius #0" = 0
+	"Septimius #0" = 0
+	"Severus #0" = 0
+	"Sextus #0" = 0
+	"Symmachus #0" = 0
+	"Tacitus #0" = 0
+	"Theodosius #0" = 0
+	"Tiberius #0" = 0
+	"Titius #0" = 0
+	"Titus #0" = 0
+	"Trajan #0" = 0
+	"Urbanus #0" = 0
+	"Valens #0" = 0
+	"Valentinian #0" = 0
+	"Valerian #0" = 0
+	"Valerius #0" = 0
+	"Venantius #0" = 0
+	"Vespasian #0" = 0
+	"Victor #0" = 0
+	"Vigilius #0" = 0
+	"Vitalianus #0" = 0
+	"Volusianus #0" = 0
+}
+

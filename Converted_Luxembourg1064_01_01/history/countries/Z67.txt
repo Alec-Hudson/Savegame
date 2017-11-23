@@ -1,0 +1,25 @@
+# Pskov
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = animism
+clear_scripted_personalities = yes
+capital = 274
+1437.11.24 = {
+	monarch = {
+		name = "Lembit"
+		birth_date = 1418.10.26
+		dynasty = "L‰‰nemaa"
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 274
+	add_treasury = 18
+	add_prestige = 65
+}

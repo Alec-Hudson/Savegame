@@ -1,0 +1,231 @@
+# Connacht
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 73 229 56 }
+historical_idea_groups = { 
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Halfdan" "Sverre" "Egill" "Sigrid" "Ingibjörg" "Gunnhild" "Rolf" "Harald" "Rikissa" "Karin" 
+	"Haldora" "Åse" "Thorborg" "Ingjerðr" "Brigida" "Åmund" "Eldrid" "Svanhild" "Jorunn" "Olav" 
+	"Ivar" "Torolf" "Folki" "Toke" "Ulv" "Þyra" "Martha" "Öysteinn" "Guðröðr" "Helgi" 
+	"Þor" "Sigurðr" "Kettil" "Kolbjörn" "Rögnvaldr" "Karl" "Olafr" "Yngvild" "Oddr" "Sörkver" 
+	"Þorsteinn" "Haraldr" "Ingemar" "Freyja" "Sveinn" "Rögnfrið" "Gyrið" "Linda" "Eskild" "Yrsa" 
+	"Ulfr" "Hæsteinn" "Birgitta" "Þordis" "Alfhildr" "Tjudmund" "Gerðr" "Kraka" "Þora" "Maer" 
+	"Ylva" "Hrörekr" "Botulfr" "Hafrid" "Máel-Muire" "Elisabet" "Bodil" "Gyða" "Beata" "Alvör" 
+	"Elin" "Steinn" "Kjartan" "Þordunn" "Gurli" "Rögnhildr" "Vigleik" "Bersi" "Aleta" "Asta" 
+	"Astrid" "Skuld" "Skofte" "Filip" "Eirikr" "Sofia" "Skule" "Falki" "Hroðulfr" "Halla" 
+	"Ingebjørg" "Ingrid" "Åsta" "Ølver" "Snøfrid" "Arnvid" "Finn" "Þorbrandr" "Guðrun" "Iliana" 
+	"Knut" "Gyrid" "Hrane" "Anund" "Alv" "Arne" "Arnfinn" "Arnkjell" "Arnmod" "Aslak" 
+	"Audun" "Balder" "Bård" "Bjørn" "Eigil" "Eilif" "Einar" "Eirik" "Erlend" "Erling" 
+	"Eystein" "Frej" "Grim" "Gudbrand" "Gudleik" "Gudmund" "Gudrød" "Gunnar" "Guttorm" "Haldor" 
+	"Halkjell" "Helge" "Håkon" "Håvard" "Inge" "Jon" "Kåre" "Kolbein" "Lodin" "Odd" 
+	"Ogmund" "Orm" "Ossor" "Ottar" "Pål" "Ragnar" "Ragnvald" "Sigurd" "Skjalg" "Svein" 
+	"Sämund" "Torbjørn" "Tord" "Tore" "Torbrand" "Torfinn" "Torgeir" "Torgil" "Tormod" "Torstein" 
+	"Trond" "Tryggve" "Åle" "Øystein" }
+monarch_names = {
+	"Halfdan #0" = 1
+	"Sverre #0" = 1
+	"Egill #0" = 1
+	"Sigrid #0" = -1
+	"Ingibjörg #0" = -1
+	"Gunnhild #0" = -1
+	"Rolf #0" = 1
+	"Harald #0" = 1
+	"Rikissa #0" = -1
+	"Karin #0" = -1
+	"Haldora #0" = -1
+	"Åse #0" = -1
+	"Thorborg #0" = -1
+	"Ingjerðr #0" = -1
+	"Brigida #0" = -1
+	"Åmund #0" = 1
+	"Eldrid #0" = -1
+	"Svanhild #0" = -1
+	"Jorunn #0" = -1
+	"Olav #0" = 1
+	"Ivar #0" = 1
+	"Torolf #0" = 1
+	"Folki #0" = 1
+	"Toke #1" = 21
+	"Ulv #1" = 18
+	"Þyra #0" = -1
+	"Martha #0" = -1
+	"Öysteinn #0" = 1
+	"Guðröðr #0" = 1
+	"Helgi #1" = 21
+	"Þor #1" = 21
+	"Sigurðr #0" = 1
+	"Kettil #0" = 1
+	"Kolbjörn #0" = 1
+	"Rögnvaldr #0" = 1
+	"Karl #0" = 1
+	"Olafr #1" = 30
+	"Yngvild #0" = -1
+	"Oddr #1" = 21
+	"Sörkver #1" = 18
+	"Þorsteinn #0" = 1
+	"Haraldr #0" = 1
+	"Ingemar #1" = 21
+	"Freyja #0" = -1
+	"Sveinn #0" = 1
+	"Rögnfrið #0" = -1
+	"Gyrið #0" = -1
+	"Linda #0" = -1
+	"Eskild #0" = 1
+	"Yrsa #0" = -1
+	"Ulfr #0" = 1
+	"Hæsteinn #0" = 1
+	"Birgitta #0" = -1
+	"Þordis #0" = -1
+	"Alfhildr #0" = -1
+	"Tjudmund #0" = 1
+	"Gerðr #0" = -1
+	"Kraka #0" = -1
+	"Þora #0" = -1
+	"Maer #0" = -1
+	"Ylva #0" = -1
+	"Hrörekr #1" = 18
+	"Botulfr #0" = 1
+	"Hafrid #0" = -1
+	"Máel-Muire #0" = -1
+	"Elisabet #0" = -1
+	"Bodil #0" = -1
+	"Gyða #0" = -1
+	"Beata #0" = -1
+	"Alvör #0" = -1
+	"Elin #0" = -1
+	"Steinn #0" = 1
+	"Kjartan #1" = 21
+	"Þordunn #0" = -1
+	"Gurli #0" = -1
+	"Rögnhildr #0" = -1
+	"Vigleik #0" = 1
+	"Bersi #0" = 1
+	"Aleta #0" = -1
+	"Asta #0" = -1
+	"Astrid #0" = -1
+	"Skuld #0" = -1
+	"Skofte #0" = 1
+	"Filip #0" = 1
+	"Eirikr #1" = 18
+	"Sofia #0" = -1
+	"Skule #0" = 1
+	"Falki #0" = 1
+	"Hroðulfr #0" = 1
+	"Halla #0" = -1
+	"Ingebjørg #0" = -1
+	"Ingrid #0" = -1
+	"Åsta #0" = -1
+	"Ølver #0" = 1
+	"Snøfrid #0" = -1
+	"Arnvid #0" = 1
+	"Finn #0" = 1
+	"Þorbrandr #1" = 18
+	"Guðrun #0" = -1
+	"Iliana #0" = -1
+	"Knut #1" = 18
+	"Gyrid #0" = -1
+	"Hrane #1" = 0
+	"Anund #0" = 0
+	"Alv #0" = 0
+	"Arne #0" = 0
+	"Arnfinn #0" = 0
+	"Arnkjell #0" = 0
+	"Arnmod #0" = 0
+	"Aslak #0" = 0
+	"Audun #0" = 0
+	"Balder #0" = 0
+	"Bård #0" = 0
+	"Bjørn #0" = 0
+	"Eigil #0" = 0
+	"Eilif #0" = 0
+	"Einar #0" = 0
+	"Eirik #0" = 0
+	"Erlend #0" = 0
+	"Erling #0" = 0
+	"Eystein #0" = 0
+	"Frej #0" = 0
+	"Grim #0" = 0
+	"Gudbrand #0" = 0
+	"Gudleik #0" = 0
+	"Gudmund #0" = 0
+	"Gudrød #0" = 0
+	"Gunnar #0" = 0
+	"Guttorm #0" = 0
+	"Haldor #0" = 0
+	"Halkjell #0" = 0
+	"Helge #0" = 0
+	"Håkon #0" = 0
+	"Håvard #0" = 0
+	"Inge #0" = 0
+	"Jon #0" = 0
+	"Kåre #0" = 0
+	"Kolbein #0" = 0
+	"Lodin #0" = 0
+	"Odd #0" = 0
+	"Ogmund #0" = 0
+	"Orm #0" = 0
+	"Ossor #0" = 0
+	"Ottar #0" = 0
+	"Pål #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Sigurd #0" = 0
+	"Skjalg #0" = 0
+	"Svein #0" = 0
+	"Sämund #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Tore #0" = 0
+	"Torbrand #0" = 0
+	"Torfinn #0" = 0
+	"Torgeir #0" = 0
+	"Torgil #0" = 0
+	"Tormod #0" = 0
+	"Torstein #0" = 0
+	"Trond #0" = 0
+	"Tryggve #0" = 0
+	"Åle #0" = 0
+	"Øystein #0" = 0
+}
+ship_names = {
+	Aoife
+	Ciara Connacht
+	Eithne Emer
+	Leinster
+	Munster
+	Niamh
+	Orla
+	Roisin
+	Ulster
+}
+

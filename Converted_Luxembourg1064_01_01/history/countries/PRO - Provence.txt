@@ -1,0 +1,26 @@
+# Provence
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = roman
+religion = catholic
+clear_scripted_personalities = yes
+capital = 203
+1429.1.10 = {
+	monarch = {
+		name = "Carter"
+		birth_date = 1393.10.1
+		dynasty = "von Tope"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 203
+	add_treasury = 31
+	add_prestige = 310
+}

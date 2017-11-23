@@ -1,0 +1,187 @@
+# Georgia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 205 145 145 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Smbat" "Shorena" "Bedisa" "Ishkhanik" "Davit" "Eliso" "Ana" "Ioane" "Guliko" "Anzori" 
+	"Padla" "Dzabuli" "Mamia" "Bagrat" "Chito" "Mzekhar" "Sahak" "Tiroc" "Vassak" "Spandiat" 
+	"Varaz-Tiroc" "Manvel" "Ashot" "Vasak" "Adanarse" "Adarnase" "Mara" "Sopi" "Hripsime" "Gurgen" 
+	"Guaram" "Bedros" "Nasra" "Tornik" "Vartanoush" "Sumbat" "Mariyam" "Anna" "Manuel" "Grigor" 
+	"Tamari" "Alitz" "Kakhi" "Yeva" "Hasmig" "Suliko" "Latavri" "Gorandoukht" "Nino" "Eliz" 
+	"Lela" "Konstantine" "Roupen" "Kekela" "Meghranoush" "Ruhollah" "Rita" "Demetre" "Iese" "Zabel" 
+	"Takouhi" "Gabrieli" "Dedika" "Furuzan" "Iveri" "Orbeli" "Khosrov" "Gulchara" "Lamara" "Endzela" 
+	"Mathiko" "Gadar" "Yasaman" "Kvarkvare" "Ferdows" "Elene" "Duda" "Javaneh" "Mariami" "Gogutsa" 
+	"Borena" "Gulisa" "Aghsartan" "Aleksandre" "Andronik" "Archili" "Bakur" "Demna" "Djavakhi" "Erekle" 
+	"Gagiki" "Giorgi" "Grigoli" "Gubaz" "Jarji" "Kaikhosro" "Koba" "Kvirike" "Levan" "Luarsab" 
+	"Malkhazi" "Merab" "Mikheil" "Mukhran" "Nerse" "Nikoloz" "Okhropir" "Samoeli" "Shanshe" "Shota" 
+	"Simon" "Stepanoz" "Teimuraz" "Tornike" "Ushisha" "Vache" "Vakhtang" "Zurab" "Zviad" }
+monarch_names = {
+	"Smbat #0" = 1
+	"Shorena #0" = -1
+	"Bedisa #0" = -1
+	"Ishkhanik #0" = 1
+	"Davit #1" = 24
+	"Eliso #0" = -1
+	"Ana #0" = -1
+	"Ioane #0" = 1
+	"Guliko #0" = -1
+	"Anzori #0" = 1
+	"Padla #1" = 21
+	"Dzabuli #0" = -1
+	"Mamia #1" = 18
+	"Bagrat #2" = 36
+	"Chito #0" = -1
+	"Mzekhar #0" = -1
+	"Sahak #0" = 1
+	"Tiroc #0" = 1
+	"Vassak #0" = 1
+	"Spandiat #0" = 1
+	"Varaz-Tiroc #0" = 1
+	"Manvel #0" = 1
+	"Ashot #1" = 36
+	"Vasak #0" = 1
+	"Adanarse #0" = 1
+	"Adarnase #0" = 1
+	"Mara #0" = -1
+	"Sopi #0" = -1
+	"Hripsime #0" = -1
+	"Gurgen #0" = 1
+	"Guaram #1" = 21
+	"Bedros #0" = 1
+	"Nasra #0" = 1
+	"Tornik #0" = 1
+	"Vartanoush #0" = -1
+	"Sumbat #2" = 24
+	"Mariyam #0" = -1
+	"Anna #0" = -1
+	"Manuel #0" = 1
+	"Grigor #0" = 1
+	"Tamari #0" = -1
+	"Alitz #0" = -1
+	"Kakhi #0" = 1
+	"Yeva #0" = -1
+	"Hasmig #0" = -1
+	"Suliko #0" = -1
+	"Latavri #0" = -1
+	"Gorandoukht #0" = -1
+	"Nino #0" = -1
+	"Eliz #0" = -1
+	"Lela #0" = -1
+	"Konstantine #1" = 18
+	"Roupen #0" = 1
+	"Kekela #0" = -1
+	"Meghranoush #0" = -1
+	"Ruhollah #0" = 1
+	"Rita #0" = -1
+	"Demetre #0" = 1
+	"Iese #0" = 1
+	"Zabel #0" = -1
+	"Takouhi #0" = -1
+	"Gabrieli #0" = 1
+	"Dedika #0" = -1
+	"Furuzan #0" = -1
+	"Iveri #0" = 1
+	"Orbeli #0" = 1
+	"Khosrov #0" = 1
+	"Gulchara #0" = -1
+	"Lamara #0" = -1
+	"Endzela #0" = -1
+	"Mathiko #0" = -1
+	"Gadar #0" = -1
+	"Yasaman #0" = -1
+	"Kvarkvare #0" = 1
+	"Ferdows #0" = 1
+	"Elene #0" = -1
+	"Duda #0" = -1
+	"Javaneh #0" = -1
+	"Mariami #0" = -1
+	"Gogutsa #0" = -1
+	"Borena #0" = -1
+	"Gulisa #0" = -1
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Archili #0" = 0
+	"Bakur #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Gubaz #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Koba #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Stepanoz #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Vache #0" = 0
+	"Vakhtang #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+}
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
+}
+

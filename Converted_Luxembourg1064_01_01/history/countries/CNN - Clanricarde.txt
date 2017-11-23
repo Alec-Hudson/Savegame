@@ -1,0 +1,36 @@
+# Connacht
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = animism
+clear_scripted_personalities = yes
+capital = 22
+1435.2.18 = {
+	monarch = {
+		name = "Ulv"
+		birth_date = 1393.5.24
+		dynasty = "Yngling"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Toke"
+		monarch_name = "Toke II"
+		dynasty = "Yngling"
+		birth_date = 1394.12.1
+		death_date = 1474.12.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 22
+	add_treasury = -1
+	add_prestige = 77
+}

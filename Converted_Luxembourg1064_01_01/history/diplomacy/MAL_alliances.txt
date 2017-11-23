@@ -1,0 +1,12 @@
+vassal = {
+	first = MAL
+	second = SON
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = MAL
+	second = Z91
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

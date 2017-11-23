@@ -1,0 +1,37 @@
+# Kantalahti
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = finnish
+religion = animism
+clear_scripted_personalities = yes
+capital = 1776
+1438.7.14 = {
+	monarch = {
+		name = "Aatso"
+		birth_date = 1395.10.11
+		dynasty = "Jaakkola"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1439.11.19 = {
+	heir = {
+		name = "Ensio"
+		monarch_name = "Ensio"
+		dynasty = "Jaakkola"
+		birth_date = 1439.11.19
+		death_date = 1519.11.19
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1776
+	add_treasury = 3
+	add_prestige = 112
+}

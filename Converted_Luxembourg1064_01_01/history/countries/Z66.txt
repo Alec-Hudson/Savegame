@@ -1,0 +1,26 @@
+# Rus
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = animism
+clear_scripted_personalities = yes
+capital = 1753
+1425.11.28 = {
+	monarch = {
+		name = "Yaroslav"
+		birth_date = 1400.7.1
+		dynasty = "Seversky"
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 1753
+	add_treasury = 44
+	add_prestige = 187
+}

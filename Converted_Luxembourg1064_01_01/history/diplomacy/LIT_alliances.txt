@@ -1,0 +1,24 @@
+vassal = {
+	first = LIT
+	second = Z56
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = LIT
+	second = Z57
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = LIT
+	second = Z58
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = LIT
+	second = Z59
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

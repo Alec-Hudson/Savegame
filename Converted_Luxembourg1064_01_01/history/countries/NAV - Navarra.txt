@@ -1,0 +1,25 @@
+# Navarra
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = basque
+religion = shiite
+clear_scripted_personalities = yes
+capital = 210
+1440.5.24 = {
+	monarch = {
+		name = "Rodericho"
+		birth_date = 1429.2.3
+		dynasty = "Qasid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 210
+	add_treasury = 37
+	add_prestige = 112
+}

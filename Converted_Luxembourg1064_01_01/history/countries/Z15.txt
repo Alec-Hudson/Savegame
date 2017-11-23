@@ -1,0 +1,26 @@
+# Cherson
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2410
+1426.11.25 = {
+	monarch = {
+		name = "Tryphon III"
+		birth_date = 1409.7.3
+		dynasty = "Euforbenos"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2410
+	add_treasury = 11
+	add_prestige = 35
+}

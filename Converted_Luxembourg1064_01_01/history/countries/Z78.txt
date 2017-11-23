@@ -1,0 +1,39 @@
+# Abbasid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4268
+1388.8.23 = {
+	monarch = {
+		name = "Shahbaz"
+		birth_date = 1380.7.1
+		dynasty = "Abbasid"
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1397.12.1 = {
+	heir = {
+		name = "Fereedun"
+		monarch_name = "Fereedun"
+		dynasty = "Abbasid"
+		birth_date = 1397.12.1
+		death_date = 1477.12.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 4268
+	add_treasury = 57
+	add_prestige = 1039
+}

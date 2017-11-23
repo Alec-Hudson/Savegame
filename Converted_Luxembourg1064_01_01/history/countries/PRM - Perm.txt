@@ -1,0 +1,26 @@
+# Perm
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 1964
+1431.9.8 = {
+	monarch = {
+		name = "Nishkepaz II"
+		birth_date = 1393.6.1
+		dynasty = "Cheremisid"
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1964
+	add_treasury = 14
+	add_prestige = 141
+}

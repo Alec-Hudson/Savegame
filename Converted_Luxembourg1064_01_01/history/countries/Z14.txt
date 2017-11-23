@@ -1,0 +1,26 @@
+# Kartli
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4303
+1414.4.12 = {
+	monarch = {
+		name = "Gennadios"
+		birth_date = 1404.8.12
+		dynasty = "Makedon"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4303
+	add_treasury = 155
+	add_prestige = 262
+}

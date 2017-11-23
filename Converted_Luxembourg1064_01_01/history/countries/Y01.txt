@@ -1,0 +1,23 @@
+# Harikela
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+capital = 564
+1442.3.21 = {
+	monarch = {
+		name = "Bhairav Singh"
+		birth_date = 1437.8.3
+		dynasty = "Harikela"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 564
+	add_treasury = 15
+	add_prestige = 32
+}

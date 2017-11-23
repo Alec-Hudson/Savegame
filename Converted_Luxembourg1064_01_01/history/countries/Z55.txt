@@ -1,0 +1,38 @@
+# Litomerice
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 1771
+1437.5.7 = {
+	monarch = {
+		name = "Gniewomir"
+		birth_date = 1419.6.20
+		dynasty = "Kujawski"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1439.10.13 = {
+	heir = {
+		name = "Gniewomir"
+		monarch_name = "Gniewomir"
+		dynasty = "Kujawski"
+		birth_date = 1439.10.13
+		death_date = 1519.10.13
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1771
+	add_treasury = 90
+	add_prestige = 28
+}
